@@ -8,6 +8,8 @@ tar_option_set(packages = c("tidyverse"),
 
 
 dir.create(here::here("output-data"), showWarnings = F)
+dir.create(here::here("tables"), showWarnings = F)
+dir.create(here::here("figures"), showWarnings = F)
 
 my_list <- list(
   cex_factory(),

@@ -50,3 +50,7 @@ rsconnect/
 
 # Project specific files
 data-raw/
+prepared-data/
+figures/
+tables/
+_targets/

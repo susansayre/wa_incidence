@@ -17,6 +17,8 @@ The main functions used in the analysis are included in the individual R scripts
 ## Downloading and preparing input data
 The analysis relies on several large publicly available datasets. The utility script `R/prepare_input_data.R` is used to help construct input files for the main analysis from these files. Before running this script, users should download the following files and place them in the described locations. Once the files have been downloaded, run `source("R/prepare_input_data.R")`. This will create a subfolder called `prepared-data` that will be used in the actual analysis.
 
+Additional files will be downloaded to this folder in the process of creating the figures.
+
 Download the following files from the CEX and place them in data-raw/cex
 https://www.bls.gov/cex/pumd/data/comma/intrvw12.zip
 https://www.bls.gov/cex/pumd/data/comma/intrvw13.zip
@@ -48,17 +50,9 @@ https://data-bpagis.hub.arcgis.com/maps/bpa-customeriou
 In addition to the files described above, the analysis relies on other input files included in the replication archive subfolder `data/`. These files are documented in [data/README.md](data/README.md).
 
 ## Runing the pipeline
-Once the package is installed and the main data has been downloaded/prepared, the user can run the analysis with the command `targets::tar_make()`. The first time through is time intensive and the resulting _targets folder is fairly large.
+Once the package is installed and the main data has been downloaded/prepared, the user can run the analysis with the command `targets::tar_make()`. The first time through is time intensive and the resulting `_targets` folder is fairly large.
 
-*Note:* The code in the replication archive is set to skip the steps of fitting the spending functions and constructing the synthetic household samples. Instead, it will use the previously fitted model and synthetic datasets bundled in the replication archive. 
-- To refit the models, set `reuse = F` in the call to `fit_factory` near the beginning of the `_targets.R` file.
-- To reconstruct the synthetic datasets, set `use_existing = F` in the calls to `rake_factory()` in the `_targets.R` file.
-
-Calling `targets::tar_make()` after making either of these changes so will refit all of the machine learning models and/or re-construct the synthetic household sample. It will then reconstruct any targets that depend on the changed files. Manually re-run `source("R/figs_for_paper.R")` and `source("R/votes_tract.R")` to reconstruct the figures/tables with the new results.
-
-When running the pipeline, several warnings will appear:
-
-- xgboost will warn you about loading serialized versions of the model. Best practice is now to save xgboost models using xgb.save but this is not easily accomplished using the `caret` package. For the purposes of this paper, the current method works but users adapting this code later may want to explore better methods of saving the files and later versions of xgboost may not be able to use the previously fitted models.
+When running the pipeline, xgboost will issue warnings about loading serialized versions of the model. Best practice is now to save xgboost models using xgb.save but this is not easily accomplished using the `caret` package. For the purposes of this paper, the current method works but users adapting this code later may want to explore better methods of saving the files and later versions of xgboost may not be able to use the previously fitted models.
 
 ## Working with results
 The `_targets/objects` folder contains a list of target names that were stored by targets. To store the list in a dataframe that can be inspected, run `obj_list <- targets::tar_meta()`. Any of the objects can be loaded by calling `targets::tar_read(objectname)`
@@ -67,3 +61,13 @@ The `_targets/objects` folder contains a list of target names that were stored b
 
 `source("R/figs_for_paper.R")`
 `source("R/votes_tract.R")`
+
+*Note:* The map creation relies on the `tmap` package which as of July 2023 had not yet migrated away from reliance on the soon-to-be-archived `sp` package. Future users might need to construct maps differently.
+
+## Archived results
+*Note:* The code in the replication archive is set to skip the steps of fitting the spending functions and constructing the synthetic household samples. Instead, it will use the previously fitted model and synthetic datasets bundled in the replication archive. 
+
+- To refit the models, set `reuse = F` in the call to `fit_factory` near the beginning of the `_targets.R` file.
+- To reconstruct the synthetic datasets, set `use_existing = F` in the calls to `rake_factory()` in the `_targets.R` file.
+
+Calling `targets::tar_make()` after making either of these changes so will refit all of the machine learning models and/or re-construct the synthetic household sample. It will then reconstruct any targets that depend on the changed files. Manually re-run `source("R/figs_for_paper.R")` and `source("R/votes_tract.R")` to reconstruct the figures/tables with the new results.
