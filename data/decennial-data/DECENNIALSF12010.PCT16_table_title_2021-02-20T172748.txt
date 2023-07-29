@@ -1,0 +1,12 @@
+PCT16
+HOUSEHOLD TYPE BY NUMBER OF PEOPLE UNDER 18 YEARS (EXCLUDING HOUSEHOLDERS, SPOUSES, AND UNMARRIED PARTNERS)
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see <a href="http://www.census.gov/prod/cen2010/doc/sf1.pdf"> http://www.census.gov/prod/cen2010/doc/sf1.pdf</a>.
+
+Source: U.S. Census Bureau, 2010 Census.
+
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see <a href="http://www.census.gov/prod/cen2010/doc/sf1.pdf"> http://www.census.gov/prod/cen2010/doc/sf1.pdf</a>.
+
+<p>NOTE:  "Families" consist of a householder and one or more other people related to the householder by birth, marriage, or adoption.  They do not include same-sex married couples even if the marriage was performed in a state issuing marriage certificates for same-sex couples.  Same-sex couples are included in the families category if there is at least one additional person related to the householder by birth or adoption. Responses of "same-sex spouse" were edited during processing to "unmarried partner."  Same-sex couple households with no relatives of the householder present are tabulated in nonfamily households.</p>
+
+Source: U.S. Census Bureau, 2010 Census.
+

@@ -1,0 +1,1447 @@
+"county","tract","cbsa13","cntyname","cbsaname","pop10","afact"
+"County code","Tract","cbsa13","County name","2013 CBSA name","Total population (2010)","tract to cbsa13 allocation factor"
+"53001","9501.00","36830","Adams WA","Othello, WA (Micro)",2447,1 
+"53001","9502.00","36830","Adams WA","Othello, WA (Micro)",1738,1 
+"53001","9503.00","36830","Adams WA","Othello, WA (Micro)",6934,1 
+"53001","9504.00","36830","Adams WA","Othello, WA (Micro)",2856,1 
+"53001","9505.00","36830","Adams WA","Othello, WA (Micro)",4753,1 
+"53003","9601.00","30300","Asotin WA","Lewiston, ID-WA (Metro)",4304,1 
+"53003","9602.00","30300","Asotin WA","Lewiston, ID-WA (Metro)",4542,1 
+"53003","9603.00","30300","Asotin WA","Lewiston, ID-WA (Metro)",3775,1 
+"53003","9604.00","30300","Asotin WA","Lewiston, ID-WA (Metro)",2165,1 
+"53003","9605.00","30300","Asotin WA","Lewiston, ID-WA (Metro)",3424,1 
+"53003","9606.00","30300","Asotin WA","Lewiston, ID-WA (Metro)",3413,1 
+"53005","0101.00","28420","Benton WA","Kennewick-Richland, WA (Metro)",4448,1 
+"53005","0102.01","28420","Benton WA","Kennewick-Richland, WA (Metro)",4295,1 
+"53005","0102.02","28420","Benton WA","Kennewick-Richland, WA (Metro)",6060,1 
+"53005","0103.00","28420","Benton WA","Kennewick-Richland, WA (Metro)",5010,1 
+"53005","0104.00","28420","Benton WA","Kennewick-Richland, WA (Metro)",3617,1 
+"53005","0105.00","28420","Benton WA","Kennewick-Richland, WA (Metro)",3022,1 
+"53005","0106.00","28420","Benton WA","Kennewick-Richland, WA (Metro)",4296,1 
+"53005","0107.01","28420","Benton WA","Kennewick-Richland, WA (Metro)",2138,1 
+"53005","0107.03","28420","Benton WA","Kennewick-Richland, WA (Metro)",2803,1 
+"53005","0107.05","28420","Benton WA","Kennewick-Richland, WA (Metro)",5268,1 
+"53005","0107.07","28420","Benton WA","Kennewick-Richland, WA (Metro)",2491,1 
+"53005","0107.08","28420","Benton WA","Kennewick-Richland, WA (Metro)",2440,1 
+"53005","0108.03","28420","Benton WA","Kennewick-Richland, WA (Metro)",6690,1 
+"53005","0108.05","28420","Benton WA","Kennewick-Richland, WA (Metro)",5917,1 
+"53005","0108.07","28420","Benton WA","Kennewick-Richland, WA (Metro)",1082,1 
+"53005","0108.09","28420","Benton WA","Kennewick-Richland, WA (Metro)",6015,1 
+"53005","0108.10","28420","Benton WA","Kennewick-Richland, WA (Metro)",4548,1 
+"53005","0108.11","28420","Benton WA","Kennewick-Richland, WA (Metro)",3100,1 
+"53005","0108.13","28420","Benton WA","Kennewick-Richland, WA (Metro)",9288,1 
+"53005","0108.14","28420","Benton WA","Kennewick-Richland, WA (Metro)",2844,1 
+"53005","0109.01","28420","Benton WA","Kennewick-Richland, WA (Metro)",6177,1 
+"53005","0109.02","28420","Benton WA","Kennewick-Richland, WA (Metro)",4907,1 
+"53005","0110.01","28420","Benton WA","Kennewick-Richland, WA (Metro)",4975,1 
+"53005","0110.02","28420","Benton WA","Kennewick-Richland, WA (Metro)",4475,1 
+"53005","0111.00","28420","Benton WA","Kennewick-Richland, WA (Metro)",7365,1 
+"53005","0112.00","28420","Benton WA","Kennewick-Richland, WA (Metro)",8552,1 
+"53005","0113.00","28420","Benton WA","Kennewick-Richland, WA (Metro)",5067,1 
+"53005","0114.01","28420","Benton WA","Kennewick-Richland, WA (Metro)",3810,1 
+"53005","0114.02","28420","Benton WA","Kennewick-Richland, WA (Metro)",5016,1 
+"53005","0115.01","28420","Benton WA","Kennewick-Richland, WA (Metro)",6740,1 
+"53005","0115.03","28420","Benton WA","Kennewick-Richland, WA (Metro)",9380,1 
+"53005","0115.04","28420","Benton WA","Kennewick-Richland, WA (Metro)",2975,1 
+"53005","0116.00","28420","Benton WA","Kennewick-Richland, WA (Metro)",931,1 
+"53005","0117.00","28420","Benton WA","Kennewick-Richland, WA (Metro)",7076,1 
+"53005","0118.00","28420","Benton WA","Kennewick-Richland, WA (Metro)",6546,1 
+"53005","0119.00","28420","Benton WA","Kennewick-Richland, WA (Metro)",5808,1 
+"53005","0120.00","28420","Benton WA","Kennewick-Richland, WA (Metro)",5,1 
+"53007","9601.00","48300","Chelan WA","Wenatchee, WA (Metro)",2369,1 
+"53007","9602.00","48300","Chelan WA","Wenatchee, WA (Metro)",6251,1 
+"53007","9603.00","48300","Chelan WA","Wenatchee, WA (Metro)",6396,1 
+"53007","9604.00","48300","Chelan WA","Wenatchee, WA (Metro)",3813,1 
+"53007","9605.00","48300","Chelan WA","Wenatchee, WA (Metro)",6831,1 
+"53007","9606.00","48300","Chelan WA","Wenatchee, WA (Metro)",4064,1 
+"53007","9607.00","48300","Chelan WA","Wenatchee, WA (Metro)",3455,1 
+"53007","9608.01","48300","Chelan WA","Wenatchee, WA (Metro)",2666,1 
+"53007","9608.02","48300","Chelan WA","Wenatchee, WA (Metro)",7202,1 
+"53007","9610.00","48300","Chelan WA","Wenatchee, WA (Metro)",6800,1 
+"53007","9611.00","48300","Chelan WA","Wenatchee, WA (Metro)",9596,1 
+"53007","9612.00","48300","Chelan WA","Wenatchee, WA (Metro)",3762,1 
+"53007","9613.01","48300","Chelan WA","Wenatchee, WA (Metro)",1327,1 
+"53007","9613.02","48300","Chelan WA","Wenatchee, WA (Metro)",7921,1 
+"53009","0002.00","38820","Clallam WA","Port Angeles, WA (Micro)",1783,1 
+"53009","0003.00","38820","Clallam WA","Port Angeles, WA (Micro)",4695,1 
+"53009","0004.00","38820","Clallam WA","Port Angeles, WA (Micro)",1758,1 
+"53009","0006.00","38820","Clallam WA","Port Angeles, WA (Micro)",3370,1 
+"53009","0007.00","38820","Clallam WA","Port Angeles, WA (Micro)",3534,1 
+"53009","0008.00","38820","Clallam WA","Port Angeles, WA (Micro)",4181,1 
+"53009","0009.00","38820","Clallam WA","Port Angeles, WA (Micro)",2806,1 
+"53009","0010.00","38820","Clallam WA","Port Angeles, WA (Micro)",2477,1 
+"53009","0011.00","38820","Clallam WA","Port Angeles, WA (Micro)",2969,1 
+"53009","0012.00","38820","Clallam WA","Port Angeles, WA (Micro)",3771,1 
+"53009","0013.00","38820","Clallam WA","Port Angeles, WA (Micro)",3090,1 
+"53009","0014.00","38820","Clallam WA","Port Angeles, WA (Micro)",4510,1 
+"53009","0015.00","38820","Clallam WA","Port Angeles, WA (Micro)",2072,1 
+"53009","0016.00","38820","Clallam WA","Port Angeles, WA (Micro)",3164,1 
+"53009","0017.00","38820","Clallam WA","Port Angeles, WA (Micro)",4670,1 
+"53009","0018.00","38820","Clallam WA","Port Angeles, WA (Micro)",2739,1 
+"53009","0019.00","38820","Clallam WA","Port Angeles, WA (Micro)",5693,1 
+"53009","0020.00","38820","Clallam WA","Port Angeles, WA (Micro)",5202,1 
+"53009","0021.00","38820","Clallam WA","Port Angeles, WA (Micro)",3523,1 
+"53009","0023.00","38820","Clallam WA","Port Angeles, WA (Micro)",3983,1 
+"53009","9400.00","38820","Clallam WA","Port Angeles, WA (Micro)",1414,1 
+"53011","0401.01","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",5154,1 
+"53011","0401.02","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3590,1 
+"53011","0402.01","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",5670,1 
+"53011","0402.02","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3658,1 
+"53011","0402.03","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",5442,1 
+"53011","0403.01","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",1471,1 
+"53011","0403.02","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",6256,1 
+"53011","0404.03","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3848,1 
+"53011","0404.07","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",5343,1 
+"53011","0404.08","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3454,1 
+"53011","0404.09","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",1834,1 
+"53011","0404.11","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",1874,1 
+"53011","0404.12","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",4333,1 
+"53011","0404.13","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",2707,1 
+"53011","0404.14","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",5935,1 
+"53011","0404.15","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3839,1 
+"53011","0404.16","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3199,1 
+"53011","0405.04","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",4883,1 
+"53011","0405.05","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",5584,1 
+"53011","0405.07","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",1998,1 
+"53011","0405.08","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",6310,1 
+"53011","0405.09","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",2990,1 
+"53011","0405.10","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",5032,1 
+"53011","0405.11","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",2188,1 
+"53011","0406.03","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",4683,1 
+"53011","0406.04","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",5486,1 
+"53011","0406.05","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",4680,1 
+"53011","0406.08","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3817,1 
+"53011","0406.09","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",4508,1 
+"53011","0406.10","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3193,1 
+"53011","0407.03","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",6384,1 
+"53011","0407.06","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3702,1 
+"53011","0407.07","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3245,1 
+"53011","0407.09","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",4196,1 
+"53011","0407.10","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",4705,1 
+"53011","0407.11","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3098,1 
+"53011","0407.12","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",5413,1 
+"53011","0408.03","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",5035,1 
+"53011","0408.05","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",5735,1 
+"53011","0408.06","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",4611,1 
+"53011","0408.08","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",1605,1 
+"53011","0408.09","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",6176,1 
+"53011","0408.10","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",2728,1 
+"53011","0409.04","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",5797,1 
+"53011","0409.05","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3157,1 
+"53011","0409.07","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",4661,1 
+"53011","0409.08","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",6161,1 
+"53011","0409.09","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",5088,1 
+"53011","0409.10","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",4369,1 
+"53011","0410.03","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3968,1 
+"53011","0410.05","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",2370,1 
+"53011","0410.07","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3066,1 
+"53011","0410.08","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3754,1 
+"53011","0410.09","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3578,1 
+"53011","0410.10","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3385,1 
+"53011","0410.11","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",2994,1 
+"53011","0411.04","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3799,1 
+"53011","0411.05","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",5206,1 
+"53011","0411.07","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",2504,1 
+"53011","0411.08","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",6626,1 
+"53011","0411.10","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",5849,1 
+"53011","0411.11","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3096,1 
+"53011","0411.12","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",5249,1 
+"53011","0412.01","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",6339,1 
+"53011","0412.03","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",4543,1 
+"53011","0412.05","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",4649,1 
+"53011","0412.06","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",5535,1 
+"53011","0413.09","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",4802,1 
+"53011","0413.10","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",4746,1 
+"53011","0413.12","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",4038,1 
+"53011","0413.13","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",2534,1 
+"53011","0413.17","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",4080,1 
+"53011","0413.18","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",4733,1 
+"53011","0413.19","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",6022,1 
+"53011","0413.20","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",5941,1 
+"53011","0413.21","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",2808,1 
+"53011","0413.22","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",4386,1 
+"53011","0413.23","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",5458,1 
+"53011","0413.25","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",5059,1 
+"53011","0413.26","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",2499,1 
+"53011","0413.27","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",8381,1 
+"53011","0413.28","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",5558,1 
+"53011","0413.29","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3951,1 
+"53011","0413.30","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",4436,1 
+"53011","0413.31","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",2565,1 
+"53011","0413.32","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3622,1 
+"53011","0413.33","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3270,1 
+"53011","0414.00","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",5075,1 
+"53011","0415.00","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",2732,1 
+"53011","0416.00","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3603,1 
+"53011","0417.00","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3919,1 
+"53011","0418.00","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",4037,1 
+"53011","0419.00","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",2056,1 
+"53011","0420.00","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",1603,1 
+"53011","0421.00","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3155,1 
+"53011","0423.00","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",2858,1 
+"53011","0424.00","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",1995,1 
+"53011","0425.00","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",1176,1 
+"53011","0426.00","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",4653,1 
+"53011","0427.00","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",4320,1 
+"53011","0428.00","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",2772,1 
+"53011","0429.00","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",1545,1 
+"53011","0430.00","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",1756,1 
+"53011","0431.00","38900","Clark WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",3884,1 
+"53013","9602.00","47460","Columbia WA","Walla Walla, WA (Metro)",4078,1 
+"53015","0003.00","31020","Cowlitz WA","Longview, WA (Metro)",509,1 
+"53015","0004.00","31020","Cowlitz WA","Longview, WA (Metro)",3612,1 
+"53015","0005.01","31020","Cowlitz WA","Longview, WA (Metro)",2826,1 
+"53015","0005.02","31020","Cowlitz WA","Longview, WA (Metro)",4858,1 
+"53015","0006.01","31020","Cowlitz WA","Longview, WA (Metro)",3867,1 
+"53015","0006.02","31020","Cowlitz WA","Longview, WA (Metro)",3017,1 
+"53015","0007.02","31020","Cowlitz WA","Longview, WA (Metro)",3079,1 
+"53015","0007.03","31020","Cowlitz WA","Longview, WA (Metro)",1601,1 
+"53015","0007.04","31020","Cowlitz WA","Longview, WA (Metro)",7029,1 
+"53015","0008.00","31020","Cowlitz WA","Longview, WA (Metro)",6727,1 
+"53015","0009.00","31020","Cowlitz WA","Longview, WA (Metro)",7008,1 
+"53015","0010.00","31020","Cowlitz WA","Longview, WA (Metro)",1226,1 
+"53015","0011.00","31020","Cowlitz WA","Longview, WA (Metro)",5856,1 
+"53015","0012.00","31020","Cowlitz WA","Longview, WA (Metro)",4386,1 
+"53015","0013.00","31020","Cowlitz WA","Longview, WA (Metro)",3606,1 
+"53015","0015.01","31020","Cowlitz WA","Longview, WA (Metro)",3005,1 
+"53015","0015.02","31020","Cowlitz WA","Longview, WA (Metro)",7918,1 
+"53015","0016.00","31020","Cowlitz WA","Longview, WA (Metro)",6330,1 
+"53015","0017.00","31020","Cowlitz WA","Longview, WA (Metro)",5169,1 
+"53015","0018.00","31020","Cowlitz WA","Longview, WA (Metro)",1689,1 
+"53015","0019.00","31020","Cowlitz WA","Longview, WA (Metro)",5118,1 
+"53015","0020.01","31020","Cowlitz WA","Longview, WA (Metro)",3609,1 
+"53015","0020.02","31020","Cowlitz WA","Longview, WA (Metro)",6062,1 
+"53015","0021.00","31020","Cowlitz WA","Longview, WA (Metro)",4303,1 
+"53017","9501.00","48300","Douglas WA","Wenatchee, WA (Metro)",6499,1 
+"53017","9502.00","48300","Douglas WA","Wenatchee, WA (Metro)",2224,1 
+"53017","9503.00","48300","Douglas WA","Wenatchee, WA (Metro)",6057,1 
+"53017","9504.00","48300","Douglas WA","Wenatchee, WA (Metro)",6392,1 
+"53017","9505.00","48300","Douglas WA","Wenatchee, WA (Metro)",3264,1 
+"53017","9506.00","48300","Douglas WA","Wenatchee, WA (Metro)",4453,1 
+"53017","9507.00","48300","Douglas WA","Wenatchee, WA (Metro)",4350,1 
+"53017","9508.00","48300","Douglas WA","Wenatchee, WA (Metro)",5192,1 
+"53019","9400.00"," ","Ferry WA"," ",1731,1 
+"53019","9701.00"," ","Ferry WA"," ",2694,1 
+"53019","9702.00"," ","Ferry WA"," ",3126,1 
+"53021","0201.00","28420","Franklin WA","Kennewick-Richland, WA (Metro)",9654,1 
+"53021","0202.00","28420","Franklin WA","Kennewick-Richland, WA (Metro)",6021,1 
+"53021","0203.00","28420","Franklin WA","Kennewick-Richland, WA (Metro)",5727,1 
+"53021","0204.00","28420","Franklin WA","Kennewick-Richland, WA (Metro)",9393,1 
+"53021","0205.01","28420","Franklin WA","Kennewick-Richland, WA (Metro)",4668,1 
+"53021","0205.02","28420","Franklin WA","Kennewick-Richland, WA (Metro)",8403,1 
+"53021","0206.01","28420","Franklin WA","Kennewick-Richland, WA (Metro)",7412,1 
+"53021","0206.03","28420","Franklin WA","Kennewick-Richland, WA (Metro)",3907,1 
+"53021","0206.05","28420","Franklin WA","Kennewick-Richland, WA (Metro)",6786,1 
+"53021","0206.06","28420","Franklin WA","Kennewick-Richland, WA (Metro)",6484,1 
+"53021","0207.00","28420","Franklin WA","Kennewick-Richland, WA (Metro)",1412,1 
+"53021","0208.00","28420","Franklin WA","Kennewick-Richland, WA (Metro)",8296,1 
+"53023","9703.00"," ","Garfield WA"," ",2266,1 
+"53025","0101.00","34180","Grant WA","Moses Lake, WA (Micro)",3638,1 
+"53025","0102.00","34180","Grant WA","Moses Lake, WA (Micro)",2965,1 
+"53025","0103.00","34180","Grant WA","Moses Lake, WA (Micro)",4095,1 
+"53025","0104.00","34180","Grant WA","Moses Lake, WA (Micro)",8040,1 
+"53025","0105.00","34180","Grant WA","Moses Lake, WA (Micro)",2963,1 
+"53025","0106.00","34180","Grant WA","Moses Lake, WA (Micro)",6848,1 
+"53025","0107.00","34180","Grant WA","Moses Lake, WA (Micro)",2755,1 
+"53025","0108.00","34180","Grant WA","Moses Lake, WA (Micro)",4709,1 
+"53025","0109.01","34180","Grant WA","Moses Lake, WA (Micro)",1306,1 
+"53025","0109.02","34180","Grant WA","Moses Lake, WA (Micro)",9912,1 
+"53025","0110.00","34180","Grant WA","Moses Lake, WA (Micro)",11087,1 
+"53025","0111.00","34180","Grant WA","Moses Lake, WA (Micro)",7029,1 
+"53025","0112.00","34180","Grant WA","Moses Lake, WA (Micro)",4965,1 
+"53025","0113.00","34180","Grant WA","Moses Lake, WA (Micro)",3938,1 
+"53025","0114.01","34180","Grant WA","Moses Lake, WA (Micro)",1845,1 
+"53025","0114.02","34180","Grant WA","Moses Lake, WA (Micro)",13025,1 
+"53027","0002.00","10140","Grays Harbor WA","Aberdeen, WA (Micro)",7599,1 
+"53027","0003.00","10140","Grays Harbor WA","Aberdeen, WA (Micro)",3334,1 
+"53027","0004.00","10140","Grays Harbor WA","Aberdeen, WA (Micro)",6773,1 
+"53027","0005.00","10140","Grays Harbor WA","Aberdeen, WA (Micro)",6803,1 
+"53027","0006.00","10140","Grays Harbor WA","Aberdeen, WA (Micro)",3667,1 
+"53027","0007.00","10140","Grays Harbor WA","Aberdeen, WA (Micro)",4538,1 
+"53027","0008.00","10140","Grays Harbor WA","Aberdeen, WA (Micro)",4055,1 
+"53027","0009.00","10140","Grays Harbor WA","Aberdeen, WA (Micro)",6252,1 
+"53027","0010.00","10140","Grays Harbor WA","Aberdeen, WA (Micro)",3600,1 
+"53027","0011.00","10140","Grays Harbor WA","Aberdeen, WA (Micro)",4284,1 
+"53027","0012.00","10140","Grays Harbor WA","Aberdeen, WA (Micro)",4448,1 
+"53027","0013.00","10140","Grays Harbor WA","Aberdeen, WA (Micro)",3563,1 
+"53027","0014.00","10140","Grays Harbor WA","Aberdeen, WA (Micro)",2096,1 
+"53027","0015.00","10140","Grays Harbor WA","Aberdeen, WA (Micro)",3906,1 
+"53027","0016.00","10140","Grays Harbor WA","Aberdeen, WA (Micro)",6661,1 
+"53027","9400.00","10140","Grays Harbor WA","Aberdeen, WA (Micro)",1218,1 
+"53029","9701.00","36020","Island WA","Oak Harbor, WA (Micro)",2604,1 
+"53029","9702.00","36020","Island WA","Oak Harbor, WA (Micro)",1633,1 
+"53029","9703.00","36020","Island WA","Oak Harbor, WA (Micro)",4989,1 
+"53029","9704.00","36020","Island WA","Oak Harbor, WA (Micro)",6131,1 
+"53029","9705.00","36020","Island WA","Oak Harbor, WA (Micro)",5494,1 
+"53029","9706.01","36020","Island WA","Oak Harbor, WA (Micro)",3186,1 
+"53029","9706.02","36020","Island WA","Oak Harbor, WA (Micro)",3291,1 
+"53029","9707.00","36020","Island WA","Oak Harbor, WA (Micro)",1922,1 
+"53029","9708.00","36020","Island WA","Oak Harbor, WA (Micro)",2706,1 
+"53029","9709.00","36020","Island WA","Oak Harbor, WA (Micro)",4801,1 
+"53029","9710.00","36020","Island WA","Oak Harbor, WA (Micro)",4776,1 
+"53029","9711.00","36020","Island WA","Oak Harbor, WA (Micro)",3289,1 
+"53029","9713.00","36020","Island WA","Oak Harbor, WA (Micro)",4393,1 
+"53029","9714.00","36020","Island WA","Oak Harbor, WA (Micro)",4400,1 
+"53029","9715.00","36020","Island WA","Oak Harbor, WA (Micro)",3394,1 
+"53029","9716.00","36020","Island WA","Oak Harbor, WA (Micro)",3817,1 
+"53029","9717.00","36020","Island WA","Oak Harbor, WA (Micro)",4050,1 
+"53029","9718.00","36020","Island WA","Oak Harbor, WA (Micro)",2452,1 
+"53029","9719.00","36020","Island WA","Oak Harbor, WA (Micro)",3750,1 
+"53029","9720.00","36020","Island WA","Oak Harbor, WA (Micro)",3938,1 
+"53029","9721.00","36020","Island WA","Oak Harbor, WA (Micro)",3490,1 
+"53031","9502.02"," ","Jefferson WA"," ",1816,1 
+"53031","9503.00"," ","Jefferson WA"," ",6148,1 
+"53031","9504.00"," ","Jefferson WA"," ",3944,1 
+"53031","9505.00"," ","Jefferson WA"," ",6514,1 
+"53031","9506.01"," ","Jefferson WA"," ",6299,1 
+"53031","9506.02"," ","Jefferson WA"," ",3020,1 
+"53031","9507.02"," ","Jefferson WA"," ",2131,1 
+"53033","0001.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6255,1 
+"53033","0002.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7646,1 
+"53033","0003.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2603,1 
+"53033","0004.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5551,1 
+"53033","0004.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4841,1 
+"53033","0005.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3165,1 
+"53033","0006.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7626,1 
+"53033","0007.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4438,1 
+"53033","0008.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2583,1 
+"53033","0009.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2019,1 
+"53033","0010.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",1941,1 
+"53033","0011.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2503,1 
+"53033","0012.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6494,1 
+"53033","0013.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4340,1 
+"53033","0014.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4848,1 
+"53033","0015.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2454,1 
+"53033","0016.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4131,1 
+"53033","0017.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3818,1 
+"53033","0017.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4234,1 
+"53033","0018.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4535,1 
+"53033","0019.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4157,1 
+"53033","0020.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3406,1 
+"53033","0021.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3807,1 
+"53033","0022.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5286,1 
+"53033","0024.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2972,1 
+"53033","0025.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2802,1 
+"53033","0026.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4660,1 
+"53033","0027.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5289,1 
+"53033","0028.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4481,1 
+"53033","0029.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4177,1 
+"53033","0030.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5637,1 
+"53033","0031.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6219,1 
+"53033","0032.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7683,1 
+"53033","0033.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6224,1 
+"53033","0034.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3302,1 
+"53033","0035.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3936,1 
+"53033","0036.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5672,1 
+"53033","0038.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2058,1 
+"53033","0039.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2772,1 
+"53033","0040.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2690,1 
+"53033","0041.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7789,1 
+"53033","0042.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7618,1 
+"53033","0043.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3531,1 
+"53033","0043.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3518,1 
+"53033","0044.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6260,1 
+"53033","0045.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2676,1 
+"53033","0046.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3251,1 
+"53033","0047.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6739,1 
+"53033","0048.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4539,1 
+"53033","0049.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6139,1 
+"53033","0050.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3600,1 
+"53033","0051.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3662,1 
+"53033","0052.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6076,1 
+"53033","0053.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7085,1 
+"53033","0053.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5706,1 
+"53033","0054.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4948,1 
+"53033","0056.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6382,1 
+"53033","0057.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6001,1 
+"53033","0058.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4743,1 
+"53033","0058.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5059,1 
+"53033","0059.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6836,1 
+"53033","0060.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5150,1 
+"53033","0061.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4796,1 
+"53033","0062.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3848,1 
+"53033","0063.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4962,1 
+"53033","0064.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3207,1 
+"53033","0065.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4157,1 
+"53033","0066.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3540,1 
+"53033","0067.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6544,1 
+"53033","0068.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2834,1 
+"53033","0069.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4080,1 
+"53033","0070.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6959,1 
+"53033","0071.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3055,1 
+"53033","0072.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5318,1 
+"53033","0073.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4668,1 
+"53033","0074.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4115,1 
+"53033","0074.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4921,1 
+"53033","0075.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6282,1 
+"53033","0076.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3498,1 
+"53033","0077.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4476,1 
+"53033","0078.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5145,1 
+"53033","0079.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5147,1 
+"53033","0080.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5588,1 
+"53033","0080.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3013,1 
+"53033","0081.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4070,1 
+"53033","0082.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3280,1 
+"53033","0083.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2505,1 
+"53033","0084.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3760,1 
+"53033","0085.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4341,1 
+"53033","0086.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5055,1 
+"53033","0087.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3843,1 
+"53033","0088.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3503,1 
+"53033","0089.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4829,1 
+"53033","0090.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2925,1 
+"53033","0091.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2508,1 
+"53033","0092.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2825,1 
+"53033","0093.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2354,1 
+"53033","0094.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5700,1 
+"53033","0095.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5906,1 
+"53033","0096.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5252,1 
+"53033","0097.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5290,1 
+"53033","0097.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5173,1 
+"53033","0098.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6198,1 
+"53033","0099.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4787,1 
+"53033","0100.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3769,1 
+"53033","0100.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4313,1 
+"53033","0101.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6553,1 
+"53033","0102.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4835,1 
+"53033","0103.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5940,1 
+"53033","0104.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4432,1 
+"53033","0104.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4669,1 
+"53033","0105.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6342,1 
+"53033","0106.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7310,1 
+"53033","0107.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3385,1 
+"53033","0107.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3679,1 
+"53033","0108.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4596,1 
+"53033","0109.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",1287,1 
+"53033","0110.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4534,1 
+"53033","0110.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4479,1 
+"53033","0111.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4390,1 
+"53033","0111.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4419,1 
+"53033","0112.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3906,1 
+"53033","0113.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5984,1 
+"53033","0114.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4027,1 
+"53033","0114.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4174,1 
+"53033","0115.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4191,1 
+"53033","0116.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6413,1 
+"53033","0117.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5538,1 
+"53033","0118.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7383,1 
+"53033","0119.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7108,1 
+"53033","0120.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3349,1 
+"53033","0121.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2681,1 
+"53033","0201.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3156,1 
+"53033","0202.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5566,1 
+"53033","0203.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6434,1 
+"53033","0204.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3426,1 
+"53033","0204.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5368,1 
+"53033","0205.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6327,1 
+"53033","0206.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3661,1 
+"53033","0207.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3569,1 
+"53033","0208.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4309,1 
+"53033","0209.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3240,1 
+"53033","0210.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5594,1 
+"53033","0211.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4125,1 
+"53033","0213.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3759,1 
+"53033","0214.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3690,1 
+"53033","0215.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4294,1 
+"53033","0216.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4513,1 
+"53033","0217.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7681,1 
+"53033","0218.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5401,1 
+"53033","0218.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4348,1 
+"53033","0218.04","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4374,1 
+"53033","0219.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5695,1 
+"53033","0219.04","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5043,1 
+"53033","0219.05","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4950,1 
+"53033","0219.06","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3911,1 
+"53033","0220.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4738,1 
+"53033","0220.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5031,1 
+"53033","0220.05","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4725,1 
+"53033","0220.06","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3686,1 
+"53033","0221.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4734,1 
+"53033","0221.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5871,1 
+"53033","0222.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4268,1 
+"53033","0222.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7073,1 
+"53033","0222.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4865,1 
+"53033","0223.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2681,1 
+"53033","0224.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7935,1 
+"53033","0225.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7143,1 
+"53033","0226.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5324,1 
+"53033","0226.04","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4233,1 
+"53033","0226.05","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5410,1 
+"53033","0226.06","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5430,1 
+"53033","0227.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2546,1 
+"53033","0227.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3729,1 
+"53033","0227.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2373,1 
+"53033","0228.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",8314,1 
+"53033","0228.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4791,1 
+"53033","0228.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4987,1 
+"53033","0229.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2924,1 
+"53033","0229.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6299,1 
+"53033","0230.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5190,1 
+"53033","0231.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3792,1 
+"53033","0232.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6223,1 
+"53033","0232.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4345,1 
+"53033","0233.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6217,1 
+"53033","0234.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3546,1 
+"53033","0234.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3888,1 
+"53033","0234.04","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3321,1 
+"53033","0235.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3667,1 
+"53033","0236.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3812,1 
+"53033","0236.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5963,1 
+"53033","0236.04","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5838,1 
+"53033","0237.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3971,1 
+"53033","0238.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2536,1 
+"53033","0238.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3501,1 
+"53033","0238.04","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3646,1 
+"53033","0239.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6924,1 
+"53033","0240.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7612,1 
+"53033","0241.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4379,1 
+"53033","0242.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2953,1 
+"53033","0243.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7255,1 
+"53033","0244.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2885,1 
+"53033","0245.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4595,1 
+"53033","0246.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4302,1 
+"53033","0246.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3662,1 
+"53033","0247.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3598,1 
+"53033","0247.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7058,1 
+"53033","0248.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5668,1 
+"53033","0249.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5017,1 
+"53033","0249.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3795,1 
+"53033","0249.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6864,1 
+"53033","0250.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4635,1 
+"53033","0250.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6817,1 
+"53033","0250.05","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4645,1 
+"53033","0250.06","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5088,1 
+"53033","0251.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5797,1 
+"53033","0251.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7456,1 
+"53033","0252.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7929,1 
+"53033","0253.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5004,1 
+"53033","0253.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4366,1 
+"53033","0254.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6925,1 
+"53033","0255.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4841,1 
+"53033","0256.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4941,1 
+"53033","0256.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5474,1 
+"53033","0257.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5545,1 
+"53033","0257.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3495,1 
+"53033","0258.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4676,1 
+"53033","0258.04","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3714,1 
+"53033","0258.05","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4551,1 
+"53033","0258.06","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4954,1 
+"53033","0260.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5274,1 
+"53033","0260.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7911,1 
+"53033","0261.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6712,1 
+"53033","0262.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4998,1 
+"53033","0263.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",1626,1 
+"53033","0264.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5745,1 
+"53033","0265.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3459,1 
+"53033","0266.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2306,1 
+"53033","0267.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5472,1 
+"53033","0268.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5385,1 
+"53033","0268.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4906,1 
+"53033","0270.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3489,1 
+"53033","0271.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3431,1 
+"53033","0272.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2558,1 
+"53033","0273.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6327,1 
+"53033","0274.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5421,1 
+"53033","0275.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4718,1 
+"53033","0276.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4648,1 
+"53033","0277.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5679,1 
+"53033","0277.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4945,1 
+"53033","0278.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3290,1 
+"53033","0279.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6514,1 
+"53033","0280.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3366,1 
+"53033","0281.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2477,1 
+"53033","0282.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4718,1 
+"53033","0283.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4580,1 
+"53033","0284.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5097,1 
+"53033","0284.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4986,1 
+"53033","0285.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3847,1 
+"53033","0286.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6214,1 
+"53033","0287.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5055,1 
+"53033","0288.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3095,1 
+"53033","0288.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6128,1 
+"53033","0289.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3368,1 
+"53033","0289.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6495,1 
+"53033","0290.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4230,1 
+"53033","0290.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5466,1 
+"53033","0290.04","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3751,1 
+"53033","0291.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2990,1 
+"53033","0291.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4329,1 
+"53033","0292.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3537,1 
+"53033","0292.04","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6666,1 
+"53033","0292.05","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4602,1 
+"53033","0292.06","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3853,1 
+"53033","0293.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7517,1 
+"53033","0293.04","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4836,1 
+"53033","0293.05","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3914,1 
+"53033","0293.06","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3283,1 
+"53033","0293.07","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3883,1 
+"53033","0294.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5535,1 
+"53033","0294.05","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5861,1 
+"53033","0294.06","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5004,1 
+"53033","0294.07","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4885,1 
+"53033","0294.08","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4376,1 
+"53033","0295.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6780,1 
+"53033","0295.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7896,1 
+"53033","0295.04","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5292,1 
+"53033","0296.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7153,1 
+"53033","0296.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5462,1 
+"53033","0297.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7056,1 
+"53033","0298.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7914,1 
+"53033","0298.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",8969,1 
+"53033","0299.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4823,1 
+"53033","0299.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4427,1 
+"53033","0300.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5877,1 
+"53033","0300.04","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",8055,1 
+"53033","0300.05","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5530,1 
+"53033","0300.06","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3736,1 
+"53033","0301.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7323,1 
+"53033","0302.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5327,1 
+"53033","0302.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6484,1 
+"53033","0303.04","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2987,1 
+"53033","0303.05","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4906,1 
+"53033","0303.06","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5681,1 
+"53033","0303.08","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6266,1 
+"53033","0303.09","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5730,1 
+"53033","0303.10","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5551,1 
+"53033","0303.11","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5034,1 
+"53033","0303.12","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4736,1 
+"53033","0303.13","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3612,1 
+"53033","0303.14","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3795,1 
+"53033","0304.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",8134,1 
+"53033","0304.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4270,1 
+"53033","0304.04","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4208,1 
+"53033","0305.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",1686,1 
+"53033","0305.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4181,1 
+"53033","0305.04","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4484,1 
+"53033","0306.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5331,1 
+"53033","0307.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3796,1 
+"53033","0308.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6575,1 
+"53033","0308.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3683,1 
+"53033","0309.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3606,1 
+"53033","0309.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5605,1 
+"53033","0310.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3347,1 
+"53033","0311.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6718,1 
+"53033","0312.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6401,1 
+"53033","0312.04","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6038,1 
+"53033","0312.05","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6673,1 
+"53033","0312.06","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4877,1 
+"53033","0313.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2487,1 
+"53033","0313.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4371,1 
+"53033","0314.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5780,1 
+"53033","0315.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3616,1 
+"53033","0315.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3876,1 
+"53033","0316.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5134,1 
+"53033","0316.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5728,1 
+"53033","0316.04","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4797,1 
+"53033","0316.05","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3589,1 
+"53033","0317.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6649,1 
+"53033","0317.04","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5539,1 
+"53033","0317.05","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3744,1 
+"53033","0317.06","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6310,1 
+"53033","0318.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4777,1 
+"53033","0319.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6411,1 
+"53033","0319.04","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3329,1 
+"53033","0319.06","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3594,1 
+"53033","0319.07","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7399,1 
+"53033","0319.08","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4266,1 
+"53033","0319.09","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3037,1 
+"53033","0320.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2906,1 
+"53033","0320.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4754,1 
+"53033","0320.05","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6457,1 
+"53033","0320.06","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4275,1 
+"53033","0320.07","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3457,1 
+"53033","0320.08","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4090,1 
+"53033","0320.10","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5175,1 
+"53033","0320.11","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4117,1 
+"53033","0321.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4546,1 
+"53033","0321.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4280,1 
+"53033","0321.04","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6033,1 
+"53033","0322.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6638,1 
+"53033","0322.07","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3254,1 
+"53033","0322.08","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7936,1 
+"53033","0322.10","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",10572,1 
+"53033","0322.11","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4803,1 
+"53033","0322.12","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",7787,1 
+"53033","0322.13","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4376,1 
+"53033","0322.14","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6264,1 
+"53033","0322.15","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4629,1 
+"53033","0323.07","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6368,1 
+"53033","0323.09","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5212,1 
+"53033","0323.11","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5837,1 
+"53033","0323.13","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5576,1 
+"53033","0323.15","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5256,1 
+"53033","0323.16","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5495,1 
+"53033","0323.17","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6038,1 
+"53033","0323.18","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5646,1 
+"53033","0323.19","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4703,1 
+"53033","0323.20","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4205,1 
+"53033","0323.21","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",4959,1 
+"53033","0323.22","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3344,1 
+"53033","0323.23","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5483,1 
+"53033","0323.24","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5053,1 
+"53033","0323.25","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5791,1 
+"53033","0323.26","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3762,1 
+"53033","0323.27","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3834,1 
+"53033","0323.28","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",3245,1 
+"53033","0323.29","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6599,1 
+"53033","0324.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5859,1 
+"53033","0324.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6010,1 
+"53033","0325.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",5237,1 
+"53033","0326.01","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2785,1 
+"53033","0326.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",11041,1 
+"53033","0327.02","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6545,1 
+"53033","0327.03","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2020,1 
+"53033","0327.04","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",6014,1 
+"53033","0328.00","42660","King WA","Seattle-Tacoma-Bellevue, WA (Metro)",2851,1 
+"53035","0801.01","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",2417,1 
+"53035","0801.02","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",4615,1 
+"53035","0802.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",3511,1 
+"53035","0803.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",3149,1 
+"53035","0804.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",3361,1 
+"53035","0805.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",2900,1 
+"53035","0806.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",4921,1 
+"53035","0807.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",3236,1 
+"53035","0808.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",1921,1 
+"53035","0809.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",4430,1 
+"53035","0810.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",3652,1 
+"53035","0811.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",2897,1 
+"53035","0812.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",3017,1 
+"53035","0814.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",3513,1 
+"53035","0901.01","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",5611,1 
+"53035","0901.02","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",5781,1 
+"53035","0902.01","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",4573,1 
+"53035","0902.02","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",5079,1 
+"53035","0903.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",6054,1 
+"53035","0904.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",4574,1 
+"53035","0905.01","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",3955,1 
+"53035","0905.02","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",4559,1 
+"53035","0907.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",5183,1 
+"53035","0908.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",4169,1 
+"53035","0909.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",7032,1 
+"53035","0910.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",6641,1 
+"53035","0911.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",4866,1 
+"53035","0912.01","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",3886,1 
+"53035","0912.03","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",7182,1 
+"53035","0912.04","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",3135,1 
+"53035","0913.01","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",4327,1 
+"53035","0913.02","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",5609,1 
+"53035","0914.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",3093,1 
+"53035","0915.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",3968,1 
+"53035","0916.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",6356,1 
+"53035","0917.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",7944,1 
+"53035","0918.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",2944,1 
+"53035","0919.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",4160,1 
+"53035","0920.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",5683,1 
+"53035","0921.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",6565,1 
+"53035","0922.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",6804,1 
+"53035","0923.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",6123,1 
+"53035","0924.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",6029,1 
+"53035","0925.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",5609,1 
+"53035","0926.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",6035,1 
+"53035","0927.01","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",4639,1 
+"53035","0927.04","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",3215,1 
+"53035","0928.01","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",4311,1 
+"53035","0928.02","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",4395,1 
+"53035","0928.03","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",2788,1 
+"53035","0929.01","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",5645,1 
+"53035","0929.02","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",5422,1 
+"53035","9400.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",3500,1 
+"53035","9401.00","14740","Kitsap WA","Bremerton-Silverdale, WA (Metro)",6149,1 
+"53037","9751.00","21260","Kittitas WA","Ellensburg, WA (Micro)",6339,1 
+"53037","9752.00","21260","Kittitas WA","Ellensburg, WA (Micro)",5238,1 
+"53037","9753.00","21260","Kittitas WA","Ellensburg, WA (Micro)",4359,1 
+"53037","9754.01","21260","Kittitas WA","Ellensburg, WA (Micro)",7501,1 
+"53037","9754.02","21260","Kittitas WA","Ellensburg, WA (Micro)",4855,1 
+"53037","9755.00","21260","Kittitas WA","Ellensburg, WA (Micro)",5753,1 
+"53037","9756.00","21260","Kittitas WA","Ellensburg, WA (Micro)",2615,1 
+"53037","9757.00","21260","Kittitas WA","Ellensburg, WA (Micro)",4255,1 
+"53039","9501.00"," ","Klickitat WA"," ",8325,1 
+"53039","9502.00"," ","Klickitat WA"," ",4224,1 
+"53039","9503.00"," ","Klickitat WA"," ",7769,1 
+"53041","9701.00","16500","Lewis WA","Centralia, WA (Micro)",3379,1 
+"53041","9702.00","16500","Lewis WA","Centralia, WA (Micro)",3248,1 
+"53041","9703.00","16500","Lewis WA","Centralia, WA (Micro)",4973,1 
+"53041","9704.00","16500","Lewis WA","Centralia, WA (Micro)",5703,1 
+"53041","9705.00","16500","Lewis WA","Centralia, WA (Micro)",2099,1 
+"53041","9706.00","16500","Lewis WA","Centralia, WA (Micro)",2005,1 
+"53041","9707.00","16500","Lewis WA","Centralia, WA (Micro)",4184,1 
+"53041","9708.00","16500","Lewis WA","Centralia, WA (Micro)",4109,1 
+"53041","9709.00","16500","Lewis WA","Centralia, WA (Micro)",1799,1 
+"53041","9710.00","16500","Lewis WA","Centralia, WA (Micro)",2949,1 
+"53041","9711.00","16500","Lewis WA","Centralia, WA (Micro)",3819,1 
+"53041","9712.00","16500","Lewis WA","Centralia, WA (Micro)",3303,1 
+"53041","9713.00","16500","Lewis WA","Centralia, WA (Micro)",5571,1 
+"53041","9714.00","16500","Lewis WA","Centralia, WA (Micro)",2608,1 
+"53041","9715.00","16500","Lewis WA","Centralia, WA (Micro)",7092,1 
+"53041","9716.00","16500","Lewis WA","Centralia, WA (Micro)",3945,1 
+"53041","9717.00","16500","Lewis WA","Centralia, WA (Micro)",4652,1 
+"53041","9718.00","16500","Lewis WA","Centralia, WA (Micro)",4175,1 
+"53041","9719.00","16500","Lewis WA","Centralia, WA (Micro)",2931,1 
+"53041","9720.00","16500","Lewis WA","Centralia, WA (Micro)",2911,1 
+"53043","9601.00"," ","Lincoln WA"," ",1743,1 
+"53043","9602.00"," ","Lincoln WA"," ",3115,1 
+"53043","9603.00"," ","Lincoln WA"," ",2714,1 
+"53043","9604.00"," ","Lincoln WA"," ",2998,1 
+"53045","9400.00","43220","Mason WA","Shelton, WA (Micro)",730,1 
+"53045","9601.00","43220","Mason WA","Shelton, WA (Micro)",724,1 
+"53045","9602.00","43220","Mason WA","Shelton, WA (Micro)",5743,1 
+"53045","9603.00","43220","Mason WA","Shelton, WA (Micro)",6144,1 
+"53045","9604.00","43220","Mason WA","Shelton, WA (Micro)",8817,1 
+"53045","9605.00","43220","Mason WA","Shelton, WA (Micro)",4888,1 
+"53045","9606.00","43220","Mason WA","Shelton, WA (Micro)",5429,1 
+"53045","9607.00","43220","Mason WA","Shelton, WA (Micro)",1754,1 
+"53045","9608.00","43220","Mason WA","Shelton, WA (Micro)",4014,1 
+"53045","9609.00","43220","Mason WA","Shelton, WA (Micro)",4794,1 
+"53045","9610.00","43220","Mason WA","Shelton, WA (Micro)",4852,1 
+"53045","9611.00","43220","Mason WA","Shelton, WA (Micro)",5791,1 
+"53045","9612.00","43220","Mason WA","Shelton, WA (Micro)",3743,1 
+"53045","9613.00","43220","Mason WA","Shelton, WA (Micro)",3276,1 
+"53047","9401.00"," ","Okanogan WA"," ",2825,1 
+"53047","9402.00"," ","Okanogan WA"," ",3129,1 
+"53047","9703.00"," ","Okanogan WA"," ",7308,1 
+"53047","9704.00"," ","Okanogan WA"," ",3717,1 
+"53047","9705.00"," ","Okanogan WA"," ",2321,1 
+"53047","9706.00"," ","Okanogan WA"," ",6714,1 
+"53047","9707.00"," ","Okanogan WA"," ",4286,1 
+"53047","9708.00"," ","Okanogan WA"," ",4930,1 
+"53047","9709.00"," ","Okanogan WA"," ",2220,1 
+"53047","9710.00"," ","Okanogan WA"," ",3670,1 
+"53049","9502.00"," ","Pacific WA"," ",4267,1 
+"53049","9503.00"," ","Pacific WA"," ",3625,1 
+"53049","9504.00"," ","Pacific WA"," ",3921,1 
+"53049","9505.00"," ","Pacific WA"," ",2475,1 
+"53049","9506.00"," ","Pacific WA"," ",1263,1 
+"53049","9507.00"," ","Pacific WA"," ",2995,1 
+"53049","9508.00"," ","Pacific WA"," ",2374,1 
+"53051","9701.00","44060","Pend Oreille WA","Spokane-Spokane Valley, WA (Metro)",2099,1 
+"53051","9702.00","44060","Pend Oreille WA","Spokane-Spokane Valley, WA (Metro)",2649,1 
+"53051","9703.00","44060","Pend Oreille WA","Spokane-Spokane Valley, WA (Metro)",3300,1 
+"53051","9704.00","44060","Pend Oreille WA","Spokane-Spokane Valley, WA (Metro)",2682,1 
+"53051","9705.00","44060","Pend Oreille WA","Spokane-Spokane Valley, WA (Metro)",2271,1 
+"53053","0602.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",1928,1 
+"53053","0603.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4106,1 
+"53053","0604.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3896,1 
+"53053","0605.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3923,1 
+"53053","0606.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5262,1 
+"53053","0607.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",6523,1 
+"53053","0608.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4940,1 
+"53053","0609.03","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3043,1 
+"53053","0609.04","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5015,1 
+"53053","0609.05","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",6359,1 
+"53053","0609.06","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",2045,1 
+"53053","0610.01","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3791,1 
+"53053","0610.02","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4187,1 
+"53053","0611.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",6200,1 
+"53053","0612.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4968,1 
+"53053","0613.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4808,1 
+"53053","0614.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4442,1 
+"53053","0615.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4742,1 
+"53053","0616.01","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",1824,1 
+"53053","0616.02","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",956,1 
+"53053","0617.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4578,1 
+"53053","0618.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",2880,1 
+"53053","0619.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",1961,1 
+"53053","0620.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4228,1 
+"53053","0623.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5244,1 
+"53053","0624.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5471,1 
+"53053","0625.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",7073,1 
+"53053","0626.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",2977,1 
+"53053","0628.01","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",6130,1 
+"53053","0628.02","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4112,1 
+"53053","0629.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",7365,1 
+"53053","0630.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",2956,1 
+"53053","0631.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4270,1 
+"53053","0632.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4855,1 
+"53053","0633.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",7857,1 
+"53053","0634.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",7592,1 
+"53053","0635.01","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4164,1 
+"53053","0635.02","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5179,1 
+"53053","0701.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3406,1 
+"53053","0702.03","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5203,1 
+"53053","0702.04","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3598,1 
+"53053","0702.05","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3458,1 
+"53053","0702.06","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4172,1 
+"53053","0702.07","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4948,1 
+"53053","0703.07","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4876,1 
+"53053","0703.08","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3782,1 
+"53053","0703.09","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5601,1 
+"53053","0703.10","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5178,1 
+"53053","0703.11","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4624,1 
+"53053","0703.12","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4869,1 
+"53053","0703.13","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",6029,1 
+"53053","0703.14","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",2880,1 
+"53053","0703.15","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4597,1 
+"53053","0703.16","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5207,1 
+"53053","0704.01","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",2046,1 
+"53053","0704.03","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3693,1 
+"53053","0704.04","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4465,1 
+"53053","0707.03","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",6065,1 
+"53053","0711.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",2362,1 
+"53053","0712.05","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4668,1 
+"53053","0712.06","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",6589,1 
+"53053","0712.07","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5671,1 
+"53053","0712.08","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",7128,1 
+"53053","0712.09","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4205,1 
+"53053","0712.10","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4515,1 
+"53053","0713.04","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5895,1 
+"53053","0713.05","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3705,1 
+"53053","0713.06","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",6166,1 
+"53053","0713.07","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4629,1 
+"53053","0713.09","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4335,1 
+"53053","0713.10","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4571,1 
+"53053","0714.03","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3994,1 
+"53053","0714.06","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",6126,1 
+"53053","0714.07","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",6632,1 
+"53053","0714.08","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4005,1 
+"53053","0714.09","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4409,1 
+"53053","0714.10","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5724,1 
+"53053","0714.11","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4725,1 
+"53053","0715.03","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5115,1 
+"53053","0715.04","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5539,1 
+"53053","0715.05","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5202,1 
+"53053","0715.06","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5314,1 
+"53053","0716.01","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4920,1 
+"53053","0716.02","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",7355,1 
+"53053","0717.03","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3670,1 
+"53053","0717.04","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4360,1 
+"53053","0717.05","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3768,1 
+"53053","0717.06","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",1909,1 
+"53053","0717.07","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",2853,1 
+"53053","0718.03","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5254,1 
+"53053","0718.05","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3625,1 
+"53053","0718.06","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4213,1 
+"53053","0718.07","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3480,1 
+"53053","0718.08","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3920,1 
+"53053","0719.01","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4713,1 
+"53053","0719.02","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5183,1 
+"53053","0720.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4779,1 
+"53053","0721.05","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5230,1 
+"53053","0721.06","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5921,1 
+"53053","0721.07","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4197,1 
+"53053","0721.08","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5648,1 
+"53053","0721.09","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3468,1 
+"53053","0721.11","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",2514,1 
+"53053","0721.12","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4369,1 
+"53053","0723.05","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5903,1 
+"53053","0723.07","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4357,1 
+"53053","0723.08","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",6886,1 
+"53053","0723.09","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5892,1 
+"53053","0723.10","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3803,1 
+"53053","0723.11","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4231,1 
+"53053","0723.12","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5612,1 
+"53053","0723.13","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3797,1 
+"53053","0724.05","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4107,1 
+"53053","0724.06","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5831,1 
+"53053","0724.07","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4790,1 
+"53053","0724.08","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5919,1 
+"53053","0724.09","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",2510,1 
+"53053","0724.10","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3633,1 
+"53053","0725.03","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4186,1 
+"53053","0725.04","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4638,1 
+"53053","0725.05","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",6904,1 
+"53053","0725.06","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3438,1 
+"53053","0725.07","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",2643,1 
+"53053","0726.01","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5235,1 
+"53053","0726.02","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3898,1 
+"53053","0726.03","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",6462,1 
+"53053","0728.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",8267,1 
+"53053","0729.01","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",2507,1 
+"53053","0729.03","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",2716,1 
+"53053","0729.05","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5214,1 
+"53053","0729.06","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",1392,1 
+"53053","0729.07","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4679,1 
+"53053","0730.01","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",6082,1 
+"53053","0730.05","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5431,1 
+"53053","0730.06","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3828,1 
+"53053","0731.08","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",7451,1 
+"53053","0731.10","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3864,1 
+"53053","0731.11","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4346,1 
+"53053","0731.13","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",6364,1 
+"53053","0731.14","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5610,1 
+"53053","0731.15","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4449,1 
+"53053","0731.16","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3352,1 
+"53053","0731.17","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3791,1 
+"53053","0731.18","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4601,1 
+"53053","0731.19","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3154,1 
+"53053","0731.20","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3412,1 
+"53053","0731.21","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4708,1 
+"53053","0731.22","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4392,1 
+"53053","0731.23","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4549,1 
+"53053","0731.24","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",2793,1 
+"53053","0731.25","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",9584,1 
+"53053","0731.26","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3616,1 
+"53053","0732.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",6220,1 
+"53053","0733.01","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5467,1 
+"53053","0733.02","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4033,1 
+"53053","0734.04","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",6099,1 
+"53053","0734.05","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3649,1 
+"53053","0734.06","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4775,1 
+"53053","0734.07","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3608,1 
+"53053","0734.08","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4124,1 
+"53053","0735.00","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",7030,1 
+"53053","9400.01","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",2760,1 
+"53053","9400.02","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3945,1 
+"53053","9400.03","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",6790,1 
+"53053","9400.04","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",6504,1 
+"53053","9400.05","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5839,1 
+"53053","9400.06","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",2447,1 
+"53053","9400.07","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3150,1 
+"53053","9400.08","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",5902,1 
+"53053","9400.09","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",2845,1 
+"53053","9400.10","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",3985,1 
+"53053","9400.11","42660","Pierce WA","Seattle-Tacoma-Bellevue, WA (Metro)",4106,1 
+"53055","9601.00"," ","San Juan WA"," ",5354,1 
+"53055","9603.00"," ","San Juan WA"," ",4761,1 
+"53055","9604.00"," ","San Juan WA"," ",2901,1 
+"53055","9605.00"," ","San Juan WA"," ",2753,1 
+"53057","9402.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",2181,1 
+"53057","9403.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",4880,1 
+"53057","9404.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",6839,1 
+"53057","9405.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",2467,1 
+"53057","9406.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",1530,1 
+"53057","9407.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",1562,1 
+"53057","9408.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",3010,1 
+"53057","9501.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",873,1 
+"53057","9508.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",6015,1 
+"53057","9509.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",4071,1 
+"53057","9510.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",2821,1 
+"53057","9511.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",4715,1 
+"53057","9512.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",2989,1 
+"53057","9513.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",1853,1 
+"53057","9514.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",4029,1 
+"53057","9515.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",9326,1 
+"53057","9516.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",4352,1 
+"53057","9517.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",3689,1 
+"53057","9518.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",4418,1 
+"53057","9519.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",3519,1 
+"53057","9521.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",3310,1 
+"53057","9522.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",4144,1 
+"53057","9523.01","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",4562,1 
+"53057","9523.02","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",8722,1 
+"53057","9524.01","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",2831,1 
+"53057","9524.02","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",7408,1 
+"53057","9525.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",3290,1 
+"53057","9526.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",3821,1 
+"53057","9527.00","34580","Skagit WA","Mount Vernon-Anacortes, WA (Metro)",3674,1 
+"53059","9501.00","38900","Skamania WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",98,1 
+"53059","9502.00","38900","Skamania WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",4264,1 
+"53059","9503.00","38900","Skamania WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",2010,1 
+"53059","9504.00","38900","Skamania WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",2234,1 
+"53059","9505.00","38900","Skamania WA","Portland-Vancouver-Hillsboro, OR-WA (Metro)",2460,1 
+"53061","0401.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5382,1 
+"53061","0402.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5925,1 
+"53061","0403.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",2937,1 
+"53061","0404.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",3867,1 
+"53061","0405.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",2402,1 
+"53061","0407.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4726,1 
+"53061","0408.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",2418,1 
+"53061","0409.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",2810,1 
+"53061","0410.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5380,1 
+"53061","0411.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4570,1 
+"53061","0412.01","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",3439,1 
+"53061","0412.02","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5791,1 
+"53061","0413.01","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5117,1 
+"53061","0413.03","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4502,1 
+"53061","0413.04","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",2870,1 
+"53061","0414.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5534,1 
+"53061","0415.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",1396,1 
+"53061","0416.01","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5498,1 
+"53061","0416.05","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5826,1 
+"53061","0416.06","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5287,1 
+"53061","0416.07","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",3657,1 
+"53061","0416.08","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",6264,1 
+"53061","0417.01","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4359,1 
+"53061","0417.03","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5039,1 
+"53061","0417.04","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5024,1 
+"53061","0418.05","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5573,1 
+"53061","0418.06","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",7971,1 
+"53061","0418.08","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4114,1 
+"53061","0418.09","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5007,1 
+"53061","0418.10","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5035,1 
+"53061","0418.11","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",6403,1 
+"53061","0418.12","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5550,1 
+"53061","0419.01","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4073,1 
+"53061","0419.03","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",6981,1 
+"53061","0419.04","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5600,1 
+"53061","0419.05","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5174,1 
+"53061","0420.01","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5921,1 
+"53061","0420.03","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",3336,1 
+"53061","0420.04","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4166,1 
+"53061","0420.05","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5177,1 
+"53061","0420.06","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4544,1 
+"53061","0501.01","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",2686,1 
+"53061","0501.02","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5361,1 
+"53061","0502.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4154,1 
+"53061","0503.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5327,1 
+"53061","0504.01","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",7052,1 
+"53061","0504.02","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5352,1 
+"53061","0505.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",6594,1 
+"53061","0506.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",1271,1 
+"53061","0507.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5863,1 
+"53061","0508.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",6090,1 
+"53061","0509.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",3233,1 
+"53061","0510.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4382,1 
+"53061","0511.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",3748,1 
+"53061","0512.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4208,1 
+"53061","0513.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",7157,1 
+"53061","0514.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",7491,1 
+"53061","0515.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5601,1 
+"53061","0516.01","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4767,1 
+"53061","0516.02","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4129,1 
+"53061","0517.01","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5597,1 
+"53061","0517.02","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4707,1 
+"53061","0518.02","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5176,1 
+"53061","0518.03","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5636,1 
+"53061","0518.04","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",3748,1 
+"53061","0519.05","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",8009,1 
+"53061","0519.12","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",2286,1 
+"53061","0519.13","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4202,1 
+"53061","0519.14","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4052,1 
+"53061","0519.15","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",6863,1 
+"53061","0519.16","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",3677,1 
+"53061","0519.17","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4045,1 
+"53061","0519.18","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4973,1 
+"53061","0519.21","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",3882,1 
+"53061","0519.22","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4687,1 
+"53061","0519.23","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4745,1 
+"53061","0519.24","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5974,1 
+"53061","0519.25","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",6295,1 
+"53061","0519.26","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4611,1 
+"53061","0519.27","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4714,1 
+"53061","0519.28","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4783,1 
+"53061","0520.03","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",7273,1 
+"53061","0520.04","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5746,1 
+"53061","0520.05","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5491,1 
+"53061","0520.06","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4248,1 
+"53061","0520.07","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4663,1 
+"53061","0521.04","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",3359,1 
+"53061","0521.05","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",1895,1 
+"53061","0521.07","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",3975,1 
+"53061","0521.08","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5814,1 
+"53061","0521.12","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",2607,1 
+"53061","0521.13","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",3006,1 
+"53061","0521.14","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4988,1 
+"53061","0521.15","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",6726,1 
+"53061","0521.18","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",6843,1 
+"53061","0522.03","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5213,1 
+"53061","0522.04","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5345,1 
+"53061","0522.06","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4250,1 
+"53061","0522.07","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5469,1 
+"53061","0522.08","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4096,1 
+"53061","0522.09","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5029,1 
+"53061","0523.01","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4682,1 
+"53061","0523.02","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",3677,1 
+"53061","0524.01","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4066,1 
+"53061","0524.02","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",3939,1 
+"53061","0525.02","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4334,1 
+"53061","0525.03","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",6788,1 
+"53061","0525.04","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",2503,1 
+"53061","0526.03","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",2434,1 
+"53061","0526.04","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4240,1 
+"53061","0526.05","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5842,1 
+"53061","0526.06","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5125,1 
+"53061","0526.07","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5851,1 
+"53061","0527.01","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",1518,1 
+"53061","0527.05","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",7206,1 
+"53061","0527.06","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5311,1 
+"53061","0527.07","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",3554,1 
+"53061","0527.08","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5344,1 
+"53061","0527.09","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",3337,1 
+"53061","0528.03","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5103,1 
+"53061","0528.04","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",6971,1 
+"53061","0528.05","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4332,1 
+"53061","0528.06","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",7049,1 
+"53061","0529.03","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4079,1 
+"53061","0529.04","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5442,1 
+"53061","0529.05","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4239,1 
+"53061","0529.06","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4445,1 
+"53061","0531.01","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",3715,1 
+"53061","0531.02","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4634,1 
+"53061","0532.01","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",3918,1 
+"53061","0532.02","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4167,1 
+"53061","0533.01","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",6273,1 
+"53061","0533.02","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5555,1 
+"53061","0534.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5528,1 
+"53061","0535.04","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",6383,1 
+"53061","0535.05","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4988,1 
+"53061","0535.06","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5320,1 
+"53061","0535.07","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4726,1 
+"53061","0535.08","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",3409,1 
+"53061","0535.09","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",3909,1 
+"53061","0536.02","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5640,1 
+"53061","0536.03","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",3848,1 
+"53061","0536.04","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4120,1 
+"53061","0537.00","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",3065,1 
+"53061","0538.01","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",3639,1 
+"53061","0538.02","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5394,1 
+"53061","0538.03","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",5253,1 
+"53061","9400.01","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",6462,1 
+"53061","9400.02","42660","Snohomish WA","Seattle-Tacoma-Bellevue, WA (Metro)",4169,1 
+"53063","0002.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",4654,1 
+"53063","0003.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",5408,1 
+"53063","0004.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",4110,1 
+"53063","0005.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3403,1 
+"53063","0006.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3014,1 
+"53063","0007.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",4978,1 
+"53063","0008.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",4776,1 
+"53063","0009.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",6066,1 
+"53063","0010.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",5522,1 
+"53063","0011.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3278,1 
+"53063","0012.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",2216,1 
+"53063","0013.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3443,1 
+"53063","0014.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",6244,1 
+"53063","0015.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",5587,1 
+"53063","0016.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3738,1 
+"53063","0018.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",2762,1 
+"53063","0019.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3527,1 
+"53063","0020.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",4205,1 
+"53063","0021.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",2474,1 
+"53063","0023.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",5073,1 
+"53063","0024.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",2484,1 
+"53063","0025.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",8679,1 
+"53063","0026.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",5236,1 
+"53063","0029.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3387,1 
+"53063","0030.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",2759,1 
+"53063","0031.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",4954,1 
+"53063","0032.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",2566,1 
+"53063","0035.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",2604,1 
+"53063","0036.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3906,1 
+"53063","0038.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",1746,1 
+"53063","0039.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",2043,1 
+"53063","0040.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",4953,1 
+"53063","0041.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",2098,1 
+"53063","0042.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",4739,1 
+"53063","0043.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3328,1 
+"53063","0044.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",4318,1 
+"53063","0045.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3564,1 
+"53063","0046.01","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3471,1 
+"53063","0046.02","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3132,1 
+"53063","0047.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",6572,1 
+"53063","0048.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3326,1 
+"53063","0049.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",5550,1 
+"53063","0050.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3534,1 
+"53063","0101.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",6128,1 
+"53063","0102.01","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",4046,1 
+"53063","0102.02","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",6983,1 
+"53063","0103.01","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",4266,1 
+"53063","0103.03","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3022,1 
+"53063","0103.04","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",5805,1 
+"53063","0103.05","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",5979,1 
+"53063","0104.01","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",6246,1 
+"53063","0104.02","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",6937,1 
+"53063","0105.01","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",7905,1 
+"53063","0105.03","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",6701,1 
+"53063","0105.04","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3546,1 
+"53063","0106.01","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3490,1 
+"53063","0106.02","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",7418,1 
+"53063","0107.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",5923,1 
+"53063","0108.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",2207,1 
+"53063","0109.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",4939,1 
+"53063","0110.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3583,1 
+"53063","0111.01","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",5744,1 
+"53063","0111.02","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3768,1 
+"53063","0112.01","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",7211,1 
+"53063","0112.02","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",4030,1 
+"53063","0113.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",7115,1 
+"53063","0114.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",5473,1 
+"53063","0115.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",1456,1 
+"53063","0116.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",1786,1 
+"53063","0117.01","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",2316,1 
+"53063","0117.02","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",5690,1 
+"53063","0118.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",5018,1 
+"53063","0119.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",4352,1 
+"53063","0120.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3973,1 
+"53063","0121.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",2610,1 
+"53063","0122.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",2369,1 
+"53063","0123.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",5562,1 
+"53063","0124.01","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",4129,1 
+"53063","0124.02","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",6028,1 
+"53063","0125.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3373,1 
+"53063","0126.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3608,1 
+"53063","0127.01","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3582,1 
+"53063","0127.02","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",2139,1 
+"53063","0128.01","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",4110,1 
+"53063","0128.02","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3293,1 
+"53063","0129.01","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",2994,1 
+"53063","0129.02","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",6891,1 
+"53063","0130.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",7487,1 
+"53063","0131.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",9678,1 
+"53063","0132.01","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",7403,1 
+"53063","0132.02","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",9217,1 
+"53063","0133.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",2913,1 
+"53063","0134.01","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",4656,1 
+"53063","0135.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",7653,1 
+"53063","0136.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",4101,1 
+"53063","0137.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3076,1 
+"53063","0138.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",2776,1 
+"53063","0139.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",5752,1 
+"53063","0140.01","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",5433,1 
+"53063","0140.02","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",4805,1 
+"53063","0141.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",5507,1 
+"53063","0142.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3327,1 
+"53063","0143.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",3195,1 
+"53063","0144.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",4967,1 
+"53063","0145.00","44060","Spokane WA","Spokane-Spokane Valley, WA (Metro)",2104,1 
+"53065","9410.00","44060","Stevens WA","Spokane-Spokane Valley, WA (Metro)",2094,1 
+"53065","9501.00","44060","Stevens WA","Spokane-Spokane Valley, WA (Metro)",7292,1 
+"53065","9502.00","44060","Stevens WA","Spokane-Spokane Valley, WA (Metro)",3923,1 
+"53065","9503.00","44060","Stevens WA","Spokane-Spokane Valley, WA (Metro)",2573,1 
+"53065","9505.00","44060","Stevens WA","Spokane-Spokane Valley, WA (Metro)",2352,1 
+"53065","9506.00","44060","Stevens WA","Spokane-Spokane Valley, WA (Metro)",2265,1 
+"53065","9507.00","44060","Stevens WA","Spokane-Spokane Valley, WA (Metro)",2543,1 
+"53065","9508.00","44060","Stevens WA","Spokane-Spokane Valley, WA (Metro)",3277,1 
+"53065","9509.00","44060","Stevens WA","Spokane-Spokane Valley, WA (Metro)",1548,1 
+"53065","9511.00","44060","Stevens WA","Spokane-Spokane Valley, WA (Metro)",3596,1 
+"53065","9513.00","44060","Stevens WA","Spokane-Spokane Valley, WA (Metro)",4287,1 
+"53065","9514.00","44060","Stevens WA","Spokane-Spokane Valley, WA (Metro)",7781,1 
+"53067","0101.00","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",3100,1 
+"53067","0102.00","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",5141,1 
+"53067","0103.00","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",5064,1 
+"53067","0104.00","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",3513,1 
+"53067","0105.10","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",1703,1 
+"53067","0105.20","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",6035,1 
+"53067","0106.00","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",5960,1 
+"53067","0107.00","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",5422,1 
+"53067","0108.00","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",6309,1 
+"53067","0109.10","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",6567,1 
+"53067","0109.20","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",4122,1 
+"53067","0110.00","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",4879,1 
+"53067","0111.00","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",3568,1 
+"53067","0112.00","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",4960,1 
+"53067","0113.00","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",4336,1 
+"53067","0114.10","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",5159,1 
+"53067","0114.20","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",6707,1 
+"53067","0115.00","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",5759,1 
+"53067","0116.10","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",7501,1 
+"53067","0116.21","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",6863,1 
+"53067","0116.22","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",4414,1 
+"53067","0116.23","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",5581,1 
+"53067","0116.24","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",3708,1 
+"53067","0117.10","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",7502,1 
+"53067","0117.20","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",4540,1 
+"53067","0118.10","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",3521,1 
+"53067","0118.21","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",4224,1 
+"53067","0118.22","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",4127,1 
+"53067","0119.00","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",6767,1 
+"53067","0120.00","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",7158,1 
+"53067","0121.00","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",4175,1 
+"53067","0122.11","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",2563,1 
+"53067","0122.12","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",7005,1 
+"53067","0122.21","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",5219,1 
+"53067","0122.22","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",7128,1 
+"53067","0123.10","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",9225,1 
+"53067","0123.20","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",2839,1 
+"53067","0123.30","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",4246,1 
+"53067","0124.11","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",7354,1 
+"53067","0124.12","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",4794,1 
+"53067","0124.20","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",4021,1 
+"53067","0125.10","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",3233,1 
+"53067","0125.20","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",7154,1 
+"53067","0125.30","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",3909,1 
+"53067","0126.10","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",5682,1 
+"53067","0126.20","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",4519,1 
+"53067","0127.10","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",2246,1 
+"53067","0127.20","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",6400,1 
+"53067","0127.30","36500","Thurston WA","Olympia-Tumwater, WA (Metro)",6342,1 
+"53069","9501.00"," ","Wahkiakum WA"," ",3978,1 
+"53071","9200.00","47460","Walla Walla WA","Walla Walla, WA (Metro)",5224,1 
+"53071","9201.00","47460","Walla Walla WA","Walla Walla, WA (Metro)",4880,1 
+"53071","9202.00","47460","Walla Walla WA","Walla Walla, WA (Metro)",3861,1 
+"53071","9203.00","47460","Walla Walla WA","Walla Walla, WA (Metro)",8585,1 
+"53071","9204.00","47460","Walla Walla WA","Walla Walla, WA (Metro)",2317,1 
+"53071","9205.00","47460","Walla Walla WA","Walla Walla, WA (Metro)",2839,1 
+"53071","9206.00","47460","Walla Walla WA","Walla Walla, WA (Metro)",5874,1 
+"53071","9207.01","47460","Walla Walla WA","Walla Walla, WA (Metro)",3735,1 
+"53071","9207.02","47460","Walla Walla WA","Walla Walla, WA (Metro)",4649,1 
+"53071","9208.01","47460","Walla Walla WA","Walla Walla, WA (Metro)",4915,1 
+"53071","9208.02","47460","Walla Walla WA","Walla Walla, WA (Metro)",3394,1 
+"53071","9209.00","47460","Walla Walla WA","Walla Walla, WA (Metro)",8508,1 
+"53073","0001.00","13380","Whatcom WA","Bellingham, WA (Metro)",8998,1 
+"53073","0002.00","13380","Whatcom WA","Bellingham, WA (Metro)",9737,1 
+"53073","0003.00","13380","Whatcom WA","Bellingham, WA (Metro)",7430,1 
+"53073","0004.00","13380","Whatcom WA","Bellingham, WA (Metro)",6349,1 
+"53073","0005.01","13380","Whatcom WA","Bellingham, WA (Metro)",5189,1 
+"53073","0005.02","13380","Whatcom WA","Bellingham, WA (Metro)",2668,1 
+"53073","0006.00","13380","Whatcom WA","Bellingham, WA (Metro)",1638,1 
+"53073","0007.00","13380","Whatcom WA","Bellingham, WA (Metro)",6489,1 
+"53073","0008.03","13380","Whatcom WA","Bellingham, WA (Metro)",6275,1 
+"53073","0008.04","13380","Whatcom WA","Bellingham, WA (Metro)",6642,1 
+"53073","0008.05","13380","Whatcom WA","Bellingham, WA (Metro)",4966,1 
+"53073","0008.06","13380","Whatcom WA","Bellingham, WA (Metro)",7983,1 
+"53073","0009.01","13380","Whatcom WA","Bellingham, WA (Metro)",6638,1 
+"53073","0009.02","13380","Whatcom WA","Bellingham, WA (Metro)",5833,1 
+"53073","0010.00","13380","Whatcom WA","Bellingham, WA (Metro)",7138,1 
+"53073","0011.00","13380","Whatcom WA","Bellingham, WA (Metro)",6637,1 
+"53073","0012.01","13380","Whatcom WA","Bellingham, WA (Metro)",6489,1 
+"53073","0012.02","13380","Whatcom WA","Bellingham, WA (Metro)",3515,1 
+"53073","0101.00","13380","Whatcom WA","Bellingham, WA (Metro)",7895,1 
+"53073","0102.00","13380","Whatcom WA","Bellingham, WA (Metro)",8079,1 
+"53073","0103.01","13380","Whatcom WA","Bellingham, WA (Metro)",6792,1 
+"53073","0103.02","13380","Whatcom WA","Bellingham, WA (Metro)",4483,1 
+"53073","0103.03","13380","Whatcom WA","Bellingham, WA (Metro)",5103,1 
+"53073","0104.01","13380","Whatcom WA","Bellingham, WA (Metro)",8049,1 
+"53073","0104.03","13380","Whatcom WA","Bellingham, WA (Metro)",5130,1 
+"53073","0104.04","13380","Whatcom WA","Bellingham, WA (Metro)",6252,1 
+"53073","0105.01","13380","Whatcom WA","Bellingham, WA (Metro)",7274,1 
+"53073","0105.02","13380","Whatcom WA","Bellingham, WA (Metro)",7426,1 
+"53073","0106.00","13380","Whatcom WA","Bellingham, WA (Metro)",6480,1 
+"53073","0107.01","13380","Whatcom WA","Bellingham, WA (Metro)",6197,1 
+"53073","0107.02","13380","Whatcom WA","Bellingham, WA (Metro)",4382,1 
+"53073","0109.00","13380","Whatcom WA","Bellingham, WA (Metro)",964,1 
+"53073","0110.00","13380","Whatcom WA","Bellingham, WA (Metro)",1314,1 
+"53073","9400.00","13380","Whatcom WA","Bellingham, WA (Metro)",4706,1 
+"53075","0001.00","39420","Whitman WA","Pullman, WA (Micro)",6520,1 
+"53075","0002.00","39420","Whitman WA","Pullman, WA (Micro)",6543,1 
+"53075","0003.00","39420","Whitman WA","Pullman, WA (Micro)",4504,1 
+"53075","0004.00","39420","Whitman WA","Pullman, WA (Micro)",3738,1 
+"53075","0005.00","39420","Whitman WA","Pullman, WA (Micro)",3212,1 
+"53075","0006.00","39420","Whitman WA","Pullman, WA (Micro)",7383,1 
+"53075","0007.00","39420","Whitman WA","Pullman, WA (Micro)",3507,1 
+"53075","0008.00","39420","Whitman WA","Pullman, WA (Micro)",3521,1 
+"53075","0009.00","39420","Whitman WA","Pullman, WA (Micro)",3733,1 
+"53075","0010.00","39420","Whitman WA","Pullman, WA (Micro)",2115,1 
+"53077","0001.00","49420","Yakima WA","Yakima, WA (Metro)",3095,1 
+"53077","0002.00","49420","Yakima WA","Yakima, WA (Metro)",5553,1 
+"53077","0003.00","49420","Yakima WA","Yakima, WA (Metro)",4521,1 
+"53077","0004.00","49420","Yakima WA","Yakima, WA (Metro)",7423,1 
+"53077","0005.00","49420","Yakima WA","Yakima, WA (Metro)",5202,1 
+"53077","0006.00","49420","Yakima WA","Yakima, WA (Metro)",6953,1 
+"53077","0007.00","49420","Yakima WA","Yakima, WA (Metro)",7072,1 
+"53077","0008.00","49420","Yakima WA","Yakima, WA (Metro)",4495,1 
+"53077","0009.01","49420","Yakima WA","Yakima, WA (Metro)",7411,1 
+"53077","0009.02","49420","Yakima WA","Yakima, WA (Metro)",3805,1 
+"53077","0010.00","49420","Yakima WA","Yakima, WA (Metro)",5885,1 
+"53077","0011.00","49420","Yakima WA","Yakima, WA (Metro)",6931,1 
+"53077","0012.01","49420","Yakima WA","Yakima, WA (Metro)",3928,1 
+"53077","0012.02","49420","Yakima WA","Yakima, WA (Metro)",6318,1 
+"53077","0013.00","49420","Yakima WA","Yakima, WA (Metro)",2731,1 
+"53077","0014.00","49420","Yakima WA","Yakima, WA (Metro)",3444,1 
+"53077","0015.01","49420","Yakima WA","Yakima, WA (Metro)",6991,1 
+"53077","0015.02","49420","Yakima WA","Yakima, WA (Metro)",2804,1 
+"53077","0016.01","49420","Yakima WA","Yakima, WA (Metro)",2413,1 
+"53077","0016.02","49420","Yakima WA","Yakima, WA (Metro)",6854,1 
+"53077","0017.01","49420","Yakima WA","Yakima, WA (Metro)",3083,1 
+"53077","0017.02","49420","Yakima WA","Yakima, WA (Metro)",6023,1 
+"53077","0018.00","49420","Yakima WA","Yakima, WA (Metro)",7140,1 
+"53077","0019.01","49420","Yakima WA","Yakima, WA (Metro)",3834,1 
+"53077","0019.02","49420","Yakima WA","Yakima, WA (Metro)",6417,1 
+"53077","0020.01","49420","Yakima WA","Yakima, WA (Metro)",8401,1 
+"53077","0020.02","49420","Yakima WA","Yakima, WA (Metro)",8600,1 
+"53077","0021.01","49420","Yakima WA","Yakima, WA (Metro)",1950,1 
+"53077","0021.02","49420","Yakima WA","Yakima, WA (Metro)",7578,1 
+"53077","0022.00","49420","Yakima WA","Yakima, WA (Metro)",7745,1 
+"53077","0027.01","49420","Yakima WA","Yakima, WA (Metro)",3440,1 
+"53077","0028.01","49420","Yakima WA","Yakima, WA (Metro)",5359,1 
+"53077","0028.02","49420","Yakima WA","Yakima, WA (Metro)",7882,1 
+"53077","0029.00","49420","Yakima WA","Yakima, WA (Metro)",6570,1 
+"53077","0030.01","49420","Yakima WA","Yakima, WA (Metro)",4584,1 
+"53077","0030.02","49420","Yakima WA","Yakima, WA (Metro)",3668,1 
+"53077","0031.00","49420","Yakima WA","Yakima, WA (Metro)",5232,1 
+"53077","0032.00","49420","Yakima WA","Yakima, WA (Metro)",6682,1 
+"53077","0034.00","49420","Yakima WA","Yakima, WA (Metro)",4382,1 
+"53077","9400.01","49420","Yakima WA","Yakima, WA (Metro)",6409,1 
+"53077","9400.02","49420","Yakima WA","Yakima, WA (Metro)",4430,1 
+"53077","9400.03","49420","Yakima WA","Yakima, WA (Metro)",3682,1 
+"53077","9400.04","49420","Yakima WA","Yakima, WA (Metro)",6777,1 
+"53077","9400.05","49420","Yakima WA","Yakima, WA (Metro)",4695,1 
+"53077","9400.06","49420","Yakima WA","Yakima, WA (Metro)",4839,1 

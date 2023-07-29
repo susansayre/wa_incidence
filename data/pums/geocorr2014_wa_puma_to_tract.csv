@@ -1,0 +1,1447 @@
+"state","puma12","county","tract","stab","cntyname","PUMAname","pop10","afact"
+"State code","puma12","County code","Tract","State abbreviation","County name","PUMA12 name","Total population (2010)","puma12 to tract allocation factor"
+"53","10100","53073","0001.00","WA","Whatcom WA","Whatcom County--Bellingham City",8998,0.045 
+"53","10100","53073","0002.00","WA","Whatcom WA","Whatcom County--Bellingham City",9737,0.048 
+"53","10100","53073","0003.00","WA","Whatcom WA","Whatcom County--Bellingham City",7430,0.037 
+"53","10100","53073","0004.00","WA","Whatcom WA","Whatcom County--Bellingham City",6349,0.032 
+"53","10100","53073","0005.01","WA","Whatcom WA","Whatcom County--Bellingham City",5189,0.026 
+"53","10100","53073","0005.02","WA","Whatcom WA","Whatcom County--Bellingham City",2668,0.013 
+"53","10100","53073","0006.00","WA","Whatcom WA","Whatcom County--Bellingham City",1638,0.008 
+"53","10100","53073","0007.00","WA","Whatcom WA","Whatcom County--Bellingham City",6489,0.032 
+"53","10100","53073","0008.03","WA","Whatcom WA","Whatcom County--Bellingham City",6275,0.031 
+"53","10100","53073","0008.04","WA","Whatcom WA","Whatcom County--Bellingham City",6642,0.033 
+"53","10100","53073","0008.05","WA","Whatcom WA","Whatcom County--Bellingham City",4966,0.025 
+"53","10100","53073","0008.06","WA","Whatcom WA","Whatcom County--Bellingham City",7983,0.04 
+"53","10100","53073","0009.01","WA","Whatcom WA","Whatcom County--Bellingham City",6638,0.033 
+"53","10100","53073","0009.02","WA","Whatcom WA","Whatcom County--Bellingham City",5833,0.029 
+"53","10100","53073","0010.00","WA","Whatcom WA","Whatcom County--Bellingham City",7138,0.035 
+"53","10100","53073","0011.00","WA","Whatcom WA","Whatcom County--Bellingham City",6637,0.033 
+"53","10100","53073","0012.01","WA","Whatcom WA","Whatcom County--Bellingham City",6489,0.032 
+"53","10100","53073","0012.02","WA","Whatcom WA","Whatcom County--Bellingham City",3515,0.017 
+"53","10100","53073","0101.00","WA","Whatcom WA","Whatcom County--Bellingham City",7895,0.039 
+"53","10100","53073","0102.00","WA","Whatcom WA","Whatcom County--Bellingham City",8079,0.04 
+"53","10100","53073","0103.01","WA","Whatcom WA","Whatcom County--Bellingham City",6792,0.034 
+"53","10100","53073","0103.02","WA","Whatcom WA","Whatcom County--Bellingham City",4483,0.022 
+"53","10100","53073","0103.03","WA","Whatcom WA","Whatcom County--Bellingham City",5103,0.025 
+"53","10100","53073","0104.01","WA","Whatcom WA","Whatcom County--Bellingham City",8049,0.04 
+"53","10100","53073","0104.03","WA","Whatcom WA","Whatcom County--Bellingham City",5130,0.026 
+"53","10100","53073","0104.04","WA","Whatcom WA","Whatcom County--Bellingham City",6252,0.031 
+"53","10100","53073","0105.01","WA","Whatcom WA","Whatcom County--Bellingham City",7274,0.036 
+"53","10100","53073","0105.02","WA","Whatcom WA","Whatcom County--Bellingham City",7426,0.037 
+"53","10100","53073","0106.00","WA","Whatcom WA","Whatcom County--Bellingham City",6480,0.032 
+"53","10100","53073","0107.01","WA","Whatcom WA","Whatcom County--Bellingham City",6197,0.031 
+"53","10100","53073","0107.02","WA","Whatcom WA","Whatcom County--Bellingham City",4382,0.022 
+"53","10100","53073","0109.00","WA","Whatcom WA","Whatcom County--Bellingham City",964,0.005 
+"53","10100","53073","0110.00","WA","Whatcom WA","Whatcom County--Bellingham City",1314,0.007 
+"53","10100","53073","9400.00","WA","Whatcom WA","Whatcom County--Bellingham City",4706,0.023 
+"53","10200","53029","9701.00","WA","Island WA","Skagit, Island & San Juan Counties",2604,0.012 
+"53","10200","53029","9702.00","WA","Island WA","Skagit, Island & San Juan Counties",1633,0.008 
+"53","10200","53029","9703.00","WA","Island WA","Skagit, Island & San Juan Counties",4989,0.024 
+"53","10200","53029","9704.00","WA","Island WA","Skagit, Island & San Juan Counties",6131,0.029 
+"53","10200","53029","9705.00","WA","Island WA","Skagit, Island & San Juan Counties",5494,0.026 
+"53","10200","53029","9706.01","WA","Island WA","Skagit, Island & San Juan Counties",3186,0.015 
+"53","10200","53029","9706.02","WA","Island WA","Skagit, Island & San Juan Counties",3291,0.016 
+"53","10200","53029","9707.00","WA","Island WA","Skagit, Island & San Juan Counties",1922,0.009 
+"53","10200","53029","9708.00","WA","Island WA","Skagit, Island & San Juan Counties",2706,0.013 
+"53","10200","53029","9709.00","WA","Island WA","Skagit, Island & San Juan Counties",4801,0.023 
+"53","10200","53029","9710.00","WA","Island WA","Skagit, Island & San Juan Counties",4776,0.023 
+"53","10200","53029","9711.00","WA","Island WA","Skagit, Island & San Juan Counties",3289,0.016 
+"53","10200","53029","9713.00","WA","Island WA","Skagit, Island & San Juan Counties",4393,0.021 
+"53","10200","53029","9714.00","WA","Island WA","Skagit, Island & San Juan Counties",4400,0.021 
+"53","10200","53029","9715.00","WA","Island WA","Skagit, Island & San Juan Counties",3394,0.016 
+"53","10200","53029","9716.00","WA","Island WA","Skagit, Island & San Juan Counties",3817,0.018 
+"53","10200","53029","9717.00","WA","Island WA","Skagit, Island & San Juan Counties",4050,0.019 
+"53","10200","53029","9718.00","WA","Island WA","Skagit, Island & San Juan Counties",2452,0.012 
+"53","10200","53029","9719.00","WA","Island WA","Skagit, Island & San Juan Counties",3750,0.018 
+"53","10200","53029","9720.00","WA","Island WA","Skagit, Island & San Juan Counties",3938,0.019 
+"53","10200","53029","9721.00","WA","Island WA","Skagit, Island & San Juan Counties",3490,0.017 
+"53","10200","53055","9601.00","WA","San Juan WA","Skagit, Island & San Juan Counties",5354,0.025 
+"53","10200","53055","9603.00","WA","San Juan WA","Skagit, Island & San Juan Counties",4761,0.023 
+"53","10200","53055","9604.00","WA","San Juan WA","Skagit, Island & San Juan Counties",2901,0.014 
+"53","10200","53055","9605.00","WA","San Juan WA","Skagit, Island & San Juan Counties",2753,0.013 
+"53","10200","53057","9402.00","WA","Skagit WA","Skagit, Island & San Juan Counties",2181,0.01 
+"53","10200","53057","9403.00","WA","Skagit WA","Skagit, Island & San Juan Counties",4880,0.023 
+"53","10200","53057","9404.00","WA","Skagit WA","Skagit, Island & San Juan Counties",6839,0.032 
+"53","10200","53057","9405.00","WA","Skagit WA","Skagit, Island & San Juan Counties",2467,0.012 
+"53","10200","53057","9406.00","WA","Skagit WA","Skagit, Island & San Juan Counties",1530,0.007 
+"53","10200","53057","9407.00","WA","Skagit WA","Skagit, Island & San Juan Counties",1562,0.007 
+"53","10200","53057","9408.00","WA","Skagit WA","Skagit, Island & San Juan Counties",3010,0.014 
+"53","10200","53057","9501.00","WA","Skagit WA","Skagit, Island & San Juan Counties",873,0.004 
+"53","10200","53057","9508.00","WA","Skagit WA","Skagit, Island & San Juan Counties",6015,0.028 
+"53","10200","53057","9509.00","WA","Skagit WA","Skagit, Island & San Juan Counties",4071,0.019 
+"53","10200","53057","9510.00","WA","Skagit WA","Skagit, Island & San Juan Counties",2821,0.013 
+"53","10200","53057","9511.00","WA","Skagit WA","Skagit, Island & San Juan Counties",4715,0.022 
+"53","10200","53057","9512.00","WA","Skagit WA","Skagit, Island & San Juan Counties",2989,0.014 
+"53","10200","53057","9513.00","WA","Skagit WA","Skagit, Island & San Juan Counties",1853,0.009 
+"53","10200","53057","9514.00","WA","Skagit WA","Skagit, Island & San Juan Counties",4029,0.019 
+"53","10200","53057","9515.00","WA","Skagit WA","Skagit, Island & San Juan Counties",9326,0.044 
+"53","10200","53057","9516.00","WA","Skagit WA","Skagit, Island & San Juan Counties",4352,0.021 
+"53","10200","53057","9517.00","WA","Skagit WA","Skagit, Island & San Juan Counties",3689,0.017 
+"53","10200","53057","9518.00","WA","Skagit WA","Skagit, Island & San Juan Counties",4418,0.021 
+"53","10200","53057","9519.00","WA","Skagit WA","Skagit, Island & San Juan Counties",3519,0.017 
+"53","10200","53057","9521.00","WA","Skagit WA","Skagit, Island & San Juan Counties",3310,0.016 
+"53","10200","53057","9522.00","WA","Skagit WA","Skagit, Island & San Juan Counties",4144,0.02 
+"53","10200","53057","9523.01","WA","Skagit WA","Skagit, Island & San Juan Counties",4562,0.022 
+"53","10200","53057","9523.02","WA","Skagit WA","Skagit, Island & San Juan Counties",8722,0.041 
+"53","10200","53057","9524.01","WA","Skagit WA","Skagit, Island & San Juan Counties",2831,0.013 
+"53","10200","53057","9524.02","WA","Skagit WA","Skagit, Island & San Juan Counties",7408,0.035 
+"53","10200","53057","9525.00","WA","Skagit WA","Skagit, Island & San Juan Counties",3290,0.016 
+"53","10200","53057","9526.00","WA","Skagit WA","Skagit, Island & San Juan Counties",3821,0.018 
+"53","10200","53057","9527.00","WA","Skagit WA","Skagit, Island & San Juan Counties",3674,0.017 
+"53","10300","53007","9601.00","WA","Chelan WA","Chelan & Douglas Counties",2369,0.021 
+"53","10300","53007","9602.00","WA","Chelan WA","Chelan & Douglas Counties",6251,0.056 
+"53","10300","53007","9603.00","WA","Chelan WA","Chelan & Douglas Counties",6396,0.058 
+"53","10300","53007","9604.00","WA","Chelan WA","Chelan & Douglas Counties",3813,0.034 
+"53","10300","53007","9605.00","WA","Chelan WA","Chelan & Douglas Counties",6831,0.062 
+"53","10300","53007","9606.00","WA","Chelan WA","Chelan & Douglas Counties",4064,0.037 
+"53","10300","53007","9607.00","WA","Chelan WA","Chelan & Douglas Counties",3455,0.031 
+"53","10300","53007","9608.01","WA","Chelan WA","Chelan & Douglas Counties",2666,0.024 
+"53","10300","53007","9608.02","WA","Chelan WA","Chelan & Douglas Counties",7202,0.065 
+"53","10300","53007","9610.00","WA","Chelan WA","Chelan & Douglas Counties",6800,0.061 
+"53","10300","53007","9611.00","WA","Chelan WA","Chelan & Douglas Counties",9596,0.087 
+"53","10300","53007","9612.00","WA","Chelan WA","Chelan & Douglas Counties",3762,0.034 
+"53","10300","53007","9613.01","WA","Chelan WA","Chelan & Douglas Counties",1327,0.012 
+"53","10300","53007","9613.02","WA","Chelan WA","Chelan & Douglas Counties",7921,0.071 
+"53","10300","53017","9501.00","WA","Douglas WA","Chelan & Douglas Counties",6499,0.059 
+"53","10300","53017","9502.00","WA","Douglas WA","Chelan & Douglas Counties",2224,0.02 
+"53","10300","53017","9503.00","WA","Douglas WA","Chelan & Douglas Counties",6057,0.055 
+"53","10300","53017","9504.00","WA","Douglas WA","Chelan & Douglas Counties",6392,0.058 
+"53","10300","53017","9505.00","WA","Douglas WA","Chelan & Douglas Counties",3264,0.029 
+"53","10300","53017","9506.00","WA","Douglas WA","Chelan & Douglas Counties",4453,0.04 
+"53","10300","53017","9507.00","WA","Douglas WA","Chelan & Douglas Counties",4350,0.039 
+"53","10300","53017","9508.00","WA","Douglas WA","Chelan & Douglas Counties",5192,0.047 
+"53","10400","53019","9400.00","WA","Ferry WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",1731,0.016 
+"53","10400","53019","9701.00","WA","Ferry WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",2694,0.026 
+"53","10400","53019","9702.00","WA","Ferry WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",3126,0.03 
+"53","10400","53047","9401.00","WA","Okanogan WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",2825,0.027 
+"53","10400","53047","9402.00","WA","Okanogan WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",3129,0.03 
+"53","10400","53047","9703.00","WA","Okanogan WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",7308,0.069 
+"53","10400","53047","9704.00","WA","Okanogan WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",3717,0.035 
+"53","10400","53047","9705.00","WA","Okanogan WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",2321,0.022 
+"53","10400","53047","9706.00","WA","Okanogan WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",6714,0.064 
+"53","10400","53047","9707.00","WA","Okanogan WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",4286,0.041 
+"53","10400","53047","9708.00","WA","Okanogan WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",4930,0.047 
+"53","10400","53047","9709.00","WA","Okanogan WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",2220,0.021 
+"53","10400","53047","9710.00","WA","Okanogan WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",3670,0.035 
+"53","10400","53051","9701.00","WA","Pend Oreille WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",2099,0.02 
+"53","10400","53051","9702.00","WA","Pend Oreille WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",2649,0.025 
+"53","10400","53051","9703.00","WA","Pend Oreille WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",3300,0.031 
+"53","10400","53051","9704.00","WA","Pend Oreille WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",2682,0.025 
+"53","10400","53051","9705.00","WA","Pend Oreille WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",2271,0.022 
+"53","10400","53065","9410.00","WA","Stevens WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",2094,0.02 
+"53","10400","53065","9501.00","WA","Stevens WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",7292,0.069 
+"53","10400","53065","9502.00","WA","Stevens WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",3923,0.037 
+"53","10400","53065","9503.00","WA","Stevens WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",2573,0.024 
+"53","10400","53065","9505.00","WA","Stevens WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",2352,0.022 
+"53","10400","53065","9506.00","WA","Stevens WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",2265,0.022 
+"53","10400","53065","9507.00","WA","Stevens WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",2543,0.024 
+"53","10400","53065","9508.00","WA","Stevens WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",3277,0.031 
+"53","10400","53065","9509.00","WA","Stevens WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",1548,0.015 
+"53","10400","53065","9511.00","WA","Stevens WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",3596,0.034 
+"53","10400","53065","9513.00","WA","Stevens WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",4287,0.041 
+"53","10400","53065","9514.00","WA","Stevens WA","Stevens, Okanogan, Pend Oreille & Ferry Counties",7781,0.074 
+"53","10501","53063","0002.00","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",4654,0.037 
+"53","10501","53063","0003.00","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",5408,0.043 
+"53","10501","53063","0004.00","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",4110,0.033 
+"53","10501","53063","0005.00","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",3403,0.027 
+"53","10501","53063","0006.00","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",3014,0.024 
+"53","10501","53063","0007.00","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",4978,0.039 
+"53","10501","53063","0008.00","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",4776,0.038 
+"53","10501","53063","0009.00","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",6066,0.048 
+"53","10501","53063","0010.00","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",5522,0.044 
+"53","10501","53063","0011.00","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",3278,0.026 
+"53","10501","53063","0012.00","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",2216,0.018 
+"53","10501","53063","0013.00","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",3443,0.027 
+"53","10501","53063","0014.00","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",6244,0.049 
+"53","10501","53063","0015.00","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",5587,0.044 
+"53","10501","53063","0016.00","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",3738,0.03 
+"53","10501","53063","0018.00","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",2762,0.022 
+"53","10501","53063","0105.01","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",7905,0.063 
+"53","10501","53063","0106.01","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",3490,0.028 
+"53","10501","53063","0106.02","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",7418,0.059 
+"53","10501","53063","0107.00","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",5923,0.047 
+"53","10501","53063","0108.00","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",2207,0.017 
+"53","10501","53063","0109.00","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",4939,0.039 
+"53","10501","53063","0110.00","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",3583,0.028 
+"53","10501","53063","0111.01","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",5744,0.045 
+"53","10501","53063","0111.02","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",3768,0.03 
+"53","10501","53063","0112.01","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",7211,0.057 
+"53","10501","53063","0144.00","WA","Spokane WA","Spokane County (North Central)--Spokane City (North)",4967,0.039 
+"53","10502","53063","0019.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",3527,0.03 
+"53","10502","53063","0020.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",4205,0.036 
+"53","10502","53063","0021.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",2474,0.021 
+"53","10502","53063","0023.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",5073,0.043 
+"53","10502","53063","0024.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",2484,0.021 
+"53","10502","53063","0025.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",8679,0.073 
+"53","10502","53063","0026.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",5236,0.044 
+"53","10502","53063","0029.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",3387,0.029 
+"53","10502","53063","0030.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",2759,0.023 
+"53","10502","53063","0031.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",4954,0.042 
+"53","10502","53063","0032.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",2566,0.022 
+"53","10502","53063","0035.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",2604,0.022 
+"53","10502","53063","0036.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",3906,0.033 
+"53","10502","53063","0038.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",1746,0.015 
+"53","10502","53063","0039.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",2043,0.017 
+"53","10502","53063","0040.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",4953,0.042 
+"53","10502","53063","0041.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",2098,0.018 
+"53","10502","53063","0042.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",4739,0.04 
+"53","10502","53063","0043.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",3328,0.028 
+"53","10502","53063","0044.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",4318,0.037 
+"53","10502","53063","0045.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",3564,0.03 
+"53","10502","53063","0046.01","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",3471,0.029 
+"53","10502","53063","0046.02","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",3132,0.027 
+"53","10502","53063","0047.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",6572,0.056 
+"53","10502","53063","0048.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",3326,0.028 
+"53","10502","53063","0049.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",5550,0.047 
+"53","10502","53063","0050.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",3534,0.03 
+"53","10502","53063","0134.01","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",4656,0.039 
+"53","10502","53063","0136.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",4101,0.035 
+"53","10502","53063","0137.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",3076,0.026 
+"53","10502","53063","0145.00","WA","Spokane WA","Spokane County (South Central)--Spokane City (South)",2104,0.018 
+"53","10503","53063","0113.00","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",7115,0.058 
+"53","10503","53063","0114.00","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",5473,0.045 
+"53","10503","53063","0115.00","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",1456,0.012 
+"53","10503","53063","0116.00","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",1786,0.015 
+"53","10503","53063","0117.01","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",2316,0.019 
+"53","10503","53063","0117.02","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",5690,0.047 
+"53","10503","53063","0118.00","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",5018,0.041 
+"53","10503","53063","0119.00","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",4352,0.036 
+"53","10503","53063","0120.00","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",3973,0.033 
+"53","10503","53063","0121.00","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",2610,0.021 
+"53","10503","53063","0122.00","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",2369,0.019 
+"53","10503","53063","0123.00","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",5562,0.046 
+"53","10503","53063","0124.01","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",4129,0.034 
+"53","10503","53063","0124.02","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",6028,0.05 
+"53","10503","53063","0125.00","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",3373,0.028 
+"53","10503","53063","0126.00","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",3608,0.03 
+"53","10503","53063","0127.01","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",3582,0.029 
+"53","10503","53063","0127.02","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",2139,0.018 
+"53","10503","53063","0128.01","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",4110,0.034 
+"53","10503","53063","0128.02","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",3293,0.027 
+"53","10503","53063","0129.01","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",2994,0.025 
+"53","10503","53063","0129.02","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",6891,0.057 
+"53","10503","53063","0130.00","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",7487,0.062 
+"53","10503","53063","0131.00","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",9678,0.08 
+"53","10503","53063","0132.01","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",7403,0.061 
+"53","10503","53063","0132.02","WA","Spokane WA","Spokane County (East Central)--Greater Spokane Valley City",9217,0.076 
+"53","10504","53063","0101.00","WA","Spokane WA","Spokane County (Outer)--Cheney City",6128,0.058 
+"53","10504","53063","0102.01","WA","Spokane WA","Spokane County (Outer)--Cheney City",4046,0.039 
+"53","10504","53063","0102.02","WA","Spokane WA","Spokane County (Outer)--Cheney City",6983,0.066 
+"53","10504","53063","0103.01","WA","Spokane WA","Spokane County (Outer)--Cheney City",4266,0.041 
+"53","10504","53063","0103.03","WA","Spokane WA","Spokane County (Outer)--Cheney City",3022,0.029 
+"53","10504","53063","0103.04","WA","Spokane WA","Spokane County (Outer)--Cheney City",5805,0.055 
+"53","10504","53063","0103.05","WA","Spokane WA","Spokane County (Outer)--Cheney City",5979,0.057 
+"53","10504","53063","0104.01","WA","Spokane WA","Spokane County (Outer)--Cheney City",6246,0.059 
+"53","10504","53063","0104.02","WA","Spokane WA","Spokane County (Outer)--Cheney City",6937,0.066 
+"53","10504","53063","0105.03","WA","Spokane WA","Spokane County (Outer)--Cheney City",6701,0.064 
+"53","10504","53063","0105.04","WA","Spokane WA","Spokane County (Outer)--Cheney City",3546,0.034 
+"53","10504","53063","0112.02","WA","Spokane WA","Spokane County (Outer)--Cheney City",4030,0.038 
+"53","10504","53063","0133.00","WA","Spokane WA","Spokane County (Outer)--Cheney City",2913,0.028 
+"53","10504","53063","0135.00","WA","Spokane WA","Spokane County (Outer)--Cheney City",7653,0.073 
+"53","10504","53063","0138.00","WA","Spokane WA","Spokane County (Outer)--Cheney City",2776,0.026 
+"53","10504","53063","0139.00","WA","Spokane WA","Spokane County (Outer)--Cheney City",5752,0.055 
+"53","10504","53063","0140.01","WA","Spokane WA","Spokane County (Outer)--Cheney City",5433,0.052 
+"53","10504","53063","0140.02","WA","Spokane WA","Spokane County (Outer)--Cheney City",4805,0.046 
+"53","10504","53063","0141.00","WA","Spokane WA","Spokane County (Outer)--Cheney City",5507,0.052 
+"53","10504","53063","0142.00","WA","Spokane WA","Spokane County (Outer)--Cheney City",3327,0.032 
+"53","10504","53063","0143.00","WA","Spokane WA","Spokane County (Outer)--Cheney City",3195,0.03 
+"53","10600","53001","9501.00","WA","Adams WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",2447,0.024 
+"53","10600","53001","9502.00","WA","Adams WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",1738,0.017 
+"53","10600","53001","9503.00","WA","Adams WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",6934,0.068 
+"53","10600","53001","9504.00","WA","Adams WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",2856,0.028 
+"53","10600","53001","9505.00","WA","Adams WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",4753,0.047 
+"53","10600","53003","9601.00","WA","Asotin WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",4304,0.042 
+"53","10600","53003","9602.00","WA","Asotin WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",4542,0.045 
+"53","10600","53003","9603.00","WA","Asotin WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",3775,0.037 
+"53","10600","53003","9604.00","WA","Asotin WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",2165,0.021 
+"53","10600","53003","9605.00","WA","Asotin WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",3424,0.034 
+"53","10600","53003","9606.00","WA","Asotin WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",3413,0.033 
+"53","10600","53013","9602.00","WA","Columbia WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",4078,0.04 
+"53","10600","53023","9703.00","WA","Garfield WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",2266,0.022 
+"53","10600","53043","9601.00","WA","Lincoln WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",1743,0.017 
+"53","10600","53043","9602.00","WA","Lincoln WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",3115,0.031 
+"53","10600","53043","9603.00","WA","Lincoln WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",2714,0.027 
+"53","10600","53043","9604.00","WA","Lincoln WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",2998,0.029 
+"53","10600","53075","0001.00","WA","Whitman WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",6520,0.064 
+"53","10600","53075","0002.00","WA","Whitman WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",6543,0.064 
+"53","10600","53075","0003.00","WA","Whitman WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",4504,0.044 
+"53","10600","53075","0004.00","WA","Whitman WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",3738,0.037 
+"53","10600","53075","0005.00","WA","Whitman WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",3212,0.031 
+"53","10600","53075","0006.00","WA","Whitman WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",7383,0.072 
+"53","10600","53075","0007.00","WA","Whitman WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",3507,0.034 
+"53","10600","53075","0008.00","WA","Whitman WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",3521,0.035 
+"53","10600","53075","0009.00","WA","Whitman WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",3733,0.037 
+"53","10600","53075","0010.00","WA","Whitman WA","Whitman, Asotin, Adams, Lincoln, Columbia & Garfield Counties",2115,0.021 
+"53","10701","53005","0101.00","WA","Benton WA","Benton & Franklin Counties--Pasco, Richland (North) & West Richland Cities",4448,0.042 
+"53","10701","53005","0102.01","WA","Benton WA","Benton & Franklin Counties--Pasco, Richland (North) & West Richland Cities",4295,0.041 
+"53","10701","53005","0102.02","WA","Benton WA","Benton & Franklin Counties--Pasco, Richland (North) & West Richland Cities",6060,0.058 
+"53","10701","53005","0103.00","WA","Benton WA","Benton & Franklin Counties--Pasco, Richland (North) & West Richland Cities",5010,0.048 
+"53","10701","53005","0104.00","WA","Benton WA","Benton & Franklin Counties--Pasco, Richland (North) & West Richland Cities",3617,0.035 
+"53","10701","53005","0105.00","WA","Benton WA","Benton & Franklin Counties--Pasco, Richland (North) & West Richland Cities",3022,0.029 
+"53","10701","53005","0106.00","WA","Benton WA","Benton & Franklin Counties--Pasco, Richland (North) & West Richland Cities",4296,0.041 
+"53","10701","53005","0107.03","WA","Benton WA","Benton & Franklin Counties--Pasco, Richland (North) & West Richland Cities",2803,0.027 
+"53","10701","53005","0107.05","WA","Benton WA","Benton & Franklin Counties--Pasco, Richland (North) & West Richland Cities",5268,0.05 
+"53","10701","53005","0107.07","WA","Benton WA","Benton & Franklin Counties--Pasco, Richland (North) & West Richland Cities",2491,0.024 
+"53","10701","53005","0107.08","WA","Benton WA","Benton & Franklin Counties--Pasco, Richland (North) & West Richland Cities",2440,0.023 
+"53","10701","53021","0201.00","WA","Franklin WA","Benton & Franklin Counties--Pasco, Richland (North) & West Richland Cities",9654,0.092 
+"53","10701","53021","0202.00","WA","Franklin WA","Benton & Franklin Counties--Pasco, Richland (North) & West Richland Cities",6021,0.057 
+"53","10701","53021","0203.00","WA","Franklin WA","Benton & Franklin Counties--Pasco, Richland (North) & West Richland Cities",5727,0.055 
+"53","10701","53021","0204.00","WA","Franklin WA","Benton & Franklin Counties--Pasco, Richland (North) & West Richland Cities",9393,0.09 
+"53","10701","53021","0205.01","WA","Franklin WA","Benton & Franklin Counties--Pasco, Richland (North) & West Richland Cities",4668,0.045 
+"53","10701","53021","0205.02","WA","Franklin WA","Benton & Franklin Counties--Pasco, Richland (North) & West Richland Cities",8403,0.08 
+"53","10701","53021","0206.03","WA","Franklin WA","Benton & Franklin Counties--Pasco, Richland (North) & West Richland Cities",3907,0.037 
+"53","10701","53021","0206.05","WA","Franklin WA","Benton & Franklin Counties--Pasco, Richland (North) & West Richland Cities",6786,0.065 
+"53","10701","53021","0206.06","WA","Franklin WA","Benton & Franklin Counties--Pasco, Richland (North) & West Richland Cities",6484,0.062 
+"53","10702","53005","0108.03","WA","Benton WA","Benton County (East Central)--Kennewick & Richland (South) Cities",6690,0.064 
+"53","10702","53005","0108.05","WA","Benton WA","Benton County (East Central)--Kennewick & Richland (South) Cities",5917,0.056 
+"53","10702","53005","0108.09","WA","Benton WA","Benton County (East Central)--Kennewick & Richland (South) Cities",6015,0.057 
+"53","10702","53005","0108.10","WA","Benton WA","Benton County (East Central)--Kennewick & Richland (South) Cities",4548,0.043 
+"53","10702","53005","0108.11","WA","Benton WA","Benton County (East Central)--Kennewick & Richland (South) Cities",3100,0.03 
+"53","10702","53005","0108.13","WA","Benton WA","Benton County (East Central)--Kennewick & Richland (South) Cities",9288,0.088 
+"53","10702","53005","0109.01","WA","Benton WA","Benton County (East Central)--Kennewick & Richland (South) Cities",6177,0.059 
+"53","10702","53005","0109.02","WA","Benton WA","Benton County (East Central)--Kennewick & Richland (South) Cities",4907,0.047 
+"53","10702","53005","0110.01","WA","Benton WA","Benton County (East Central)--Kennewick & Richland (South) Cities",4975,0.047 
+"53","10702","53005","0110.02","WA","Benton WA","Benton County (East Central)--Kennewick & Richland (South) Cities",4475,0.043 
+"53","10702","53005","0111.00","WA","Benton WA","Benton County (East Central)--Kennewick & Richland (South) Cities",7365,0.07 
+"53","10702","53005","0112.00","WA","Benton WA","Benton County (East Central)--Kennewick & Richland (South) Cities",8552,0.081 
+"53","10702","53005","0113.00","WA","Benton WA","Benton County (East Central)--Kennewick & Richland (South) Cities",5067,0.048 
+"53","10702","53005","0114.01","WA","Benton WA","Benton County (East Central)--Kennewick & Richland (South) Cities",3810,0.036 
+"53","10702","53005","0114.02","WA","Benton WA","Benton County (East Central)--Kennewick & Richland (South) Cities",5016,0.048 
+"53","10702","53005","0115.01","WA","Benton WA","Benton County (East Central)--Kennewick & Richland (South) Cities",6740,0.064 
+"53","10702","53005","0115.03","WA","Benton WA","Benton County (East Central)--Kennewick & Richland (South) Cities",9380,0.089 
+"53","10702","53005","0115.04","WA","Benton WA","Benton County (East Central)--Kennewick & Richland (South) Cities",2975,0.028 
+"53","10703","53005","0107.01","WA","Benton WA","Walla Walla, Benton (Outer) & Franklin (Outer) Counties",2138,0.021 
+"53","10703","53005","0108.07","WA","Benton WA","Walla Walla, Benton (Outer) & Franklin (Outer) Counties",1082,0.011 
+"53","10703","53005","0108.14","WA","Benton WA","Walla Walla, Benton (Outer) & Franklin (Outer) Counties",2844,0.028 
+"53","10703","53005","0116.00","WA","Benton WA","Walla Walla, Benton (Outer) & Franklin (Outer) Counties",931,0.009 
+"53","10703","53005","0117.00","WA","Benton WA","Walla Walla, Benton (Outer) & Franklin (Outer) Counties",7076,0.069 
+"53","10703","53005","0118.00","WA","Benton WA","Walla Walla, Benton (Outer) & Franklin (Outer) Counties",6546,0.064 
+"53","10703","53005","0119.00","WA","Benton WA","Walla Walla, Benton (Outer) & Franklin (Outer) Counties",5808,0.057 
+"53","10703","53005","0120.00","WA","Benton WA","Walla Walla, Benton (Outer) & Franklin (Outer) Counties",5,0 
+"53","10703","53021","0206.01","WA","Franklin WA","Walla Walla, Benton (Outer) & Franklin (Outer) Counties",7412,0.072 
+"53","10703","53021","0207.00","WA","Franklin WA","Walla Walla, Benton (Outer) & Franklin (Outer) Counties",1412,0.014 
+"53","10703","53021","0208.00","WA","Franklin WA","Walla Walla, Benton (Outer) & Franklin (Outer) Counties",8296,0.081 
+"53","10703","53071","9200.00","WA","Walla Walla WA","Walla Walla, Benton (Outer) & Franklin (Outer) Counties",5224,0.051 
+"53","10703","53071","9201.00","WA","Walla Walla WA","Walla Walla, Benton (Outer) & Franklin (Outer) Counties",4880,0.048 
+"53","10703","53071","9202.00","WA","Walla Walla WA","Walla Walla, Benton (Outer) & Franklin (Outer) Counties",3861,0.038 
+"53","10703","53071","9203.00","WA","Walla Walla WA","Walla Walla, Benton (Outer) & Franklin (Outer) Counties",8585,0.084 
+"53","10703","53071","9204.00","WA","Walla Walla WA","Walla Walla, Benton (Outer) & Franklin (Outer) Counties",2317,0.023 
+"53","10703","53071","9205.00","WA","Walla Walla WA","Walla Walla, Benton (Outer) & Franklin (Outer) Counties",2839,0.028 
+"53","10703","53071","9206.00","WA","Walla Walla WA","Walla Walla, Benton (Outer) & Franklin (Outer) Counties",5874,0.057 
+"53","10703","53071","9207.01","WA","Walla Walla WA","Walla Walla, Benton (Outer) & Franklin (Outer) Counties",3735,0.036 
+"53","10703","53071","9207.02","WA","Walla Walla WA","Walla Walla, Benton (Outer) & Franklin (Outer) Counties",4649,0.045 
+"53","10703","53071","9208.01","WA","Walla Walla WA","Walla Walla, Benton (Outer) & Franklin (Outer) Counties",4915,0.048 
+"53","10703","53071","9208.02","WA","Walla Walla WA","Walla Walla, Benton (Outer) & Franklin (Outer) Counties",3394,0.033 
+"53","10703","53071","9209.00","WA","Walla Walla WA","Walla Walla, Benton (Outer) & Franklin (Outer) Counties",8508,0.083 
+"53","10800","53025","0101.00","WA","Grant WA","Grant & Kittitas Counties",3638,0.028 
+"53","10800","53025","0102.00","WA","Grant WA","Grant & Kittitas Counties",2965,0.023 
+"53","10800","53025","0103.00","WA","Grant WA","Grant & Kittitas Counties",4095,0.031 
+"53","10800","53025","0104.00","WA","Grant WA","Grant & Kittitas Counties",8040,0.062 
+"53","10800","53025","0105.00","WA","Grant WA","Grant & Kittitas Counties",2963,0.023 
+"53","10800","53025","0106.00","WA","Grant WA","Grant & Kittitas Counties",6848,0.053 
+"53","10800","53025","0107.00","WA","Grant WA","Grant & Kittitas Counties",2755,0.021 
+"53","10800","53025","0108.00","WA","Grant WA","Grant & Kittitas Counties",4709,0.036 
+"53","10800","53025","0109.01","WA","Grant WA","Grant & Kittitas Counties",1306,0.01 
+"53","10800","53025","0109.02","WA","Grant WA","Grant & Kittitas Counties",9912,0.076 
+"53","10800","53025","0110.00","WA","Grant WA","Grant & Kittitas Counties",11087,0.085 
+"53","10800","53025","0111.00","WA","Grant WA","Grant & Kittitas Counties",7029,0.054 
+"53","10800","53025","0112.00","WA","Grant WA","Grant & Kittitas Counties",4965,0.038 
+"53","10800","53025","0113.00","WA","Grant WA","Grant & Kittitas Counties",3938,0.03 
+"53","10800","53025","0114.01","WA","Grant WA","Grant & Kittitas Counties",1845,0.014 
+"53","10800","53025","0114.02","WA","Grant WA","Grant & Kittitas Counties",13025,0.1 
+"53","10800","53037","9751.00","WA","Kittitas WA","Grant & Kittitas Counties",6339,0.049 
+"53","10800","53037","9752.00","WA","Kittitas WA","Grant & Kittitas Counties",5238,0.04 
+"53","10800","53037","9753.00","WA","Kittitas WA","Grant & Kittitas Counties",4359,0.034 
+"53","10800","53037","9754.01","WA","Kittitas WA","Grant & Kittitas Counties",7501,0.058 
+"53","10800","53037","9754.02","WA","Kittitas WA","Grant & Kittitas Counties",4855,0.037 
+"53","10800","53037","9755.00","WA","Kittitas WA","Grant & Kittitas Counties",5753,0.044 
+"53","10800","53037","9756.00","WA","Kittitas WA","Grant & Kittitas Counties",2615,0.02 
+"53","10800","53037","9757.00","WA","Kittitas WA","Grant & Kittitas Counties",4255,0.033 
+"53","10901","53077","0001.00","WA","Yakima WA","Yakima County (Central)--Greater Yakima City",3095,0.026 
+"53","10901","53077","0002.00","WA","Yakima WA","Yakima County (Central)--Greater Yakima City",5553,0.046 
+"53","10901","53077","0003.00","WA","Yakima WA","Yakima County (Central)--Greater Yakima City",4521,0.038 
+"53","10901","53077","0004.00","WA","Yakima WA","Yakima County (Central)--Greater Yakima City",7423,0.062 
+"53","10901","53077","0005.00","WA","Yakima WA","Yakima County (Central)--Greater Yakima City",5202,0.043 
+"53","10901","53077","0006.00","WA","Yakima WA","Yakima County (Central)--Greater Yakima City",6953,0.058 
+"53","10901","53077","0007.00","WA","Yakima WA","Yakima County (Central)--Greater Yakima City",7072,0.059 
+"53","10901","53077","0008.00","WA","Yakima WA","Yakima County (Central)--Greater Yakima City",4495,0.037 
+"53","10901","53077","0009.01","WA","Yakima WA","Yakima County (Central)--Greater Yakima City",7411,0.062 
+"53","10901","53077","0009.02","WA","Yakima WA","Yakima County (Central)--Greater Yakima City",3805,0.032 
+"53","10901","53077","0010.00","WA","Yakima WA","Yakima County (Central)--Greater Yakima City",5885,0.049 
+"53","10901","53077","0011.00","WA","Yakima WA","Yakima County (Central)--Greater Yakima City",6931,0.058 
+"53","10901","53077","0012.01","WA","Yakima WA","Yakima County (Central)--Greater Yakima City",3928,0.033 
+"53","10901","53077","0012.02","WA","Yakima WA","Yakima County (Central)--Greater Yakima City",6318,0.052 
+"53","10901","53077","0013.00","WA","Yakima WA","Yakima County (Central)--Greater Yakima City",2731,0.023 
+"53","10901","53077","0014.00","WA","Yakima WA","Yakima County (Central)--Greater Yakima City",3444,0.029 
+"53","10901","53077","0015.01","WA","Yakima WA","Yakima County (Central)--Greater Yakima City",6991,0.058 
+"53","10901","53077","0015.02","WA","Yakima WA","Yakima County (Central)--Greater Yakima City",2804,0.023 
+"53","10901","53077","0016.02","WA","Yakima WA","Yakima County (Central)--Greater Yakima City",6854,0.057 
+"53","10901","53077","0028.02","WA","Yakima WA","Yakima County (Central)--Greater Yakima City",7882,0.065 
+"53","10901","53077","0032.00","WA","Yakima WA","Yakima County (Central)--Greater Yakima City",6682,0.056 
+"53","10901","53077","0034.00","WA","Yakima WA","Yakima County (Central)--Greater Yakima City",4382,0.036 
+"53","10902","53077","0016.01","WA","Yakima WA","Yakima County (Outer)--Sunnyside & Grandview Cities",2413,0.02 
+"53","10902","53077","0017.01","WA","Yakima WA","Yakima County (Outer)--Sunnyside & Grandview Cities",3083,0.025 
+"53","10902","53077","0017.02","WA","Yakima WA","Yakima County (Outer)--Sunnyside & Grandview Cities",6023,0.049 
+"53","10902","53077","0018.00","WA","Yakima WA","Yakima County (Outer)--Sunnyside & Grandview Cities",7140,0.058 
+"53","10902","53077","0019.01","WA","Yakima WA","Yakima County (Outer)--Sunnyside & Grandview Cities",3834,0.031 
+"53","10902","53077","0019.02","WA","Yakima WA","Yakima County (Outer)--Sunnyside & Grandview Cities",6417,0.052 
+"53","10902","53077","0020.01","WA","Yakima WA","Yakima County (Outer)--Sunnyside & Grandview Cities",8401,0.068 
+"53","10902","53077","0020.02","WA","Yakima WA","Yakima County (Outer)--Sunnyside & Grandview Cities",8600,0.07 
+"53","10902","53077","0021.01","WA","Yakima WA","Yakima County (Outer)--Sunnyside & Grandview Cities",1950,0.016 
+"53","10902","53077","0021.02","WA","Yakima WA","Yakima County (Outer)--Sunnyside & Grandview Cities",7578,0.062 
+"53","10902","53077","0022.00","WA","Yakima WA","Yakima County (Outer)--Sunnyside & Grandview Cities",7745,0.063 
+"53","10902","53077","0027.01","WA","Yakima WA","Yakima County (Outer)--Sunnyside & Grandview Cities",3440,0.028 
+"53","10902","53077","0028.01","WA","Yakima WA","Yakima County (Outer)--Sunnyside & Grandview Cities",5359,0.044 
+"53","10902","53077","0029.00","WA","Yakima WA","Yakima County (Outer)--Sunnyside & Grandview Cities",6570,0.053 
+"53","10902","53077","0030.01","WA","Yakima WA","Yakima County (Outer)--Sunnyside & Grandview Cities",4584,0.037 
+"53","10902","53077","0030.02","WA","Yakima WA","Yakima County (Outer)--Sunnyside & Grandview Cities",3668,0.03 
+"53","10902","53077","0031.00","WA","Yakima WA","Yakima County (Outer)--Sunnyside & Grandview Cities",5232,0.043 
+"53","10902","53077","9400.01","WA","Yakima WA","Yakima County (Outer)--Sunnyside & Grandview Cities",6409,0.052 
+"53","10902","53077","9400.02","WA","Yakima WA","Yakima County (Outer)--Sunnyside & Grandview Cities",4430,0.036 
+"53","10902","53077","9400.03","WA","Yakima WA","Yakima County (Outer)--Sunnyside & Grandview Cities",3682,0.03 
+"53","10902","53077","9400.04","WA","Yakima WA","Yakima County (Outer)--Sunnyside & Grandview Cities",6777,0.055 
+"53","10902","53077","9400.05","WA","Yakima WA","Yakima County (Outer)--Sunnyside & Grandview Cities",4695,0.038 
+"53","10902","53077","9400.06","WA","Yakima WA","Yakima County (Outer)--Sunnyside & Grandview Cities",4839,0.039 
+"53","11000","53039","9501.00","WA","Klickitat WA","Lewis, Klickitat & Skamania Counties",8325,0.078 
+"53","11000","53039","9502.00","WA","Klickitat WA","Lewis, Klickitat & Skamania Counties",4224,0.04 
+"53","11000","53039","9503.00","WA","Klickitat WA","Lewis, Klickitat & Skamania Counties",7769,0.073 
+"53","11000","53041","9701.00","WA","Lewis WA","Lewis, Klickitat & Skamania Counties",3379,0.032 
+"53","11000","53041","9702.00","WA","Lewis WA","Lewis, Klickitat & Skamania Counties",3248,0.03 
+"53","11000","53041","9703.00","WA","Lewis WA","Lewis, Klickitat & Skamania Counties",4973,0.047 
+"53","11000","53041","9704.00","WA","Lewis WA","Lewis, Klickitat & Skamania Counties",5703,0.053 
+"53","11000","53041","9705.00","WA","Lewis WA","Lewis, Klickitat & Skamania Counties",2099,0.02 
+"53","11000","53041","9706.00","WA","Lewis WA","Lewis, Klickitat & Skamania Counties",2005,0.019 
+"53","11000","53041","9707.00","WA","Lewis WA","Lewis, Klickitat & Skamania Counties",4184,0.039 
+"53","11000","53041","9708.00","WA","Lewis WA","Lewis, Klickitat & Skamania Counties",4109,0.038 
+"53","11000","53041","9709.00","WA","Lewis WA","Lewis, Klickitat & Skamania Counties",1799,0.017 
+"53","11000","53041","9710.00","WA","Lewis WA","Lewis, Klickitat & Skamania Counties",2949,0.028 
+"53","11000","53041","9711.00","WA","Lewis WA","Lewis, Klickitat & Skamania Counties",3819,0.036 
+"53","11000","53041","9712.00","WA","Lewis WA","Lewis, Klickitat & Skamania Counties",3303,0.031 
+"53","11000","53041","9713.00","WA","Lewis WA","Lewis, Klickitat & Skamania Counties",5571,0.052 
+"53","11000","53041","9714.00","WA","Lewis WA","Lewis, Klickitat & Skamania Counties",2608,0.024 
+"53","11000","53041","9715.00","WA","Lewis WA","Lewis, Klickitat & Skamania Counties",7092,0.066 
+"53","11000","53041","9716.00","WA","Lewis WA","Lewis, Klickitat & Skamania Counties",3945,0.037 
+"53","11000","53041","9717.00","WA","Lewis WA","Lewis, Klickitat & Skamania Counties",4652,0.044 
+"53","11000","53041","9718.00","WA","Lewis WA","Lewis, Klickitat & Skamania Counties",4175,0.039 
+"53","11000","53041","9719.00","WA","Lewis WA","Lewis, Klickitat & Skamania Counties",2931,0.027 
+"53","11000","53041","9720.00","WA","Lewis WA","Lewis, Klickitat & Skamania Counties",2911,0.027 
+"53","11000","53059","9501.00","WA","Skamania WA","Lewis, Klickitat & Skamania Counties",98,0.001 
+"53","11000","53059","9502.00","WA","Skamania WA","Lewis, Klickitat & Skamania Counties",4264,0.04 
+"53","11000","53059","9503.00","WA","Skamania WA","Lewis, Klickitat & Skamania Counties",2010,0.019 
+"53","11000","53059","9504.00","WA","Skamania WA","Lewis, Klickitat & Skamania Counties",2234,0.021 
+"53","11000","53059","9505.00","WA","Skamania WA","Lewis, Klickitat & Skamania Counties",2460,0.023 
+"53","11101","53011","0410.03","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",3968,0.038 
+"53","11101","53011","0410.05","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",2370,0.023 
+"53","11101","53011","0410.11","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",2994,0.028 
+"53","11101","53011","0412.01","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",6339,0.06 
+"53","11101","53011","0412.03","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",4543,0.043 
+"53","11101","53011","0412.05","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",4649,0.044 
+"53","11101","53011","0412.06","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",5535,0.053 
+"53","11101","53011","0413.09","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",4802,0.046 
+"53","11101","53011","0413.12","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",4038,0.038 
+"53","11101","53011","0413.13","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",2534,0.024 
+"53","11101","53011","0413.17","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",4080,0.039 
+"53","11101","53011","0413.18","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",4733,0.045 
+"53","11101","53011","0413.22","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",4386,0.042 
+"53","11101","53011","0413.30","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",4436,0.042 
+"53","11101","53011","0413.31","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",2565,0.024 
+"53","11101","53011","0416.00","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",3603,0.034 
+"53","11101","53011","0417.00","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",3919,0.037 
+"53","11101","53011","0418.00","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",4037,0.038 
+"53","11101","53011","0419.00","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",2056,0.02 
+"53","11101","53011","0420.00","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",1603,0.015 
+"53","11101","53011","0421.00","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",3155,0.03 
+"53","11101","53011","0423.00","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",2858,0.027 
+"53","11101","53011","0424.00","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",1995,0.019 
+"53","11101","53011","0425.00","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",1176,0.011 
+"53","11101","53011","0426.00","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",4653,0.044 
+"53","11101","53011","0427.00","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",4320,0.041 
+"53","11101","53011","0428.00","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",2772,0.026 
+"53","11101","53011","0429.00","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",1545,0.015 
+"53","11101","53011","0430.00","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",1756,0.017 
+"53","11101","53011","0431.00","WA","Clark WA","Clark County (Southwest)--Vancouver City (West & Central)",3884,0.037 
+"53","11102","53011","0404.09","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",1834,0.017 
+"53","11102","53011","0404.11","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",1874,0.018 
+"53","11102","53011","0404.12","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",4333,0.041 
+"53","11102","53011","0408.03","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",5035,0.047 
+"53","11102","53011","0408.05","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",5735,0.054 
+"53","11102","53011","0408.06","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",4611,0.043 
+"53","11102","53011","0408.08","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",1605,0.015 
+"53","11102","53011","0408.09","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",6176,0.058 
+"53","11102","53011","0408.10","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",2728,0.026 
+"53","11102","53011","0409.04","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",5797,0.055 
+"53","11102","53011","0409.07","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",4661,0.044 
+"53","11102","53011","0409.08","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",6161,0.058 
+"53","11102","53011","0409.09","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",5088,0.048 
+"53","11102","53011","0409.10","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",4369,0.041 
+"53","11102","53011","0410.07","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",3066,0.029 
+"53","11102","53011","0410.08","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",3754,0.035 
+"53","11102","53011","0410.09","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",3578,0.034 
+"53","11102","53011","0410.10","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",3385,0.032 
+"53","11102","53011","0411.04","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",3799,0.036 
+"53","11102","53011","0411.05","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",5206,0.049 
+"53","11102","53011","0411.07","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",2504,0.024 
+"53","11102","53011","0411.08","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",6626,0.062 
+"53","11102","53011","0411.10","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",5849,0.055 
+"53","11102","53011","0411.11","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",3096,0.029 
+"53","11102","53011","0411.12","WA","Clark WA","Clark County (West Central)--Salmon Creek & Hazel Dell",5249,0.049 
+"53","11103","53011","0405.07","WA","Clark WA","Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities",1998,0.019 
+"53","11103","53011","0405.08","WA","Clark WA","Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities",6310,0.061 
+"53","11103","53011","0405.09","WA","Clark WA","Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities",2990,0.029 
+"53","11103","53011","0405.10","WA","Clark WA","Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities",5032,0.049 
+"53","11103","53011","0406.04","WA","Clark WA","Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities",5486,0.053 
+"53","11103","53011","0406.05","WA","Clark WA","Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities",4680,0.045 
+"53","11103","53011","0406.08","WA","Clark WA","Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities",3817,0.037 
+"53","11103","53011","0406.09","WA","Clark WA","Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities",4508,0.044 
+"53","11103","53011","0406.10","WA","Clark WA","Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities",3193,0.031 
+"53","11103","53011","0413.10","WA","Clark WA","Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities",4746,0.046 
+"53","11103","53011","0413.19","WA","Clark WA","Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities",6022,0.058 
+"53","11103","53011","0413.20","WA","Clark WA","Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities",5941,0.058 
+"53","11103","53011","0413.21","WA","Clark WA","Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities",2808,0.027 
+"53","11103","53011","0413.23","WA","Clark WA","Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities",5458,0.053 
+"53","11103","53011","0413.25","WA","Clark WA","Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities",5059,0.049 
+"53","11103","53011","0413.26","WA","Clark WA","Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities",2499,0.024 
+"53","11103","53011","0413.27","WA","Clark WA","Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities",8381,0.081 
+"53","11103","53011","0413.28","WA","Clark WA","Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities",5558,0.054 
+"53","11103","53011","0413.29","WA","Clark WA","Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities",3951,0.038 
+"53","11103","53011","0413.32","WA","Clark WA","Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities",3622,0.035 
+"53","11103","53011","0413.33","WA","Clark WA","Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities",3270,0.032 
+"53","11103","53011","0414.00","WA","Clark WA","Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities",5075,0.049 
+"53","11103","53011","0415.00","WA","Clark WA","Clark County (Southeast)--Vancouver (East), Camas & Washougal Cities",2732,0.026 
+"53","11104","53011","0401.01","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",5154,0.047 
+"53","11104","53011","0401.02","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",3590,0.032 
+"53","11104","53011","0402.01","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",5670,0.051 
+"53","11104","53011","0402.02","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",3658,0.033 
+"53","11104","53011","0402.03","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",5442,0.049 
+"53","11104","53011","0403.01","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",1471,0.013 
+"53","11104","53011","0403.02","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",6256,0.056 
+"53","11104","53011","0404.03","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",3848,0.035 
+"53","11104","53011","0404.07","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",5343,0.048 
+"53","11104","53011","0404.08","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",3454,0.031 
+"53","11104","53011","0404.13","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",2707,0.024 
+"53","11104","53011","0404.14","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",5935,0.054 
+"53","11104","53011","0404.15","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",3839,0.035 
+"53","11104","53011","0404.16","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",3199,0.029 
+"53","11104","53011","0405.04","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",4883,0.044 
+"53","11104","53011","0405.05","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",5584,0.05 
+"53","11104","53011","0405.11","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",2188,0.02 
+"53","11104","53011","0406.03","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",4683,0.042 
+"53","11104","53011","0407.03","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",6384,0.058 
+"53","11104","53011","0407.06","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",3702,0.033 
+"53","11104","53011","0407.07","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",3245,0.029 
+"53","11104","53011","0407.09","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",4196,0.038 
+"53","11104","53011","0407.10","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",4705,0.042 
+"53","11104","53011","0407.11","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",3098,0.028 
+"53","11104","53011","0407.12","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",5413,0.049 
+"53","11104","53011","0409.05","WA","Clark WA","Clark County (North)--Battle Ground City & Orchards",3157,0.028 
+"53","11200","53015","0003.00","WA","Cowlitz WA","Cowlitz, Pacific & Wahkiakum Counties",509,0.004 
+"53","11200","53015","0004.00","WA","Cowlitz WA","Cowlitz, Pacific & Wahkiakum Counties",3612,0.028 
+"53","11200","53015","0005.01","WA","Cowlitz WA","Cowlitz, Pacific & Wahkiakum Counties",2826,0.022 
+"53","11200","53015","0005.02","WA","Cowlitz WA","Cowlitz, Pacific & Wahkiakum Counties",4858,0.038 
+"53","11200","53015","0006.01","WA","Cowlitz WA","Cowlitz, Pacific & Wahkiakum Counties",3867,0.03 
+"53","11200","53015","0006.02","WA","Cowlitz WA","Cowlitz, Pacific & Wahkiakum Counties",3017,0.024 
+"53","11200","53015","0007.02","WA","Cowlitz WA","Cowlitz, Pacific & Wahkiakum Counties",3079,0.024 
+"53","11200","53015","0007.03","WA","Cowlitz WA","Cowlitz, Pacific & Wahkiakum Counties",1601,0.013 
+"53","11200","53015","0007.04","WA","Cowlitz WA","Cowlitz, Pacific & Wahkiakum Counties",7029,0.055 
+"53","11200","53015","0008.00","WA","Cowlitz WA","Cowlitz, Pacific & Wahkiakum Counties",6727,0.053 
+"53","11200","53015","0009.00","WA","Cowlitz WA","Cowlitz, Pacific & Wahkiakum Counties",7008,0.055 
+"53","11200","53015","0010.00","WA","Cowlitz WA","Cowlitz, Pacific & Wahkiakum Counties",1226,0.01 
+"53","11200","53015","0011.00","WA","Cowlitz WA","Cowlitz, Pacific & Wahkiakum Counties",5856,0.046 
+"53","11200","53015","0012.00","WA","Cowlitz WA","Cowlitz, Pacific & Wahkiakum Counties",4386,0.034 
+"53","11200","53015","0013.00","WA","Cowlitz WA","Cowlitz, Pacific & Wahkiakum Counties",3606,0.028 
+"53","11200","53015","0015.01","WA","Cowlitz WA","Cowlitz, Pacific & Wahkiakum Counties",3005,0.024 
+"53","11200","53015","0015.02","WA","Cowlitz WA","Cowlitz, Pacific & Wahkiakum Counties",7918,0.062 
+"53","11200","53015","0016.00","WA","Cowlitz WA","Cowlitz, Pacific & Wahkiakum Counties",6330,0.05 
+"53","11200","53015","0017.00","WA","Cowlitz WA","Cowlitz, Pacific & Wahkiakum Counties",5169,0.041 
+"53","11200","53015","0018.00","WA","Cowlitz WA","Cowlitz, Pacific & Wahkiakum Counties",1689,0.013 
+"53","11200","53015","0019.00","WA","Cowlitz WA","Cowlitz, Pacific & Wahkiakum Counties",5118,0.04 
+"53","11200","53015","0020.01","WA","Cowlitz WA","Cowlitz, Pacific & Wahkiakum Counties",3609,0.028 
+"53","11200","53015","0020.02","WA","Cowlitz WA","Cowlitz, Pacific & Wahkiakum Counties",6062,0.048 
+"53","11200","53015","0021.00","WA","Cowlitz WA","Cowlitz, Pacific & Wahkiakum Counties",4303,0.034 
+"53","11200","53049","9502.00","WA","Pacific WA","Cowlitz, Pacific & Wahkiakum Counties",4267,0.034 
+"53","11200","53049","9503.00","WA","Pacific WA","Cowlitz, Pacific & Wahkiakum Counties",3625,0.028 
+"53","11200","53049","9504.00","WA","Pacific WA","Cowlitz, Pacific & Wahkiakum Counties",3921,0.031 
+"53","11200","53049","9505.00","WA","Pacific WA","Cowlitz, Pacific & Wahkiakum Counties",2475,0.019 
+"53","11200","53049","9506.00","WA","Pacific WA","Cowlitz, Pacific & Wahkiakum Counties",1263,0.01 
+"53","11200","53049","9507.00","WA","Pacific WA","Cowlitz, Pacific & Wahkiakum Counties",2995,0.024 
+"53","11200","53049","9508.00","WA","Pacific WA","Cowlitz, Pacific & Wahkiakum Counties",2374,0.019 
+"53","11200","53069","9501.00","WA","Wahkiakum WA","Cowlitz, Pacific & Wahkiakum Counties",3978,0.031 
+"53","11300","53027","0002.00","WA","Grays Harbor WA","Grays Harbor & Mason Counties",7599,0.057 
+"53","11300","53027","0003.00","WA","Grays Harbor WA","Grays Harbor & Mason Counties",3334,0.025 
+"53","11300","53027","0004.00","WA","Grays Harbor WA","Grays Harbor & Mason Counties",6773,0.051 
+"53","11300","53027","0005.00","WA","Grays Harbor WA","Grays Harbor & Mason Counties",6803,0.051 
+"53","11300","53027","0006.00","WA","Grays Harbor WA","Grays Harbor & Mason Counties",3667,0.027 
+"53","11300","53027","0007.00","WA","Grays Harbor WA","Grays Harbor & Mason Counties",4538,0.034 
+"53","11300","53027","0008.00","WA","Grays Harbor WA","Grays Harbor & Mason Counties",4055,0.03 
+"53","11300","53027","0009.00","WA","Grays Harbor WA","Grays Harbor & Mason Counties",6252,0.047 
+"53","11300","53027","0010.00","WA","Grays Harbor WA","Grays Harbor & Mason Counties",3600,0.027 
+"53","11300","53027","0011.00","WA","Grays Harbor WA","Grays Harbor & Mason Counties",4284,0.032 
+"53","11300","53027","0012.00","WA","Grays Harbor WA","Grays Harbor & Mason Counties",4448,0.033 
+"53","11300","53027","0013.00","WA","Grays Harbor WA","Grays Harbor & Mason Counties",3563,0.027 
+"53","11300","53027","0014.00","WA","Grays Harbor WA","Grays Harbor & Mason Counties",2096,0.016 
+"53","11300","53027","0015.00","WA","Grays Harbor WA","Grays Harbor & Mason Counties",3906,0.029 
+"53","11300","53027","0016.00","WA","Grays Harbor WA","Grays Harbor & Mason Counties",6661,0.05 
+"53","11300","53027","9400.00","WA","Grays Harbor WA","Grays Harbor & Mason Counties",1218,0.009 
+"53","11300","53045","9400.00","WA","Mason WA","Grays Harbor & Mason Counties",730,0.005 
+"53","11300","53045","9601.00","WA","Mason WA","Grays Harbor & Mason Counties",724,0.005 
+"53","11300","53045","9602.00","WA","Mason WA","Grays Harbor & Mason Counties",5743,0.043 
+"53","11300","53045","9603.00","WA","Mason WA","Grays Harbor & Mason Counties",6144,0.046 
+"53","11300","53045","9604.00","WA","Mason WA","Grays Harbor & Mason Counties",8817,0.066 
+"53","11300","53045","9605.00","WA","Mason WA","Grays Harbor & Mason Counties",4888,0.037 
+"53","11300","53045","9606.00","WA","Mason WA","Grays Harbor & Mason Counties",5429,0.041 
+"53","11300","53045","9607.00","WA","Mason WA","Grays Harbor & Mason Counties",1754,0.013 
+"53","11300","53045","9608.00","WA","Mason WA","Grays Harbor & Mason Counties",4014,0.03 
+"53","11300","53045","9609.00","WA","Mason WA","Grays Harbor & Mason Counties",4794,0.036 
+"53","11300","53045","9610.00","WA","Mason WA","Grays Harbor & Mason Counties",4852,0.036 
+"53","11300","53045","9611.00","WA","Mason WA","Grays Harbor & Mason Counties",5791,0.043 
+"53","11300","53045","9612.00","WA","Mason WA","Grays Harbor & Mason Counties",3743,0.028 
+"53","11300","53045","9613.00","WA","Mason WA","Grays Harbor & Mason Counties",3276,0.025 
+"53","11401","53067","0101.00","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",3100,0.021 
+"53","11401","53067","0102.00","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",5141,0.034 
+"53","11401","53067","0103.00","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",5064,0.034 
+"53","11401","53067","0104.00","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",3513,0.023 
+"53","11401","53067","0105.10","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",1703,0.011 
+"53","11401","53067","0105.20","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",6035,0.04 
+"53","11401","53067","0106.00","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",5960,0.039 
+"53","11401","53067","0107.00","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",5422,0.036 
+"53","11401","53067","0108.00","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",6309,0.042 
+"53","11401","53067","0109.10","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",6567,0.043 
+"53","11401","53067","0109.20","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",4122,0.027 
+"53","11401","53067","0111.00","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",3568,0.024 
+"53","11401","53067","0112.00","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",4960,0.033 
+"53","11401","53067","0113.00","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",4336,0.029 
+"53","11401","53067","0114.10","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",5159,0.034 
+"53","11401","53067","0114.20","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",6707,0.044 
+"53","11401","53067","0115.00","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",5759,0.038 
+"53","11401","53067","0116.10","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",7501,0.05 
+"53","11401","53067","0116.21","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",6863,0.045 
+"53","11401","53067","0116.22","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",4414,0.029 
+"53","11401","53067","0116.23","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",5581,0.037 
+"53","11401","53067","0116.24","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",3708,0.025 
+"53","11401","53067","0117.10","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",7502,0.05 
+"53","11401","53067","0117.20","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",4540,0.03 
+"53","11401","53067","0122.12","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",7005,0.046 
+"53","11401","53067","0122.22","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",7128,0.047 
+"53","11401","53067","0123.10","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",9225,0.061 
+"53","11401","53067","0123.30","WA","Thurston WA","Thurston County (Central)--Olympia, Lacey & Tumwater Cities",4246,0.028 
+"53","11402","53067","0110.00","WA","Thurston WA","Thurston County (Outer)",4879,0.048 
+"53","11402","53067","0118.10","WA","Thurston WA","Thurston County (Outer)",3521,0.035 
+"53","11402","53067","0118.21","WA","Thurston WA","Thurston County (Outer)",4224,0.042 
+"53","11402","53067","0118.22","WA","Thurston WA","Thurston County (Outer)",4127,0.041 
+"53","11402","53067","0119.00","WA","Thurston WA","Thurston County (Outer)",6767,0.067 
+"53","11402","53067","0120.00","WA","Thurston WA","Thurston County (Outer)",7158,0.071 
+"53","11402","53067","0121.00","WA","Thurston WA","Thurston County (Outer)",4175,0.041 
+"53","11402","53067","0122.11","WA","Thurston WA","Thurston County (Outer)",2563,0.025 
+"53","11402","53067","0122.21","WA","Thurston WA","Thurston County (Outer)",5219,0.052 
+"53","11402","53067","0123.20","WA","Thurston WA","Thurston County (Outer)",2839,0.028 
+"53","11402","53067","0124.11","WA","Thurston WA","Thurston County (Outer)",7354,0.073 
+"53","11402","53067","0124.12","WA","Thurston WA","Thurston County (Outer)",4794,0.047 
+"53","11402","53067","0124.20","WA","Thurston WA","Thurston County (Outer)",4021,0.04 
+"53","11402","53067","0125.10","WA","Thurston WA","Thurston County (Outer)",3233,0.032 
+"53","11402","53067","0125.20","WA","Thurston WA","Thurston County (Outer)",7154,0.071 
+"53","11402","53067","0125.30","WA","Thurston WA","Thurston County (Outer)",3909,0.039 
+"53","11402","53067","0126.10","WA","Thurston WA","Thurston County (Outer)",5682,0.056 
+"53","11402","53067","0126.20","WA","Thurston WA","Thurston County (Outer)",4519,0.045 
+"53","11402","53067","0127.10","WA","Thurston WA","Thurston County (Outer)",2246,0.022 
+"53","11402","53067","0127.20","WA","Thurston WA","Thurston County (Outer)",6400,0.063 
+"53","11402","53067","0127.30","WA","Thurston WA","Thurston County (Outer)",6342,0.063 
+"53","11501","53053","0604.00","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",3896,0.032 
+"53","11501","53053","0605.00","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",3923,0.033 
+"53","11501","53053","0606.00","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",5262,0.044 
+"53","11501","53053","0607.00","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",6523,0.054 
+"53","11501","53053","0608.00","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",4940,0.041 
+"53","11501","53053","0609.04","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",5015,0.042 
+"53","11501","53053","0609.06","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",2045,0.017 
+"53","11501","53053","0611.00","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",6200,0.052 
+"53","11501","53053","0612.00","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",4968,0.041 
+"53","11501","53053","0613.00","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",4808,0.04 
+"53","11501","53053","0614.00","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",4442,0.037 
+"53","11501","53053","0615.00","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",4742,0.039 
+"53","11501","53053","0616.01","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",1824,0.015 
+"53","11501","53053","0616.02","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",956,0.008 
+"53","11501","53053","0617.00","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",4578,0.038 
+"53","11501","53053","0618.00","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",2880,0.024 
+"53","11501","53053","0619.00","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",1961,0.016 
+"53","11501","53053","0620.00","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",4228,0.035 
+"53","11501","53053","0623.00","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",5244,0.044 
+"53","11501","53053","0624.00","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",5471,0.046 
+"53","11501","53053","0625.00","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",7073,0.059 
+"53","11501","53053","0626.00","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",2977,0.025 
+"53","11501","53053","0628.01","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",6130,0.051 
+"53","11501","53053","0628.02","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",4112,0.034 
+"53","11501","53053","0629.00","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",7365,0.061 
+"53","11501","53053","0630.00","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",2956,0.025 
+"53","11501","53053","9400.06","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",2447,0.02 
+"53","11501","53053","9400.07","WA","Pierce WA","Pierce County (Central)--Tacoma City (Central)",3150,0.026 
+"53","11502","53053","0603.00","WA","Pierce WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",4106,0.037 
+"53","11502","53053","0609.03","WA","Pierce WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",3043,0.028 
+"53","11502","53053","0609.05","WA","Pierce WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",6359,0.058 
+"53","11502","53053","0610.01","WA","Pierce WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",3791,0.035 
+"53","11502","53053","0610.02","WA","Pierce WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",4187,0.038 
+"53","11502","53053","0723.05","WA","Pierce WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",5903,0.054 
+"53","11502","53053","0723.07","WA","Pierce WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",4357,0.04 
+"53","11502","53053","0723.09","WA","Pierce WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",5892,0.054 
+"53","11502","53053","0723.10","WA","Pierce WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",3803,0.035 
+"53","11502","53053","0723.11","WA","Pierce WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",4231,0.039 
+"53","11502","53053","0724.05","WA","Pierce WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",4107,0.037 
+"53","11502","53053","0724.06","WA","Pierce WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",5831,0.053 
+"53","11502","53053","0724.07","WA","Pierce WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",4790,0.044 
+"53","11502","53053","0724.08","WA","Pierce WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",5919,0.054 
+"53","11502","53053","0724.09","WA","Pierce WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",2510,0.023 
+"53","11502","53053","0724.10","WA","Pierce WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",3633,0.033 
+"53","11502","53053","0725.03","WA","Pierce WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",4186,0.038 
+"53","11502","53053","0725.04","WA","Pierce WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",4638,0.042 
+"53","11502","53053","0725.05","WA","Pierce WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",6904,0.063 
+"53","11502","53053","0725.06","WA","Pierce WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",3438,0.031 
+"53","11502","53053","0725.07","WA","Pierce WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",2643,0.024 
+"53","11502","53053","0726.01","WA","Pierce WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",5235,0.048 
+"53","11502","53053","0726.02","WA","Pierce WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",3898,0.035 
+"53","11502","53053","0726.03","WA","Pierce WA","Pierce County (Northwest)--Peninsula Region & Tacoma City (West)",6462,0.059 
+"53","11503","53053","0718.03","WA","Pierce WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",5254,0.049 
+"53","11503","53053","0718.05","WA","Pierce WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",3625,0.034 
+"53","11503","53053","0718.06","WA","Pierce WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",4213,0.039 
+"53","11503","53053","0718.07","WA","Pierce WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",3480,0.032 
+"53","11503","53053","0718.08","WA","Pierce WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",3920,0.036 
+"53","11503","53053","0719.01","WA","Pierce WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",4713,0.044 
+"53","11503","53053","0719.02","WA","Pierce WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",5183,0.048 
+"53","11503","53053","0720.00","WA","Pierce WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",4779,0.044 
+"53","11503","53053","0721.05","WA","Pierce WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",5230,0.049 
+"53","11503","53053","0721.06","WA","Pierce WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",5921,0.055 
+"53","11503","53053","0721.07","WA","Pierce WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",4197,0.039 
+"53","11503","53053","0721.08","WA","Pierce WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",5648,0.052 
+"53","11503","53053","0721.09","WA","Pierce WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",3468,0.032 
+"53","11503","53053","0721.11","WA","Pierce WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",2514,0.023 
+"53","11503","53053","0721.12","WA","Pierce WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",4369,0.041 
+"53","11503","53053","0723.08","WA","Pierce WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",6886,0.064 
+"53","11503","53053","0723.12","WA","Pierce WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",5612,0.052 
+"53","11503","53053","0723.13","WA","Pierce WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",3797,0.035 
+"53","11503","53053","0728.00","WA","Pierce WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",8267,0.077 
+"53","11503","53053","0729.01","WA","Pierce WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",2507,0.023 
+"53","11503","53053","0729.03","WA","Pierce WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",2716,0.025 
+"53","11503","53053","0729.05","WA","Pierce WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",5214,0.048 
+"53","11503","53053","0729.06","WA","Pierce WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",1392,0.013 
+"53","11503","53053","0729.07","WA","Pierce WA","Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord",4679,0.043 
+"53","11504","53053","0631.00","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",4270,0.034 
+"53","11504","53053","0632.00","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",4855,0.039 
+"53","11504","53053","0633.00","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",7857,0.063 
+"53","11504","53053","0634.00","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",7592,0.061 
+"53","11504","53053","0635.01","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",4164,0.033 
+"53","11504","53053","0635.02","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",5179,0.041 
+"53","11504","53053","0711.00","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",2362,0.019 
+"53","11504","53053","0713.05","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",3705,0.03 
+"53","11504","53053","0713.06","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",6166,0.049 
+"53","11504","53053","0714.03","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",3994,0.032 
+"53","11504","53053","0714.06","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",6126,0.049 
+"53","11504","53053","0714.08","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",4005,0.032 
+"53","11504","53053","0714.09","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",4409,0.035 
+"53","11504","53053","0714.10","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",5724,0.046 
+"53","11504","53053","0714.11","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",4725,0.038 
+"53","11504","53053","0715.03","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",5115,0.041 
+"53","11504","53053","0715.04","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",5539,0.044 
+"53","11504","53053","0715.05","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",5202,0.042 
+"53","11504","53053","0715.06","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",5314,0.042 
+"53","11504","53053","0716.01","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",4920,0.039 
+"53","11504","53053","0716.02","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",7355,0.059 
+"53","11504","53053","0717.03","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",3670,0.029 
+"53","11504","53053","0717.04","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",4360,0.035 
+"53","11504","53053","0717.05","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",3768,0.03 
+"53","11504","53053","0717.06","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",1909,0.015 
+"53","11504","53053","0717.07","WA","Pierce WA","Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway",2853,0.023 
+"53","11505","53053","0602.00","WA","Pierce WA","Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities",1928,0.018 
+"53","11505","53053","0703.07","WA","Pierce WA","Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities",4876,0.046 
+"53","11505","53053","0703.08","WA","Pierce WA","Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities",3782,0.035 
+"53","11505","53053","0703.09","WA","Pierce WA","Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities",5601,0.052 
+"53","11505","53053","0703.12","WA","Pierce WA","Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities",4869,0.045 
+"53","11505","53053","0703.13","WA","Pierce WA","Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities",6029,0.056 
+"53","11505","53053","0703.14","WA","Pierce WA","Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities",2880,0.027 
+"53","11505","53053","0703.15","WA","Pierce WA","Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities",4597,0.043 
+"53","11505","53053","0703.16","WA","Pierce WA","Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities",5207,0.049 
+"53","11505","53053","0704.01","WA","Pierce WA","Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities",2046,0.019 
+"53","11505","53053","0707.03","WA","Pierce WA","Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities",6065,0.057 
+"53","11505","53053","0733.01","WA","Pierce WA","Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities",5467,0.051 
+"53","11505","53053","0733.02","WA","Pierce WA","Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities",4033,0.038 
+"53","11505","53053","0735.00","WA","Pierce WA","Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities",7030,0.066 
+"53","11505","53053","9400.01","WA","Pierce WA","Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities",2760,0.026 
+"53","11505","53053","9400.02","WA","Pierce WA","Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities",3945,0.037 
+"53","11505","53053","9400.03","WA","Pierce WA","Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities",6790,0.063 
+"53","11505","53053","9400.04","WA","Pierce WA","Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities",6504,0.061 
+"53","11505","53053","9400.05","WA","Pierce WA","Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities",5839,0.055 
+"53","11505","53053","9400.08","WA","Pierce WA","Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities",5902,0.055 
+"53","11505","53053","9400.09","WA","Pierce WA","Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities",2845,0.027 
+"53","11505","53053","9400.10","WA","Pierce WA","Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities",3985,0.037 
+"53","11505","53053","9400.11","WA","Pierce WA","Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities",4106,0.038 
+"53","11506","53053","0712.05","WA","Pierce WA","Pierce County (East Central)--Puyallup City & South Hill",4668,0.039 
+"53","11506","53053","0712.06","WA","Pierce WA","Pierce County (East Central)--Puyallup City & South Hill",6589,0.055 
+"53","11506","53053","0712.07","WA","Pierce WA","Pierce County (East Central)--Puyallup City & South Hill",5671,0.047 
+"53","11506","53053","0712.08","WA","Pierce WA","Pierce County (East Central)--Puyallup City & South Hill",7128,0.059 
+"53","11506","53053","0712.09","WA","Pierce WA","Pierce County (East Central)--Puyallup City & South Hill",4205,0.035 
+"53","11506","53053","0712.10","WA","Pierce WA","Pierce County (East Central)--Puyallup City & South Hill",4515,0.038 
+"53","11506","53053","0713.04","WA","Pierce WA","Pierce County (East Central)--Puyallup City & South Hill",5895,0.049 
+"53","11506","53053","0713.07","WA","Pierce WA","Pierce County (East Central)--Puyallup City & South Hill",4629,0.038 
+"53","11506","53053","0713.09","WA","Pierce WA","Pierce County (East Central)--Puyallup City & South Hill",4335,0.036 
+"53","11506","53053","0713.10","WA","Pierce WA","Pierce County (East Central)--Puyallup City & South Hill",4571,0.038 
+"53","11506","53053","0731.08","WA","Pierce WA","Pierce County (East Central)--Puyallup City & South Hill",7451,0.062 
+"53","11506","53053","0731.10","WA","Pierce WA","Pierce County (East Central)--Puyallup City & South Hill",3864,0.032 
+"53","11506","53053","0731.11","WA","Pierce WA","Pierce County (East Central)--Puyallup City & South Hill",4346,0.036 
+"53","11506","53053","0731.20","WA","Pierce WA","Pierce County (East Central)--Puyallup City & South Hill",3412,0.028 
+"53","11506","53053","0731.21","WA","Pierce WA","Pierce County (East Central)--Puyallup City & South Hill",4708,0.039 
+"53","11506","53053","0731.22","WA","Pierce WA","Pierce County (East Central)--Puyallup City & South Hill",4392,0.036 
+"53","11506","53053","0731.23","WA","Pierce WA","Pierce County (East Central)--Puyallup City & South Hill",4549,0.038 
+"53","11506","53053","0731.25","WA","Pierce WA","Pierce County (East Central)--Puyallup City & South Hill",9584,0.08 
+"53","11506","53053","0731.26","WA","Pierce WA","Pierce County (East Central)--Puyallup City & South Hill",3616,0.03 
+"53","11506","53053","0734.04","WA","Pierce WA","Pierce County (East Central)--Puyallup City & South Hill",6099,0.051 
+"53","11506","53053","0734.05","WA","Pierce WA","Pierce County (East Central)--Puyallup City & South Hill",3649,0.03 
+"53","11506","53053","0734.06","WA","Pierce WA","Pierce County (East Central)--Puyallup City & South Hill",4775,0.04 
+"53","11506","53053","0734.07","WA","Pierce WA","Pierce County (East Central)--Puyallup City & South Hill",3608,0.03 
+"53","11506","53053","0734.08","WA","Pierce WA","Pierce County (East Central)--Puyallup City & South Hill",4124,0.034 
+"53","11507","53053","0701.00","WA","Pierce WA","Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",3406,0.032 
+"53","11507","53053","0702.03","WA","Pierce WA","Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",5203,0.05 
+"53","11507","53053","0702.04","WA","Pierce WA","Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",3598,0.034 
+"53","11507","53053","0702.05","WA","Pierce WA","Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",3458,0.033 
+"53","11507","53053","0702.06","WA","Pierce WA","Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",4172,0.04 
+"53","11507","53053","0702.07","WA","Pierce WA","Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",4948,0.047 
+"53","11507","53053","0703.10","WA","Pierce WA","Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",5178,0.049 
+"53","11507","53053","0703.11","WA","Pierce WA","Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",4624,0.044 
+"53","11507","53053","0704.03","WA","Pierce WA","Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",3693,0.035 
+"53","11507","53053","0704.04","WA","Pierce WA","Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",4465,0.043 
+"53","11507","53053","0714.07","WA","Pierce WA","Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",6632,0.063 
+"53","11507","53053","0730.01","WA","Pierce WA","Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",6082,0.058 
+"53","11507","53053","0730.05","WA","Pierce WA","Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",5431,0.052 
+"53","11507","53053","0730.06","WA","Pierce WA","Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",3828,0.036 
+"53","11507","53053","0731.13","WA","Pierce WA","Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",6364,0.061 
+"53","11507","53053","0731.14","WA","Pierce WA","Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",5610,0.053 
+"53","11507","53053","0731.15","WA","Pierce WA","Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",4449,0.042 
+"53","11507","53053","0731.16","WA","Pierce WA","Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",3352,0.032 
+"53","11507","53053","0731.17","WA","Pierce WA","Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",3791,0.036 
+"53","11507","53053","0731.18","WA","Pierce WA","Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",4601,0.044 
+"53","11507","53053","0731.19","WA","Pierce WA","Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",3154,0.03 
+"53","11507","53053","0731.24","WA","Pierce WA","Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",2793,0.027 
+"53","11507","53053","0732.00","WA","Pierce WA","Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",6220,0.059 
+"53","11601","53033","0003.00","WA","King WA","Seattle City (Northwest)",2603,0.019 
+"53","11601","53033","0004.01","WA","King WA","Seattle City (Northwest)",5551,0.04 
+"53","11601","53033","0004.02","WA","King WA","Seattle City (Northwest)",4841,0.035 
+"53","11601","53033","0005.00","WA","King WA","Seattle City (Northwest)",3165,0.023 
+"53","11601","53033","0006.00","WA","King WA","Seattle City (Northwest)",7626,0.055 
+"53","11601","53033","0013.00","WA","King WA","Seattle City (Northwest)",4340,0.032 
+"53","11601","53033","0014.00","WA","King WA","Seattle City (Northwest)",4848,0.035 
+"53","11601","53033","0015.00","WA","King WA","Seattle City (Northwest)",2454,0.018 
+"53","11601","53033","0016.00","WA","King WA","Seattle City (Northwest)",4131,0.03 
+"53","11601","53033","0017.01","WA","King WA","Seattle City (Northwest)",3818,0.028 
+"53","11601","53033","0017.02","WA","King WA","Seattle City (Northwest)",4234,0.031 
+"53","11601","53033","0018.00","WA","King WA","Seattle City (Northwest)",4535,0.033 
+"53","11601","53033","0027.00","WA","King WA","Seattle City (Northwest)",5289,0.038 
+"53","11601","53033","0028.00","WA","King WA","Seattle City (Northwest)",4481,0.033 
+"53","11601","53033","0029.00","WA","King WA","Seattle City (Northwest)",4177,0.03 
+"53","11601","53033","0030.00","WA","King WA","Seattle City (Northwest)",5637,0.041 
+"53","11601","53033","0031.00","WA","King WA","Seattle City (Northwest)",6219,0.045 
+"53","11601","53033","0032.00","WA","King WA","Seattle City (Northwest)",7683,0.056 
+"53","11601","53033","0033.00","WA","King WA","Seattle City (Northwest)",6224,0.045 
+"53","11601","53033","0034.00","WA","King WA","Seattle City (Northwest)",3302,0.024 
+"53","11601","53033","0035.00","WA","King WA","Seattle City (Northwest)",3936,0.029 
+"53","11601","53033","0036.00","WA","King WA","Seattle City (Northwest)",5672,0.041 
+"53","11601","53033","0046.00","WA","King WA","Seattle City (Northwest)",3251,0.024 
+"53","11601","53033","0047.00","WA","King WA","Seattle City (Northwest)",6739,0.049 
+"53","11601","53033","0048.00","WA","King WA","Seattle City (Northwest)",4539,0.033 
+"53","11601","53033","0049.00","WA","King WA","Seattle City (Northwest)",6139,0.045 
+"53","11601","53033","0050.00","WA","King WA","Seattle City (Northwest)",3600,0.026 
+"53","11601","53033","0051.00","WA","King WA","Seattle City (Northwest)",3662,0.027 
+"53","11601","53033","0054.00","WA","King WA","Seattle City (Northwest)",4948,0.036 
+"53","11602","53033","0001.00","WA","King WA","Seattle City (Northeast)",6255,0.053 
+"53","11602","53033","0002.00","WA","King WA","Seattle City (Northeast)",7646,0.064 
+"53","11602","53033","0007.00","WA","King WA","Seattle City (Northeast)",4438,0.037 
+"53","11602","53033","0008.00","WA","King WA","Seattle City (Northeast)",2583,0.022 
+"53","11602","53033","0009.00","WA","King WA","Seattle City (Northeast)",2019,0.017 
+"53","11602","53033","0010.00","WA","King WA","Seattle City (Northeast)",1941,0.016 
+"53","11602","53033","0011.00","WA","King WA","Seattle City (Northeast)",2503,0.021 
+"53","11602","53033","0012.00","WA","King WA","Seattle City (Northeast)",6494,0.055 
+"53","11602","53033","0019.00","WA","King WA","Seattle City (Northeast)",4157,0.035 
+"53","11602","53033","0020.00","WA","King WA","Seattle City (Northeast)",3406,0.029 
+"53","11602","53033","0021.00","WA","King WA","Seattle City (Northeast)",3807,0.032 
+"53","11602","53033","0022.00","WA","King WA","Seattle City (Northeast)",5286,0.045 
+"53","11602","53033","0024.00","WA","King WA","Seattle City (Northeast)",2972,0.025 
+"53","11602","53033","0025.00","WA","King WA","Seattle City (Northeast)",2802,0.024 
+"53","11602","53033","0026.00","WA","King WA","Seattle City (Northeast)",4660,0.039 
+"53","11602","53033","0038.00","WA","King WA","Seattle City (Northeast)",2058,0.017 
+"53","11602","53033","0039.00","WA","King WA","Seattle City (Northeast)",2772,0.023 
+"53","11602","53033","0040.00","WA","King WA","Seattle City (Northeast)",2690,0.023 
+"53","11602","53033","0041.00","WA","King WA","Seattle City (Northeast)",7789,0.066 
+"53","11602","53033","0042.00","WA","King WA","Seattle City (Northeast)",7618,0.064 
+"53","11602","53033","0043.01","WA","King WA","Seattle City (Northeast)",3531,0.03 
+"53","11602","53033","0043.02","WA","King WA","Seattle City (Northeast)",3518,0.03 
+"53","11602","53033","0044.00","WA","King WA","Seattle City (Northeast)",6260,0.053 
+"53","11602","53033","0045.00","WA","King WA","Seattle City (Northeast)",2676,0.023 
+"53","11602","53033","0052.00","WA","King WA","Seattle City (Northeast)",6076,0.051 
+"53","11602","53033","0053.01","WA","King WA","Seattle City (Northeast)",7085,0.06 
+"53","11602","53033","0053.02","WA","King WA","Seattle City (Northeast)",5706,0.048 
+"53","11603","53033","0056.00","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",6382,0.055 
+"53","11603","53033","0057.00","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",6001,0.051 
+"53","11603","53033","0058.01","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",4743,0.041 
+"53","11603","53033","0058.02","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",5059,0.043 
+"53","11603","53033","0059.00","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",6836,0.058 
+"53","11603","53033","0060.00","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",5150,0.044 
+"53","11603","53033","0061.00","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",4796,0.041 
+"53","11603","53033","0066.00","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",3540,0.03 
+"53","11603","53033","0067.00","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",6544,0.056 
+"53","11603","53033","0068.00","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",2834,0.024 
+"53","11603","53033","0069.00","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",4080,0.035 
+"53","11603","53033","0070.00","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",6959,0.06 
+"53","11603","53033","0071.00","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",3055,0.026 
+"53","11603","53033","0072.00","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",5318,0.045 
+"53","11603","53033","0073.00","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",4668,0.04 
+"53","11603","53033","0074.01","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",4115,0.035 
+"53","11603","53033","0074.02","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",4921,0.042 
+"53","11603","53033","0080.01","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",5588,0.048 
+"53","11603","53033","0080.02","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",3013,0.026 
+"53","11603","53033","0081.00","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",4070,0.035 
+"53","11603","53033","0082.00","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",3280,0.028 
+"53","11603","53033","0083.00","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",2505,0.021 
+"53","11603","53033","0084.00","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",3760,0.032 
+"53","11603","53033","0085.00","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",4341,0.037 
+"53","11603","53033","0091.00","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",2508,0.021 
+"53","11603","53033","0092.00","WA","King WA","Seattle City (Downtown)--Queen Anne & Magnolia",2825,0.024 
+"53","11604","53033","0062.00","WA","King WA","Seattle City (Southeast)--Capitol Hill",3848,0.036 
+"53","11604","53033","0063.00","WA","King WA","Seattle City (Southeast)--Capitol Hill",4962,0.046 
+"53","11604","53033","0064.00","WA","King WA","Seattle City (Southeast)--Capitol Hill",3207,0.03 
+"53","11604","53033","0065.00","WA","King WA","Seattle City (Southeast)--Capitol Hill",4157,0.039 
+"53","11604","53033","0075.00","WA","King WA","Seattle City (Southeast)--Capitol Hill",6282,0.058 
+"53","11604","53033","0076.00","WA","King WA","Seattle City (Southeast)--Capitol Hill",3498,0.033 
+"53","11604","53033","0077.00","WA","King WA","Seattle City (Southeast)--Capitol Hill",4476,0.042 
+"53","11604","53033","0078.00","WA","King WA","Seattle City (Southeast)--Capitol Hill",5145,0.048 
+"53","11604","53033","0079.00","WA","King WA","Seattle City (Southeast)--Capitol Hill",5147,0.048 
+"53","11604","53033","0086.00","WA","King WA","Seattle City (Southeast)--Capitol Hill",5055,0.047 
+"53","11604","53033","0087.00","WA","King WA","Seattle City (Southeast)--Capitol Hill",3843,0.036 
+"53","11604","53033","0088.00","WA","King WA","Seattle City (Southeast)--Capitol Hill",3503,0.033 
+"53","11604","53033","0089.00","WA","King WA","Seattle City (Southeast)--Capitol Hill",4829,0.045 
+"53","11604","53033","0090.00","WA","King WA","Seattle City (Southeast)--Capitol Hill",2925,0.027 
+"53","11604","53033","0095.00","WA","King WA","Seattle City (Southeast)--Capitol Hill",5906,0.055 
+"53","11604","53033","0101.00","WA","King WA","Seattle City (Southeast)--Capitol Hill",6553,0.061 
+"53","11604","53033","0102.00","WA","King WA","Seattle City (Southeast)--Capitol Hill",4835,0.045 
+"53","11604","53033","0103.00","WA","King WA","Seattle City (Southeast)--Capitol Hill",5940,0.055 
+"53","11604","53033","0111.01","WA","King WA","Seattle City (Southeast)--Capitol Hill",4390,0.041 
+"53","11604","53033","0111.02","WA","King WA","Seattle City (Southeast)--Capitol Hill",4419,0.041 
+"53","11604","53033","0118.00","WA","King WA","Seattle City (Southeast)--Capitol Hill",7383,0.069 
+"53","11604","53033","0119.00","WA","King WA","Seattle City (Southeast)--Capitol Hill",7108,0.066 
+"53","11605","53033","0093.00","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",2354,0.018 
+"53","11605","53033","0094.00","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",5700,0.045 
+"53","11605","53033","0096.00","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",5252,0.041 
+"53","11605","53033","0097.01","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",5290,0.041 
+"53","11605","53033","0097.02","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",5173,0.04 
+"53","11605","53033","0098.00","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",6198,0.048 
+"53","11605","53033","0099.00","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",4787,0.037 
+"53","11605","53033","0100.01","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",3769,0.029 
+"53","11605","53033","0100.02","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",4313,0.034 
+"53","11605","53033","0104.01","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",4432,0.035 
+"53","11605","53033","0104.02","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",4669,0.037 
+"53","11605","53033","0105.00","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",6342,0.05 
+"53","11605","53033","0106.00","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",7310,0.057 
+"53","11605","53033","0107.01","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",3385,0.026 
+"53","11605","53033","0107.02","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",3679,0.029 
+"53","11605","53033","0108.00","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",4596,0.036 
+"53","11605","53033","0109.00","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",1287,0.01 
+"53","11605","53033","0110.01","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",4534,0.035 
+"53","11605","53033","0110.02","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",4479,0.035 
+"53","11605","53033","0112.00","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",3906,0.031 
+"53","11605","53033","0113.00","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",5984,0.047 
+"53","11605","53033","0114.01","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",4027,0.032 
+"53","11605","53033","0114.02","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",4174,0.033 
+"53","11605","53033","0115.00","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",4191,0.033 
+"53","11605","53033","0116.00","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",6413,0.05 
+"53","11605","53033","0117.00","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",5538,0.043 
+"53","11605","53033","0120.00","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",3349,0.026 
+"53","11605","53033","0121.00","WA","King WA","Seattle City (West)--Duwamish & Beacon Hill",2681,0.021 
+"53","11606","53033","0201.00","WA","King WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",3156,0.028 
+"53","11606","53033","0202.00","WA","King WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",5566,0.049 
+"53","11606","53033","0203.00","WA","King WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",6434,0.057 
+"53","11606","53033","0204.01","WA","King WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",3426,0.03 
+"53","11606","53033","0204.02","WA","King WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",5368,0.047 
+"53","11606","53033","0205.00","WA","King WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",6327,0.056 
+"53","11606","53033","0206.00","WA","King WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",3661,0.032 
+"53","11606","53033","0207.00","WA","King WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",3569,0.032 
+"53","11606","53033","0208.00","WA","King WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",4309,0.038 
+"53","11606","53033","0209.00","WA","King WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",3240,0.029 
+"53","11606","53033","0210.00","WA","King WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",5594,0.049 
+"53","11606","53033","0211.00","WA","King WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",4125,0.036 
+"53","11606","53033","0213.00","WA","King WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",3759,0.033 
+"53","11606","53033","0214.00","WA","King WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",3690,0.033 
+"53","11606","53033","0215.00","WA","King WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",4294,0.038 
+"53","11606","53033","0216.00","WA","King WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",4513,0.04 
+"53","11606","53033","0217.00","WA","King WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",7681,0.068 
+"53","11606","53033","0218.02","WA","King WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",5401,0.048 
+"53","11606","53033","0218.03","WA","King WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",4348,0.038 
+"53","11606","53033","0218.04","WA","King WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",4374,0.039 
+"53","11606","53033","0219.05","WA","King WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",4950,0.044 
+"53","11606","53033","0220.01","WA","King WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",4738,0.042 
+"53","11606","53033","0221.01","WA","King WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",4734,0.042 
+"53","11606","53033","0221.02","WA","King WA","King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",5871,0.052 
+"53","11607","53033","0219.03","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",5695,0.044 
+"53","11607","53033","0219.04","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",5043,0.039 
+"53","11607","53033","0220.03","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",5031,0.039 
+"53","11607","53033","0220.05","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",4725,0.036 
+"53","11607","53033","0220.06","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",3686,0.028 
+"53","11607","53033","0222.01","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",4268,0.033 
+"53","11607","53033","0222.02","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",7073,0.054 
+"53","11607","53033","0222.03","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",4865,0.037 
+"53","11607","53033","0223.00","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",2681,0.021 
+"53","11607","53033","0224.00","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",7935,0.061 
+"53","11607","53033","0225.00","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",7143,0.055 
+"53","11607","53033","0226.03","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",5324,0.041 
+"53","11607","53033","0226.04","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",4233,0.032 
+"53","11607","53033","0226.05","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",5410,0.041 
+"53","11607","53033","0226.06","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",5430,0.042 
+"53","11607","53033","0227.01","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",2546,0.02 
+"53","11607","53033","0227.02","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",3729,0.029 
+"53","11607","53033","0227.03","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",2373,0.018 
+"53","11607","53033","0228.02","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",4791,0.037 
+"53","11607","53033","0228.03","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",4987,0.038 
+"53","11607","53033","0229.02","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",6299,0.048 
+"53","11607","53033","0323.09","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",5212,0.04 
+"53","11607","53033","0323.13","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",5576,0.043 
+"53","11607","53033","0323.23","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",5483,0.042 
+"53","11607","53033","0323.24","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",5053,0.039 
+"53","11607","53033","0323.25","WA","King WA","King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill",5791,0.044 
+"53","11608","53033","0228.01","WA","King WA","King County (Northwest Central)--Greater Bellevue City",8314,0.063 
+"53","11608","53033","0229.01","WA","King WA","King County (Northwest Central)--Greater Bellevue City",2924,0.022 
+"53","11608","53033","0230.00","WA","King WA","King County (Northwest Central)--Greater Bellevue City",5190,0.04 
+"53","11608","53033","0231.00","WA","King WA","King County (Northwest Central)--Greater Bellevue City",3792,0.029 
+"53","11608","53033","0232.01","WA","King WA","King County (Northwest Central)--Greater Bellevue City",6223,0.048 
+"53","11608","53033","0232.02","WA","King WA","King County (Northwest Central)--Greater Bellevue City",4345,0.033 
+"53","11608","53033","0233.00","WA","King WA","King County (Northwest Central)--Greater Bellevue City",6217,0.047 
+"53","11608","53033","0234.01","WA","King WA","King County (Northwest Central)--Greater Bellevue City",3546,0.027 
+"53","11608","53033","0234.03","WA","King WA","King County (Northwest Central)--Greater Bellevue City",3888,0.03 
+"53","11608","53033","0235.00","WA","King WA","King County (Northwest Central)--Greater Bellevue City",3667,0.028 
+"53","11608","53033","0236.01","WA","King WA","King County (Northwest Central)--Greater Bellevue City",3812,0.029 
+"53","11608","53033","0236.03","WA","King WA","King County (Northwest Central)--Greater Bellevue City",5963,0.046 
+"53","11608","53033","0236.04","WA","King WA","King County (Northwest Central)--Greater Bellevue City",5838,0.045 
+"53","11608","53033","0237.00","WA","King WA","King County (Northwest Central)--Greater Bellevue City",3971,0.03 
+"53","11608","53033","0238.01","WA","King WA","King County (Northwest Central)--Greater Bellevue City",2536,0.019 
+"53","11608","53033","0238.03","WA","King WA","King County (Northwest Central)--Greater Bellevue City",3501,0.027 
+"53","11608","53033","0238.04","WA","King WA","King County (Northwest Central)--Greater Bellevue City",3646,0.028 
+"53","11608","53033","0239.00","WA","King WA","King County (Northwest Central)--Greater Bellevue City",6924,0.053 
+"53","11608","53033","0240.00","WA","King WA","King County (Northwest Central)--Greater Bellevue City",7612,0.058 
+"53","11608","53033","0241.00","WA","King WA","King County (Northwest Central)--Greater Bellevue City",4379,0.033 
+"53","11608","53033","0242.00","WA","King WA","King County (Northwest Central)--Greater Bellevue City",2953,0.023 
+"53","11608","53033","0247.01","WA","King WA","King County (Northwest Central)--Greater Bellevue City",3598,0.027 
+"53","11608","53033","0248.00","WA","King WA","King County (Northwest Central)--Greater Bellevue City",5668,0.043 
+"53","11608","53033","0249.01","WA","King WA","King County (Northwest Central)--Greater Bellevue City",5017,0.038 
+"53","11608","53033","0249.02","WA","King WA","King County (Northwest Central)--Greater Bellevue City",3795,0.029 
+"53","11608","53033","0249.03","WA","King WA","King County (Northwest Central)--Greater Bellevue City",6864,0.052 
+"53","11608","53033","0250.03","WA","King WA","King County (Northwest Central)--Greater Bellevue City",6817,0.052 
+"53","11609","53033","0234.04","WA","King WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",3321,0.025 
+"53","11609","53033","0243.00","WA","King WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",7255,0.055 
+"53","11609","53033","0244.00","WA","King WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",2885,0.022 
+"53","11609","53033","0245.00","WA","King WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",4595,0.035 
+"53","11609","53033","0246.01","WA","King WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",4302,0.033 
+"53","11609","53033","0246.02","WA","King WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",3662,0.028 
+"53","11609","53033","0247.02","WA","King WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",7058,0.054 
+"53","11609","53033","0250.01","WA","King WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",4635,0.035 
+"53","11609","53033","0250.05","WA","King WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",4645,0.035 
+"53","11609","53033","0250.06","WA","King WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",5088,0.039 
+"53","11609","53033","0321.03","WA","King WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",4280,0.033 
+"53","11609","53033","0321.04","WA","King WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",6033,0.046 
+"53","11609","53033","0322.03","WA","King WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",6638,0.051 
+"53","11609","53033","0322.07","WA","King WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",3254,0.025 
+"53","11609","53033","0322.08","WA","King WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",7936,0.06 
+"53","11609","53033","0322.10","WA","King WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",10572,0.081 
+"53","11609","53033","0322.11","WA","King WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",4803,0.037 
+"53","11609","53033","0322.12","WA","King WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",7787,0.059 
+"53","11609","53033","0322.13","WA","King WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",4376,0.033 
+"53","11609","53033","0322.14","WA","King WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",6264,0.048 
+"53","11609","53033","0322.15","WA","King WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",4629,0.035 
+"53","11609","53033","0323.16","WA","King WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",5495,0.042 
+"53","11609","53033","0323.17","WA","King WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",6038,0.046 
+"53","11609","53033","0323.18","WA","King WA","King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",5646,0.043 
+"53","11610","53033","0251.01","WA","King WA","King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",5797,0.046 
+"53","11610","53033","0251.02","WA","King WA","King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",7456,0.059 
+"53","11610","53033","0252.00","WA","King WA","King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",7929,0.063 
+"53","11610","53033","0253.01","WA","King WA","King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",5004,0.04 
+"53","11610","53033","0253.02","WA","King WA","King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",4366,0.034 
+"53","11610","53033","0254.00","WA","King WA","King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",6925,0.055 
+"53","11610","53033","0255.00","WA","King WA","King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",4841,0.038 
+"53","11610","53033","0256.01","WA","King WA","King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",4941,0.039 
+"53","11610","53033","0256.02","WA","King WA","King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",5474,0.043 
+"53","11610","53033","0257.01","WA","King WA","King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",5545,0.044 
+"53","11610","53033","0257.02","WA","King WA","King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",3495,0.028 
+"53","11610","53033","0258.03","WA","King WA","King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",4676,0.037 
+"53","11610","53033","0258.04","WA","King WA","King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",3714,0.029 
+"53","11610","53033","0258.05","WA","King WA","King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",4551,0.036 
+"53","11610","53033","0258.06","WA","King WA","King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",4954,0.039 
+"53","11610","53033","0260.01","WA","King WA","King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",5274,0.042 
+"53","11610","53033","0260.02","WA","King WA","King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",7911,0.062 
+"53","11610","53033","0261.00","WA","King WA","King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",6712,0.053 
+"53","11610","53033","0293.03","WA","King WA","King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",7517,0.059 
+"53","11610","53033","0293.04","WA","King WA","King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",4836,0.038 
+"53","11610","53033","0319.07","WA","King WA","King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",7399,0.058 
+"53","11610","53033","0319.08","WA","King WA","King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",4266,0.034 
+"53","11610","53033","0319.09","WA","King WA","King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",3037,0.024 
+"53","11611","53033","0262.00","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",4998,0.04 
+"53","11611","53033","0263.00","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",1626,0.013 
+"53","11611","53033","0264.00","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",5745,0.046 
+"53","11611","53033","0265.00","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",3459,0.028 
+"53","11611","53033","0266.00","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",2306,0.019 
+"53","11611","53033","0267.00","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",5472,0.044 
+"53","11611","53033","0268.01","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",5385,0.043 
+"53","11611","53033","0268.02","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",4906,0.04 
+"53","11611","53033","0270.00","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",3489,0.028 
+"53","11611","53033","0271.00","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",3431,0.028 
+"53","11611","53033","0272.00","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",2558,0.021 
+"53","11611","53033","0273.00","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",6327,0.051 
+"53","11611","53033","0274.00","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",5421,0.044 
+"53","11611","53033","0275.00","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",4718,0.038 
+"53","11611","53033","0276.00","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",4648,0.038 
+"53","11611","53033","0278.00","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",3290,0.027 
+"53","11611","53033","0279.00","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",6514,0.053 
+"53","11611","53033","0280.00","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",3366,0.027 
+"53","11611","53033","0281.00","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",2477,0.02 
+"53","11611","53033","0282.00","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",4718,0.038 
+"53","11611","53033","0283.00","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",4580,0.037 
+"53","11611","53033","0284.02","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",5097,0.041 
+"53","11611","53033","0284.03","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",4986,0.04 
+"53","11611","53033","0285.00","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",3847,0.031 
+"53","11611","53033","0286.00","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",6214,0.05 
+"53","11611","53033","0287.00","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",5055,0.041 
+"53","11611","53033","0288.01","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",3095,0.025 
+"53","11611","53033","0288.02","WA","King WA","King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",6128,0.049 
+"53","11612","53033","0277.01","WA","King WA","King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",5679,0.047 
+"53","11612","53033","0277.02","WA","King WA","King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",4945,0.041 
+"53","11612","53033","0289.01","WA","King WA","King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",3368,0.028 
+"53","11612","53033","0289.02","WA","King WA","King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",6495,0.054 
+"53","11612","53033","0290.01","WA","King WA","King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",4230,0.035 
+"53","11612","53033","0290.03","WA","King WA","King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",5466,0.045 
+"53","11612","53033","0300.03","WA","King WA","King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",5877,0.049 
+"53","11612","53033","0300.04","WA","King WA","King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",8055,0.067 
+"53","11612","53033","0300.05","WA","King WA","King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",5530,0.046 
+"53","11612","53033","0300.06","WA","King WA","King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",3736,0.031 
+"53","11612","53033","0301.00","WA","King WA","King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",7323,0.061 
+"53","11612","53033","0302.01","WA","King WA","King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",5327,0.044 
+"53","11612","53033","0302.02","WA","King WA","King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",6484,0.054 
+"53","11612","53033","0303.04","WA","King WA","King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",2987,0.025 
+"53","11612","53033","0303.05","WA","King WA","King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",4906,0.041 
+"53","11612","53033","0303.06","WA","King WA","King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",5681,0.047 
+"53","11612","53033","0303.08","WA","King WA","King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",6266,0.052 
+"53","11612","53033","0303.09","WA","King WA","King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",5730,0.047 
+"53","11612","53033","0303.10","WA","King WA","King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",5551,0.046 
+"53","11612","53033","0303.11","WA","King WA","King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",5034,0.042 
+"53","11612","53033","0303.12","WA","King WA","King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",4736,0.039 
+"53","11612","53033","0303.13","WA","King WA","King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",3612,0.03 
+"53","11612","53033","0303.14","WA","King WA","King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",3795,0.031 
+"53","11613","53033","0290.04","WA","King WA","King County (Southwest Central)--Kent City",3751,0.031 
+"53","11613","53033","0291.01","WA","King WA","King County (Southwest Central)--Kent City",2990,0.025 
+"53","11613","53033","0291.02","WA","King WA","King County (Southwest Central)--Kent City",4329,0.036 
+"53","11613","53033","0292.03","WA","King WA","King County (Southwest Central)--Kent City",3537,0.029 
+"53","11613","53033","0292.04","WA","King WA","King County (Southwest Central)--Kent City",6666,0.055 
+"53","11613","53033","0292.05","WA","King WA","King County (Southwest Central)--Kent City",4602,0.038 
+"53","11613","53033","0292.06","WA","King WA","King County (Southwest Central)--Kent City",3853,0.032 
+"53","11613","53033","0293.05","WA","King WA","King County (Southwest Central)--Kent City",3914,0.032 
+"53","11613","53033","0293.06","WA","King WA","King County (Southwest Central)--Kent City",3283,0.027 
+"53","11613","53033","0293.07","WA","King WA","King County (Southwest Central)--Kent City",3883,0.032 
+"53","11613","53033","0294.03","WA","King WA","King County (Southwest Central)--Kent City",5535,0.046 
+"53","11613","53033","0294.05","WA","King WA","King County (Southwest Central)--Kent City",5861,0.049 
+"53","11613","53033","0294.06","WA","King WA","King County (Southwest Central)--Kent City",5004,0.041 
+"53","11613","53033","0294.07","WA","King WA","King County (Southwest Central)--Kent City",4885,0.04 
+"53","11613","53033","0294.08","WA","King WA","King County (Southwest Central)--Kent City",4376,0.036 
+"53","11613","53033","0295.02","WA","King WA","King County (Southwest Central)--Kent City",6780,0.056 
+"53","11613","53033","0295.03","WA","King WA","King County (Southwest Central)--Kent City",7896,0.065 
+"53","11613","53033","0295.04","WA","King WA","King County (Southwest Central)--Kent City",5292,0.044 
+"53","11613","53033","0296.01","WA","King WA","King County (Southwest Central)--Kent City",7153,0.059 
+"53","11613","53033","0297.00","WA","King WA","King County (Southwest Central)--Kent City",7056,0.058 
+"53","11613","53033","0298.01","WA","King WA","King County (Southwest Central)--Kent City",7914,0.066 
+"53","11613","53033","0317.03","WA","King WA","King County (Southwest Central)--Kent City",6649,0.055 
+"53","11613","53033","0317.04","WA","King WA","King County (Southwest Central)--Kent City",5539,0.046 
+"53","11614","53033","0296.02","WA","King WA","King County (Southwest)--Auburn City & Lakeland",5462,0.051 
+"53","11614","53033","0298.02","WA","King WA","King County (Southwest)--Auburn City & Lakeland",8969,0.084 
+"53","11614","53033","0299.01","WA","King WA","King County (Southwest)--Auburn City & Lakeland",4823,0.045 
+"53","11614","53033","0299.02","WA","King WA","King County (Southwest)--Auburn City & Lakeland",4427,0.041 
+"53","11614","53033","0304.01","WA","King WA","King County (Southwest)--Auburn City & Lakeland",8134,0.076 
+"53","11614","53033","0304.03","WA","King WA","King County (Southwest)--Auburn City & Lakeland",4270,0.04 
+"53","11614","53033","0304.04","WA","King WA","King County (Southwest)--Auburn City & Lakeland",4208,0.039 
+"53","11614","53033","0305.01","WA","King WA","King County (Southwest)--Auburn City & Lakeland",1686,0.016 
+"53","11614","53033","0305.03","WA","King WA","King County (Southwest)--Auburn City & Lakeland",4181,0.039 
+"53","11614","53033","0305.04","WA","King WA","King County (Southwest)--Auburn City & Lakeland",4484,0.042 
+"53","11614","53033","0306.00","WA","King WA","King County (Southwest)--Auburn City & Lakeland",5331,0.05 
+"53","11614","53033","0307.00","WA","King WA","King County (Southwest)--Auburn City & Lakeland",3796,0.035 
+"53","11614","53033","0308.01","WA","King WA","King County (Southwest)--Auburn City & Lakeland",6575,0.061 
+"53","11614","53033","0308.02","WA","King WA","King County (Southwest)--Auburn City & Lakeland",3683,0.034 
+"53","11614","53033","0309.01","WA","King WA","King County (Southwest)--Auburn City & Lakeland",3606,0.034 
+"53","11614","53033","0309.02","WA","King WA","King County (Southwest)--Auburn City & Lakeland",5605,0.052 
+"53","11614","53033","0310.00","WA","King WA","King County (Southwest)--Auburn City & Lakeland",3347,0.031 
+"53","11614","53033","0311.00","WA","King WA","King County (Southwest)--Auburn City & Lakeland",6718,0.063 
+"53","11614","53033","0312.02","WA","King WA","King County (Southwest)--Auburn City & Lakeland",6401,0.06 
+"53","11614","53033","0312.05","WA","King WA","King County (Southwest)--Auburn City & Lakeland",6673,0.062 
+"53","11614","53033","0312.06","WA","King WA","King County (Southwest)--Auburn City & Lakeland",4877,0.045 
+"53","11615","53033","0312.04","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",6038,0.053 
+"53","11615","53033","0313.01","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",2487,0.022 
+"53","11615","53033","0313.02","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",4371,0.039 
+"53","11615","53033","0314.00","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",5780,0.051 
+"53","11615","53033","0315.01","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",3616,0.032 
+"53","11615","53033","0315.02","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",3876,0.034 
+"53","11615","53033","0316.01","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",5134,0.045 
+"53","11615","53033","0316.03","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",5728,0.051 
+"53","11615","53033","0316.04","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",4797,0.042 
+"53","11615","53033","0316.05","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",3589,0.032 
+"53","11615","53033","0317.05","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",3744,0.033 
+"53","11615","53033","0317.06","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",6310,0.056 
+"53","11615","53033","0318.00","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",4777,0.042 
+"53","11615","53033","0319.03","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",6411,0.057 
+"53","11615","53033","0319.04","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",3329,0.029 
+"53","11615","53033","0319.06","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",3594,0.032 
+"53","11615","53033","0320.02","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",2906,0.026 
+"53","11615","53033","0320.03","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",4754,0.042 
+"53","11615","53033","0320.05","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",6457,0.057 
+"53","11615","53033","0320.06","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",4275,0.038 
+"53","11615","53033","0320.07","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",3457,0.03 
+"53","11615","53033","0320.08","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",4090,0.036 
+"53","11615","53033","0320.10","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",5175,0.046 
+"53","11615","53033","0320.11","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",4117,0.036 
+"53","11615","53033","0321.02","WA","King WA","King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",4546,0.04 
+"53","11616","53033","0219.06","WA","King WA","King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",3911,0.037 
+"53","11616","53033","0323.07","WA","King WA","King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",6368,0.061 
+"53","11616","53033","0323.11","WA","King WA","King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",5837,0.056 
+"53","11616","53033","0323.15","WA","King WA","King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",5256,0.05 
+"53","11616","53033","0323.19","WA","King WA","King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",4703,0.045 
+"53","11616","53033","0323.20","WA","King WA","King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",4205,0.04 
+"53","11616","53033","0323.21","WA","King WA","King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",4959,0.048 
+"53","11616","53033","0323.22","WA","King WA","King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",3344,0.032 
+"53","11616","53033","0323.26","WA","King WA","King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",3762,0.036 
+"53","11616","53033","0323.27","WA","King WA","King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",3834,0.037 
+"53","11616","53033","0323.28","WA","King WA","King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",3245,0.031 
+"53","11616","53033","0323.29","WA","King WA","King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",6599,0.063 
+"53","11616","53033","0324.01","WA","King WA","King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",5859,0.056 
+"53","11616","53033","0324.02","WA","King WA","King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",6010,0.058 
+"53","11616","53033","0325.00","WA","King WA","King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",5237,0.05 
+"53","11616","53033","0326.01","WA","King WA","King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",2785,0.027 
+"53","11616","53033","0326.02","WA","King WA","King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",11041,0.106 
+"53","11616","53033","0327.02","WA","King WA","King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",6545,0.063 
+"53","11616","53033","0327.03","WA","King WA","King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",2020,0.019 
+"53","11616","53033","0327.04","WA","King WA","King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",6014,0.058 
+"53","11616","53033","0328.00","WA","King WA","King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",2851,0.027 
+"53","11701","53061","0502.00","WA","Snohomish WA","Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",4154,0.037 
+"53","11701","53061","0503.00","WA","Snohomish WA","Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",5327,0.047 
+"53","11701","53061","0504.01","WA","Snohomish WA","Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",7052,0.062 
+"53","11701","53061","0504.02","WA","Snohomish WA","Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",5352,0.047 
+"53","11701","53061","0505.00","WA","Snohomish WA","Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",6594,0.058 
+"53","11701","53061","0506.00","WA","Snohomish WA","Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",1271,0.011 
+"53","11701","53061","0507.00","WA","Snohomish WA","Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",5863,0.052 
+"53","11701","53061","0508.00","WA","Snohomish WA","Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",6090,0.054 
+"53","11701","53061","0509.00","WA","Snohomish WA","Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",3233,0.029 
+"53","11701","53061","0510.00","WA","Snohomish WA","Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",4382,0.039 
+"53","11701","53061","0511.00","WA","Snohomish WA","Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",3748,0.033 
+"53","11701","53061","0512.00","WA","Snohomish WA","Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",4208,0.037 
+"53","11701","53061","0513.00","WA","Snohomish WA","Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",7157,0.063 
+"53","11701","53061","0514.00","WA","Snohomish WA","Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",7491,0.066 
+"53","11701","53061","0515.00","WA","Snohomish WA","Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",5601,0.05 
+"53","11701","53061","0516.01","WA","Snohomish WA","Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",4767,0.042 
+"53","11701","53061","0516.02","WA","Snohomish WA","Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",4129,0.037 
+"53","11701","53061","0517.01","WA","Snohomish WA","Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",5597,0.05 
+"53","11701","53061","0517.02","WA","Snohomish WA","Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",4707,0.042 
+"53","11701","53061","0519.05","WA","Snohomish WA","Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",8009,0.071 
+"53","11701","53061","0519.13","WA","Snohomish WA","Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",4202,0.037 
+"53","11701","53061","0519.14","WA","Snohomish WA","Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",4052,0.036 
+"53","11702","53061","0413.01","WA","Snohomish WA","Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities",5117,0.046 
+"53","11702","53061","0413.04","WA","Snohomish WA","Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities",2870,0.026 
+"53","11702","53061","0417.03","WA","Snohomish WA","Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities",5039,0.045 
+"53","11702","53061","0417.04","WA","Snohomish WA","Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities",5024,0.045 
+"53","11702","53061","0418.09","WA","Snohomish WA","Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities",5007,0.045 
+"53","11702","53061","0418.10","WA","Snohomish WA","Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities",5035,0.045 
+"53","11702","53061","0418.11","WA","Snohomish WA","Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities",6403,0.057 
+"53","11702","53061","0418.12","WA","Snohomish WA","Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities",5550,0.05 
+"53","11702","53061","0419.01","WA","Snohomish WA","Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities",4073,0.037 
+"53","11702","53061","0419.03","WA","Snohomish WA","Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities",6981,0.063 
+"53","11702","53061","0419.05","WA","Snohomish WA","Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities",5174,0.046 
+"53","11702","53061","0420.01","WA","Snohomish WA","Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities",5921,0.053 
+"53","11702","53061","0420.03","WA","Snohomish WA","Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities",3336,0.03 
+"53","11702","53061","0420.04","WA","Snohomish WA","Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities",4166,0.037 
+"53","11702","53061","0420.05","WA","Snohomish WA","Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities",5177,0.046 
+"53","11702","53061","0420.06","WA","Snohomish WA","Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities",4544,0.041 
+"53","11702","53061","0501.01","WA","Snohomish WA","Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities",2686,0.024 
+"53","11702","53061","0501.02","WA","Snohomish WA","Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities",5361,0.048 
+"53","11702","53061","0518.02","WA","Snohomish WA","Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities",5176,0.046 
+"53","11702","53061","0518.03","WA","Snohomish WA","Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities",5636,0.051 
+"53","11702","53061","0518.04","WA","Snohomish WA","Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities",3748,0.034 
+"53","11702","53061","0519.27","WA","Snohomish WA","Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities",4714,0.042 
+"53","11702","53061","0519.28","WA","Snohomish WA","Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities",4783,0.043 
+"53","11703","53061","0401.00","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",5382,0.047 
+"53","11703","53061","0402.00","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",5925,0.051 
+"53","11703","53061","0403.00","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",2937,0.025 
+"53","11703","53061","0404.00","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",3867,0.034 
+"53","11703","53061","0405.00","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",2402,0.021 
+"53","11703","53061","0407.00","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",4726,0.041 
+"53","11703","53061","0408.00","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",2418,0.021 
+"53","11703","53061","0409.00","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",2810,0.024 
+"53","11703","53061","0410.00","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",5380,0.047 
+"53","11703","53061","0411.00","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",4570,0.04 
+"53","11703","53061","0412.01","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",3439,0.03 
+"53","11703","53061","0412.02","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",5791,0.05 
+"53","11703","53061","0413.03","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",4502,0.039 
+"53","11703","53061","0414.00","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",5534,0.048 
+"53","11703","53061","0415.00","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",1396,0.012 
+"53","11703","53061","0416.01","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",5498,0.048 
+"53","11703","53061","0416.05","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",5826,0.051 
+"53","11703","53061","0416.06","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",5287,0.046 
+"53","11703","53061","0416.07","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",3657,0.032 
+"53","11703","53061","0416.08","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",6264,0.054 
+"53","11703","53061","0417.01","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",4359,0.038 
+"53","11703","53061","0418.05","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",5573,0.048 
+"53","11703","53061","0418.06","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",7971,0.069 
+"53","11703","53061","0418.08","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",4114,0.036 
+"53","11703","53061","0419.04","WA","Snohomish WA","Snohomish County (Central)--Everett City (Central & East) & Eastmont",5600,0.049 
+"53","11704","53061","0519.12","WA","Snohomish WA","Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",2286,0.02 
+"53","11704","53061","0519.15","WA","Snohomish WA","Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",6863,0.061 
+"53","11704","53061","0519.16","WA","Snohomish WA","Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",3677,0.032 
+"53","11704","53061","0519.17","WA","Snohomish WA","Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",4045,0.036 
+"53","11704","53061","0519.18","WA","Snohomish WA","Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",4973,0.044 
+"53","11704","53061","0519.21","WA","Snohomish WA","Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",3882,0.034 
+"53","11704","53061","0519.22","WA","Snohomish WA","Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",4687,0.041 
+"53","11704","53061","0519.23","WA","Snohomish WA","Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",4745,0.042 
+"53","11704","53061","0519.24","WA","Snohomish WA","Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",5974,0.053 
+"53","11704","53061","0519.25","WA","Snohomish WA","Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",6295,0.056 
+"53","11704","53061","0519.26","WA","Snohomish WA","Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",4611,0.041 
+"53","11704","53061","0520.03","WA","Snohomish WA","Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",7273,0.064 
+"53","11704","53061","0520.04","WA","Snohomish WA","Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",5746,0.051 
+"53","11704","53061","0520.05","WA","Snohomish WA","Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",5491,0.048 
+"53","11704","53061","0520.06","WA","Snohomish WA","Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",4248,0.037 
+"53","11704","53061","0520.07","WA","Snohomish WA","Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",4663,0.041 
+"53","11704","53061","0521.07","WA","Snohomish WA","Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",3975,0.035 
+"53","11704","53061","0521.08","WA","Snohomish WA","Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",5814,0.051 
+"53","11704","53061","0521.12","WA","Snohomish WA","Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",2607,0.023 
+"53","11704","53061","0521.13","WA","Snohomish WA","Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",3006,0.027 
+"53","11704","53061","0521.14","WA","Snohomish WA","Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",4988,0.044 
+"53","11704","53061","0521.15","WA","Snohomish WA","Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",6726,0.059 
+"53","11704","53061","0521.18","WA","Snohomish WA","Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",6843,0.06 
+"53","11705","53061","0521.04","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",3359,0.027 
+"53","11705","53061","0521.05","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",1895,0.015 
+"53","11705","53061","0522.03","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",5213,0.042 
+"53","11705","53061","0522.04","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",5345,0.043 
+"53","11705","53061","0522.06","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",4250,0.034 
+"53","11705","53061","0522.07","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",5469,0.044 
+"53","11705","53061","0522.08","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",4096,0.033 
+"53","11705","53061","0522.09","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",5029,0.04 
+"53","11705","53061","0523.01","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",4682,0.037 
+"53","11705","53061","0523.02","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",3677,0.029 
+"53","11705","53061","0524.01","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",4066,0.033 
+"53","11705","53061","0524.02","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",3939,0.032 
+"53","11705","53061","0525.02","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",4334,0.035 
+"53","11705","53061","0525.03","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",6788,0.054 
+"53","11705","53061","0525.04","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",2503,0.02 
+"53","11705","53061","0526.03","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",2434,0.019 
+"53","11705","53061","0526.04","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",4240,0.034 
+"53","11705","53061","0526.05","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",5842,0.047 
+"53","11705","53061","0526.06","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",5125,0.041 
+"53","11705","53061","0526.07","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",5851,0.047 
+"53","11705","53061","0527.06","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",5311,0.043 
+"53","11705","53061","0527.07","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",3554,0.028 
+"53","11705","53061","0536.02","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",5640,0.045 
+"53","11705","53061","0536.03","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",3848,0.031 
+"53","11705","53061","0536.04","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",4120,0.033 
+"53","11705","53061","0538.01","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",3639,0.029 
+"53","11705","53061","0538.02","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",5394,0.043 
+"53","11705","53061","0538.03","WA","Snohomish WA","Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",5253,0.042 
+"53","11706","53061","0527.01","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",1518,0.011 
+"53","11706","53061","0527.05","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",7206,0.053 
+"53","11706","53061","0527.08","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",5344,0.04 
+"53","11706","53061","0527.09","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",3337,0.025 
+"53","11706","53061","0528.03","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",5103,0.038 
+"53","11706","53061","0528.04","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",6971,0.052 
+"53","11706","53061","0528.05","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",4332,0.032 
+"53","11706","53061","0528.06","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",7049,0.052 
+"53","11706","53061","0529.03","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",4079,0.03 
+"53","11706","53061","0529.04","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",5442,0.04 
+"53","11706","53061","0529.05","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",4239,0.031 
+"53","11706","53061","0529.06","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",4445,0.033 
+"53","11706","53061","0531.01","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",3715,0.027 
+"53","11706","53061","0531.02","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",4634,0.034 
+"53","11706","53061","0532.01","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",3918,0.029 
+"53","11706","53061","0532.02","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",4167,0.031 
+"53","11706","53061","0533.01","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",6273,0.046 
+"53","11706","53061","0533.02","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",5555,0.041 
+"53","11706","53061","0534.00","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",5528,0.041 
+"53","11706","53061","0535.04","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",6383,0.047 
+"53","11706","53061","0535.05","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",4988,0.037 
+"53","11706","53061","0535.06","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",5320,0.039 
+"53","11706","53061","0535.07","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",4726,0.035 
+"53","11706","53061","0535.08","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",3409,0.025 
+"53","11706","53061","0535.09","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",3909,0.029 
+"53","11706","53061","0537.00","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",3065,0.023 
+"53","11706","53061","9400.01","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",6462,0.048 
+"53","11706","53061","9400.02","WA","Snohomish WA","Snohomish County (North)--Marysville & Arlington Cities",4169,0.031 
+"53","11801","53035","0901.01","WA","Kitsap WA","Kitsap County (North)--Bainbridge Island City & Silverdale",5611,0.046 
+"53","11801","53035","0901.02","WA","Kitsap WA","Kitsap County (North)--Bainbridge Island City & Silverdale",5781,0.047 
+"53","11801","53035","0902.01","WA","Kitsap WA","Kitsap County (North)--Bainbridge Island City & Silverdale",4573,0.037 
+"53","11801","53035","0902.02","WA","Kitsap WA","Kitsap County (North)--Bainbridge Island City & Silverdale",5079,0.041 
+"53","11801","53035","0903.00","WA","Kitsap WA","Kitsap County (North)--Bainbridge Island City & Silverdale",6054,0.049 
+"53","11801","53035","0904.00","WA","Kitsap WA","Kitsap County (North)--Bainbridge Island City & Silverdale",4574,0.037 
+"53","11801","53035","0905.01","WA","Kitsap WA","Kitsap County (North)--Bainbridge Island City & Silverdale",3955,0.032 
+"53","11801","53035","0905.02","WA","Kitsap WA","Kitsap County (North)--Bainbridge Island City & Silverdale",4559,0.037 
+"53","11801","53035","0907.00","WA","Kitsap WA","Kitsap County (North)--Bainbridge Island City & Silverdale",5183,0.042 
+"53","11801","53035","0908.00","WA","Kitsap WA","Kitsap County (North)--Bainbridge Island City & Silverdale",4169,0.034 
+"53","11801","53035","0909.00","WA","Kitsap WA","Kitsap County (North)--Bainbridge Island City & Silverdale",7032,0.057 
+"53","11801","53035","0910.00","WA","Kitsap WA","Kitsap County (North)--Bainbridge Island City & Silverdale",6641,0.054 
+"53","11801","53035","0911.00","WA","Kitsap WA","Kitsap County (North)--Bainbridge Island City & Silverdale",4866,0.039 
+"53","11801","53035","0912.01","WA","Kitsap WA","Kitsap County (North)--Bainbridge Island City & Silverdale",3886,0.032 
+"53","11801","53035","0912.03","WA","Kitsap WA","Kitsap County (North)--Bainbridge Island City & Silverdale",7182,0.058 
+"53","11801","53035","0912.04","WA","Kitsap WA","Kitsap County (North)--Bainbridge Island City & Silverdale",3135,0.025 
+"53","11801","53035","0913.01","WA","Kitsap WA","Kitsap County (North)--Bainbridge Island City & Silverdale",4327,0.035 
+"53","11801","53035","0913.02","WA","Kitsap WA","Kitsap County (North)--Bainbridge Island City & Silverdale",5609,0.046 
+"53","11801","53035","0914.00","WA","Kitsap WA","Kitsap County (North)--Bainbridge Island City & Silverdale",3093,0.025 
+"53","11801","53035","0915.00","WA","Kitsap WA","Kitsap County (North)--Bainbridge Island City & Silverdale",3968,0.032 
+"53","11801","53035","0916.00","WA","Kitsap WA","Kitsap County (North)--Bainbridge Island City & Silverdale",6356,0.052 
+"53","11801","53035","0917.00","WA","Kitsap WA","Kitsap County (North)--Bainbridge Island City & Silverdale",7944,0.064 
+"53","11801","53035","9400.00","WA","Kitsap WA","Kitsap County (North)--Bainbridge Island City & Silverdale",3500,0.028 
+"53","11801","53035","9401.00","WA","Kitsap WA","Kitsap County (North)--Bainbridge Island City & Silverdale",6149,0.05 
+"53","11802","53035","0801.01","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",2417,0.019 
+"53","11802","53035","0801.02","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",4615,0.036 
+"53","11802","53035","0802.00","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",3511,0.027 
+"53","11802","53035","0803.00","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",3149,0.025 
+"53","11802","53035","0804.00","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",3361,0.026 
+"53","11802","53035","0805.00","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",2900,0.023 
+"53","11802","53035","0806.00","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",4921,0.038 
+"53","11802","53035","0807.00","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",3236,0.025 
+"53","11802","53035","0808.00","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",1921,0.015 
+"53","11802","53035","0809.00","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",4430,0.035 
+"53","11802","53035","0810.00","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",3652,0.029 
+"53","11802","53035","0811.00","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",2897,0.023 
+"53","11802","53035","0812.00","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",3017,0.024 
+"53","11802","53035","0814.00","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",3513,0.027 
+"53","11802","53035","0918.00","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",2944,0.023 
+"53","11802","53035","0919.00","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",4160,0.033 
+"53","11802","53035","0920.00","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",5683,0.044 
+"53","11802","53035","0921.00","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",6565,0.051 
+"53","11802","53035","0922.00","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",6804,0.053 
+"53","11802","53035","0923.00","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",6123,0.048 
+"53","11802","53035","0924.00","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",6029,0.047 
+"53","11802","53035","0925.00","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",5609,0.044 
+"53","11802","53035","0926.00","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",6035,0.047 
+"53","11802","53035","0927.01","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",4639,0.036 
+"53","11802","53035","0927.04","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",3215,0.025 
+"53","11802","53035","0928.01","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",4311,0.034 
+"53","11802","53035","0928.02","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",4395,0.034 
+"53","11802","53035","0928.03","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",2788,0.022 
+"53","11802","53035","0929.01","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",5645,0.044 
+"53","11802","53035","0929.02","WA","Kitsap WA","Kitsap County (South)--Bremerton & Port Orchard Cities",5422,0.042 
+"53","11900","53009","0002.00","WA","Clallam WA","Clallam & Jefferson Counties",1783,0.018 
+"53","11900","53009","0003.00","WA","Clallam WA","Clallam & Jefferson Counties",4695,0.046 
+"53","11900","53009","0004.00","WA","Clallam WA","Clallam & Jefferson Counties",1758,0.017 
+"53","11900","53009","0006.00","WA","Clallam WA","Clallam & Jefferson Counties",3370,0.033 
+"53","11900","53009","0007.00","WA","Clallam WA","Clallam & Jefferson Counties",3534,0.035 
+"53","11900","53009","0008.00","WA","Clallam WA","Clallam & Jefferson Counties",4181,0.041 
+"53","11900","53009","0009.00","WA","Clallam WA","Clallam & Jefferson Counties",2806,0.028 
+"53","11900","53009","0010.00","WA","Clallam WA","Clallam & Jefferson Counties",2477,0.024 
+"53","11900","53009","0011.00","WA","Clallam WA","Clallam & Jefferson Counties",2969,0.029 
+"53","11900","53009","0012.00","WA","Clallam WA","Clallam & Jefferson Counties",3771,0.037 
+"53","11900","53009","0013.00","WA","Clallam WA","Clallam & Jefferson Counties",3090,0.031 
+"53","11900","53009","0014.00","WA","Clallam WA","Clallam & Jefferson Counties",4510,0.045 
+"53","11900","53009","0015.00","WA","Clallam WA","Clallam & Jefferson Counties",2072,0.02 
+"53","11900","53009","0016.00","WA","Clallam WA","Clallam & Jefferson Counties",3164,0.031 
+"53","11900","53009","0017.00","WA","Clallam WA","Clallam & Jefferson Counties",4670,0.046 
+"53","11900","53009","0018.00","WA","Clallam WA","Clallam & Jefferson Counties",2739,0.027 
+"53","11900","53009","0019.00","WA","Clallam WA","Clallam & Jefferson Counties",5693,0.056 
+"53","11900","53009","0020.00","WA","Clallam WA","Clallam & Jefferson Counties",5202,0.051 
+"53","11900","53009","0021.00","WA","Clallam WA","Clallam & Jefferson Counties",3523,0.035 
+"53","11900","53009","0023.00","WA","Clallam WA","Clallam & Jefferson Counties",3983,0.039 
+"53","11900","53009","9400.00","WA","Clallam WA","Clallam & Jefferson Counties",1414,0.014 
+"53","11900","53031","9502.02","WA","Jefferson WA","Clallam & Jefferson Counties",1816,0.018 
+"53","11900","53031","9503.00","WA","Jefferson WA","Clallam & Jefferson Counties",6148,0.061 
+"53","11900","53031","9504.00","WA","Jefferson WA","Clallam & Jefferson Counties",3944,0.039 
+"53","11900","53031","9505.00","WA","Jefferson WA","Clallam & Jefferson Counties",6514,0.064 
+"53","11900","53031","9506.01","WA","Jefferson WA","Clallam & Jefferson Counties",6299,0.062 
+"53","11900","53031","9506.02","WA","Jefferson WA","Clallam & Jefferson Counties",3020,0.03 
+"53","11900","53031","9507.02","WA","Jefferson WA","Clallam & Jefferson Counties",2131,0.021 
