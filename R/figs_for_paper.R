@@ -513,24 +513,61 @@ impacts_with_chars <- tar_read(impacts_baseline_dhxgboost_alpha_wa732sto) %>%
   rename(hhkey = hhid) %>% 
   left_join(characteristics) %>% 
   mutate(income = tot_income/1000,
-         educ_cat = factor(educ_cat_hhldr, ordered = F),
-         age_cat = factor(age_cat_hhldr, ordered = F),
-         year_built = factor(year_built,
-                             levels = c("pre1940", "1940s", "1950s", "1960s",
-                                        "1970s", "1980s", "1990s", "early2000s",
-                                        "post2005", "rent"))
-  )
+       educ_cat = factor(educ_cat_hhldr, ordered = F),
+       age_cat = factor(age_cat_hhldr, ordered = F),
+       year_built = factor(year_built,
+                           levels = c("pre1940", "1940s", "1950s", "1960s",
+                                      "1970s", "1980s", "1990s", "early2000s",
+                                      "post2005", "rent")),
+       heating_fuel = factor(heating_fuel,
+                             levels = c("electricity", "natural gas", "fuel oil",
+                                        "bottled gas", "coal wood other"))
+       ) %>% 
+  uncount(final_weight)
 
 geoid_model <- feols(netGain ~ adults + children + spouse_present + 
-                       income + age_cat + educ_cat + num_in_labor_force +
-                       num_unemployed + food_stamp + num_vehicles + sf_detached +
-                       homeowner + num_rooms + year_built + heating_fuel | GEOID, 
+                     income + age_cat + educ_cat + num_in_labor_force +
+                     num_unemployed + food_stamp + num_vehicles + sf_detached +
+                     homeowner + num_rooms + year_built + heating_fuel | GEOID, 
                      data = impacts_with_chars)
 
-gtsummary::tbl_regression(geoid_model) %>% 
-  gtsummary::as_gt() %>% 
-  gt::gtsave(filename = "tables/regression_output.tex")
+overall_model <- feols(netGain ~ adults + children + spouse_present + 
+                       income + age_cat + educ_cat + num_in_labor_force +
+                       num_unemployed + food_stamp + num_vehicles + sf_detached +
+                       homeowner + num_rooms + year_built + heating_fuel,
+                       data = impacts_with_chars)
 
+cat_vars = c("age_cat", "educ_cat", "year_built", "heating_fuel")
+coeffs <- names(overall_model$coefficients)
+new_coeffs = setNames(str_replace_all(coeffs, 
+                                      c(setNames(rep(".... ", length(cat_vars)), 
+                                                         cat_vars),
+                                                income = "income ($1000)")), 
+                      coeffs)
+
+rows <- tibble(term = c("age category",".... 15-24", 
+                        "educ category", ".... no hs",
+                        "year built", ".... pre1940",
+                        "heating fuel", ".... electricity"),
+               `No Fixed Effects` = rep(c("","-"),4),
+               `SE1` = rep(c("","-"),4),
+               `Fixed Effects` = rep(c("","-"),4),
+               `SE2` = rep(c("","-"),4))
+
+attr(rows, "position") <- c(6,7, 16, 17, 28, 29, 38, 39)
+
+data <- modelsummary::modelsummary(list(`No Fixed Effects` = overall_model,
+                                        `With Fixed Effects` = geoid_model), 
+                                   shape = term ~ model + statistic,
+                                   coef_rename = new_coeffs,
+                                   add_rows = rows,
+                                   gof_map = c("nobs", "r.squared", 
+                                               `Tract FE` = "FE: GEOID"),
+                                   escape = T,
+                                   output = "latex") %>% 
+  write_no_table_envir("tables/regression_output.tex")
+
+## construct electricity price graphs for appendix ----
 download_data = !dir.exists("data-raw/form861")
 ## download (if needed) and process electricity price data
 if (download_data){
