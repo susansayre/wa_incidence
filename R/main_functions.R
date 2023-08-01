@@ -85,19 +85,19 @@ create_and_save_synthetic_households <- function(state, acs_type = "acs5", end_y
                     stop(str_c("raking_geogrpahy", raking_geogrpahy, " not recognized"))
   )
 
-  loc_alloc_file <- file.path("input-data/pums",
+  loc_alloc_file <- file.path("data/pums",
                               str_c("geocorr", geocorr_yr, "_",
                                     state, "_", raking_geography,
                                     "_to_cbsa.csv"))
 
-  cbsa_id_file <- file.path("input-data/pums/id_psu.csv")
+  cbsa_id_file <- file.path("data/pums/id_psu.csv")
 
-  target_to_puma_file <- file.path("input-data/pums",
+  target_to_puma_file <- file.path("data/pums",
                                    str_c("geocorr", geocorr_yr, "_",
                                          state, "_", raking_geography,
                                          "_to_puma.csv"))
 
-  puma_to_target_file <- file.path("input-data/pums",
+  puma_to_target_file <- file.path("data/pums",
                                    str_c("geocorr", geocorr_yr, "_",
                                          state, "_puma_to_", raking_geography,
                                          ".csv"))
@@ -106,7 +106,7 @@ create_and_save_synthetic_households <- function(state, acs_type = "acs5", end_y
   target_to_puma <- load_target_to_puma_wgt(state, raking_geocorr, target_to_puma_file)
   puma_to_target <- load_puma_to_target_wgt(state, raking_geocorr, puma_to_target_file)
 
-  load("input-data/census_regions.rdata")
+  load("data/census_regions.rdata")
   prediction_pums <- merge_pums_prediction_data(pums_hh_data, pums_pp_data, census_regions, state)
 
 

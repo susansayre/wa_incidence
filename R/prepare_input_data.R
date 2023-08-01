@@ -79,7 +79,7 @@ saveRDS(pp_data, "prepared-data/pums/pums_pp_wa2016.rds")
 
 hh_data <- data.table::fread(pums_hh_file, sep = ",",
                   stringsAsFactors = F, colClasses = "character", select = hh_vars) 
-saveRDS(pp_data, "prepared-data/pums/pums_hh_wa2016.rds")
+saveRDS(hh_data, "prepared-data/pums/pums_hh_wa2016.rds")
 
 ## create tract level electricity intensity ----
 boundaries <- tigris::tracts(state = "WA", cb = T, year = 2016) %>%
