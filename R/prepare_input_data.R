@@ -106,10 +106,17 @@ prices_by_utility <- read_csv(file.path("data","Sales_Ult_Cust_2018.csv")) %>%
   filter(State == "WA") %>%
   mutate(rev = as.numeric(gsub(",","",Revenues))) %>%
   mutate(sale = as.numeric(gsub(",","",Sales))) %>%
-  mutate(price_utility = rev/sale) %>%
-  select("Name2","price_utility")
+  mutate(price_utility = rev/sale) 
 
 summary(prices_by_utility)
+
+state <- prices_by_utility %>% 
+  mutate(sale = case_when(Part == "C" ~ 0,
+                          TRUE ~ sale)) %>% 
+  ungroup() %>% 
+  summarize(total_rev = sum(rev, na.rm = T),
+            total_sales = sum(sale, na.rm = T)) %>% 
+  mutate(price = total_rev/total_sales)
 
 # "To calculate a state or the US total, sum Parts (A,B,C & D) for Revenue, but only Parts (A,B & D) for Sales and Customers.
 # To avoid double counting of customers, the aggregated customer counts for the states and US do not include the customer count for respondents with ownership code 'Behind the Meter'.
@@ -128,22 +135,25 @@ fuelmix <- read_csv(file.path("data","fuelmix2016.csv")) %>%
 # Get carbon content by fuel using WA total CO2 for each fuel / WA total MWH for each fuel
 # total CO2 is in metric tons
 # output is in mwh
-Fuel <- c('Biogas','Biomass','Coal','Geothermal','Hydro','Natural Gas',
-          'Nuclear','Other Biogenic','Other Non-Biogenic',
-          'Petroleum','Solar','Waste','Wind')
 # Values from http://www.commerce.wa.gov/wp-content/uploads/2019/12/Energy-Fuel-Mix-Disclosure-2016-final.pdf
 #mwh from Table 1; co2 from Table 3
-mwh_2016 <- c(148177,675649,12799782,0,55697796,9937111,
-              4308647,48095,73976,
-              61888,3491,36723,3661267)
-
-co2_2016 <- c(0,0,12507204,0,0,4276427,
-              0,92695*48095/(48095+73976),92695*73976/(48095+73976),
-              60172,0,60930,0)
-
-fuel_emissions <- data.frame(Fuel,mwh_2016,co2_2016) %>% 
+# 
+fuel_emissions <- tribble(
+  ~Fuel,                ~mwh_2016, ~co2_2016,
+  'Biogas',               148177,     60930,
+  'Biomass',              675649,         0,
+  'Coal',               12799782,  12507204,
+  'Geothermal',                0,         0,
+  'Hydro',              55697796,         0,
+  'Natural Gas',         9937111,   4276427, 
+  'Nuclear',             4308647,         0,
+  'Other Biogenic',        48095,  92695*48095/(48095+73976),
+  'Other Non-Biogenic',    73976,  92695*73976/(48095+73976),
+  'Petroleum',             61888,     60172,
+  'Solar',                  3491,         0,
+  'Waste',                 36723,     99237,
+  'Wind',                3661267,         0) %>% 
   mutate(co2_per_mwh = co2_2016/mwh_2016)
-rm(Fuel,mwh_2016,co2_2016)
 
 fuelmix <- left_join(x=fuelmix,y=fuel_emissions,by="Fuel") %>% 
   mutate(co2_per_mwh = replace_na(co2_per_mwh,0)) %>%
@@ -181,21 +191,21 @@ joined_public <- st_join(boundaries,u_public) %>%
   group_by(STATEFP,COUNTYFP,TRACTCE,GEOID) %>%
   #  st_drop_geometry() %>%
   drop_na(co2_content) %>%
-  mutate(price_utility = replace_na(price_utility,0.0952))
+  mutate(price_utility = replace_na(price_utility,state$price))
 
 joined_investor <- st_join(boundaries,u_investor) %>%
   select(STATEFP,COUNTYFP,TRACTCE,GEOID,co2_content,type,price_utility) %>%
   group_by(STATEFP,COUNTYFP,TRACTCE,GEOID) %>%
   #  st_drop_geometry() %>%
   drop_na(co2_content) %>%
-  mutate(price_utility = replace_na(price_utility,0.0952))
+  mutate(price_utility = replace_na(price_utility,state$price))
 
 joined_tribal <- st_join(boundaries,u_tribal) %>%
   select(STATEFP,COUNTYFP,TRACTCE,GEOID,co2_content,type,price_utility) %>%
   group_by(STATEFP,COUNTYFP,TRACTCE,GEOID) %>%
   #  st_drop_geometry() %>%
   drop_na(co2_content) %>%
-  mutate(price_utility = replace_na(price_utility,0.0952))
+  mutate(price_utility = replace_na(price_utility,state$price))
 
 # Summary of co2_content for each type
 summary(joined_public$co2_content)
@@ -243,6 +253,6 @@ summary(detailed)
 write_csv(detailed, file.path("prepared-data", "electric_info_tract.csv"))
 
 st_avg <- detailed %>% 
-  mutate(carbon_content = 17096666/87452602, #totals from tables 1 and 3
-         price = 95.2)  %>% #probably manually created from old data)
+  mutate(carbon_content = sum(fuel_emissions$co2_2016)/sum(fuel_emissions$mwh_2016), 
+         price = state$price*1000)  %>% 
   write_csv(file.path("prepared-data", "electric_info_stavg.csv"))
