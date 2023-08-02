@@ -3,7 +3,7 @@
 ## Dependencies
 WARNING: Upon downloading the archive and opening the included .Rproj file, the R package `renv` will attempt to install itself if it has not already been installed on the computer. To disable this behavior, delete the included .Rprofile file before opening the .Rproj file.
 
-The R packages used in the analysis and the versions used are listed in the `renv.lock` file. These packages can all be installed by running `renv::restore()`
+The R packages used in the analysis and the versions used are listed in the `renv.lock` file. These packages can all be installed by running `renv::restore()`. Note that `renv` creates a project specific package library, so packages previously installed on the computer will not work in this project without being explicitly installed here.
 
 The tidycensus R package requires users to request a census api key and store it in their .Renviron file. Follow the directions from the tidycensus package [here](https://walker-data.com/tidycensus/articles/basic-usage.html) to accomplish this. You should only need to do this once.
 
@@ -15,11 +15,11 @@ The _targets.R file in the root constructs the pipelines. The file calls `R/targ
 The main functions used in the analysis are included in the individual R scripts in the R/ subfolder. Many of these functions are designed to be generic for similar types of analysis and are drawn from the `carbonsms` package developed by Susan Sayre and available upon request. For simplicity in replication, all functions are included here separately.
 
 ## Downloading and preparing input data
-The analysis relies on several large publicly available datasets. The utility script `R/prepare_input_data.R` is used to help construct input files for the main analysis from these files. Before running this script, users should download the following files and place them in the described locations. Once the files have been downloaded, run `source("R/prepare_input_data.R")`. This will create a subfolder called `prepared-data` that will be used in the actual analysis.
+The analysis relies on several large publicly available datasets. The utility script `R/prepare_input_data.R` is used to help construct input files for the main analysis from these files. Before running this script, users should download the following files and place them in the described locations. Users will need to create the subfolders described below. Once the files have been downloaded, run `source("R/prepare_input_data.R")`. This will create a subfolder called `prepared-data` that will be used in the actual analysis.
 
 Additional files will be downloaded to this folder in the process of creating the figures.
 
-Download the following files from the CEX and place them in data-raw/cex
+Download the following files from the CEX and place them in data-raw/cex using the default file names.
 https://www.bls.gov/cex/pumd/data/comma/intrvw12.zip
 https://www.bls.gov/cex/pumd/data/comma/intrvw13.zip
 https://www.bls.gov/cex/pumd/data/comma/intrvw14.zip
@@ -34,7 +34,7 @@ https://www.bls.gov/cex/pumd/2015/csxintstub.txt
 https://www.bls.gov/cex/pumd/2016/csxintstub.txt
 https://www.bls.gov/cex/pumd/2017/csxintstub.txt
 
-Download the following files from the PUMS and place them in data-raw/pums/2016-5-year
+Download the following files from the PUMS and place them in data-raw/pums/2016-5-year and then unzip them.
 https://www2.census.gov/programs-surveys/acs/data/pums/2016/5-Year/csv_hwa.zip
 https://www2.census.gov/programs-surveys/acs/data/pums/2016/5-Year/csv_pwa.zip
 
