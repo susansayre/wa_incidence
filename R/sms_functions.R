@@ -14,6 +14,7 @@ merge_pums_prediction_data <- function(hh_prediction, people_prediction, census_
     replace_na(list(NOC ~ 0,
                     WIF ~ 0)) %>%
     mutate(people = as.numeric(NP), #top-coded at 20
+           children = as.numeric(NOC),
            adjinc = as.numeric(ADJINC)*.000001,
            adjhsg = as.numeric(ADJHSG)*.000001,
            tenure = as.factor(case_when(TEN %in% c("1","2") ~ "own",
@@ -112,7 +113,6 @@ merge_pums_prediction_data <- function(hh_prediction, people_prediction, census_
            adults18_44 = age >= 18 & age <= 44,
            adults45_64 = age >= 45 & age <= 64,
            adults64plus = age > 64,
-           children = age <= 17,
            children_6 = age < 6,
            children6_12 = age >= 6 & age <= 12,
            children13_17 = age >= 13 & age <= 17,
