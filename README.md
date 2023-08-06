@@ -49,7 +49,7 @@ https://data-bpagis.hub.arcgis.com/maps/bpa-customeriou
 ## Other data
 In addition to the files described above, the analysis relies on other input files included in the replication archive subfolder `data/`. These files are documented in [data/README.md](data/README.md).
 
-## Runing the pipeline
+## Running the pipeline
 Once the package is installed and the main data has been downloaded/prepared, the user can run the analysis with the command `targets::tar_make()`. The first time through is time intensive and the resulting `_targets` folder is fairly large.
 
 When running the pipeline, xgboost will issue warnings about loading serialized versions of the model. Best practice is now to save xgboost models using xgb.save but this is not easily accomplished using the `caret` package. For the purposes of this paper, the current method works but users adapting this code later may want to explore better methods of saving the files and later versions of xgboost may not be able to use the previously fitted models.

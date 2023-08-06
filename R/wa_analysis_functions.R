@@ -41,6 +41,31 @@ map_median <- function(case_name, case_id, dir, boundaries){
   
   return(median_map)}
 
+map_median_bw <- function(case_name, case_id, dir, boundaries){
+  median_impact <- tar_read_raw(str_c("median_impact_", case_name)) %>%
+    select(GEOID, median_impact)
+  
+  map_data <- tracts %>%
+    left_join(median_impact)
+  
+  median_map_bw <- tm_shape(map_data) + 
+    tm_fill(col = "median_impact",
+            palette = "Greys",
+            colorNA = "white",
+            midpoint = 0,
+            title = "Median Impact ($)",
+            legend.hist = T) +
+    tm_shape(pumas) + tm_borders() +
+    tm_layout(legend.outside = T,
+              frame = F)
+  
+  tmap_save(median_map_bw, 
+            file.path(dir, str_c("median_impact_map_", case_id, "_bw.png")),
+            width = 6,
+            height = 3.5)
+  
+  return(median_map_bw)}
+
 #' get density info
 get_density_info <- function(state, year, geography){
   density_info <- tidycensus::get_acs(geography = geography,
@@ -95,6 +120,30 @@ compare_dist_pl <- function(full_data, cases, fig_dir){
   ggsave(here::here(fig_dir, str_c("compare_dist_pl_",
                                    str_c(cases, collapse = "_"), 
                                    ".png")), 
+         height = 7, width = 6)
+}
+
+compare_dist_pl_bw <- function(full_data, cases, fig_dir){
+  
+  full_data %>%
+    mutate(pl_label = str_c("Ratio of income to poverty level in range ", pl_ratio_group)) %>% 
+    filter(case_number %in% cases) %>% 
+    ggplot(aes(x = netGain, linetype = case_name)) +
+    geom_density(position = "identity",
+                 key_glyph = draw_key_path) +
+    theme_bw() +
+    ylab("Kernel Density") +
+    xlab("Net gain (loss) from policy ($/hh/year)") +
+    geom_vline(xintercept = 0) +
+#    scale_color_brewer(palette = "Greys") +
+    scale_y_continuous(labels = scales::percent) +
+    theme(legend.position = "right") +
+    labs(color = "Policy", linetype = "Policy") +
+    facet_wrap("pl_label", ncol = 1)
+  
+  ggsave(here::here(fig_dir, str_c("compare_dist_pl_",
+                                   str_c(cases, collapse = "_"), 
+                                   "_bw.png")), 
          height = 7, width = 6)
 }
 
