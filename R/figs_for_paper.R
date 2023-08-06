@@ -758,7 +758,8 @@ data <- modelsummary::modelsummary(list(`No Fixed Effects` = overall_model,
 
 ## construct electricity price graphs for appendix ----
 download_data = !dir.exists("data-raw/form861")
-## download (if needed) and process electricity price data
+## download (if needed) and process electricity price data from EIA Form 861
+## The script is designed to batch process the downloads since we need one for each year. If this code fails due to changes in how EIA stores its data, users should be able to download the EIA Form 861 archrives for the years 1990 to 2021 manually and unzip them.
 if (download_data){
   dir.create("data-raw/form861")
   for(year in 1990:2021){
