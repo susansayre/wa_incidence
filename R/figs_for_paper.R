@@ -9,6 +9,7 @@ library(grid)
 library(gridExtra)
 library(lvplot)
 library(fixest)
+library(modelsummary)
 source("R/main_functions.R")
 source("R/cex_functions.R")
 source("R/fit_functions.R")
@@ -484,7 +485,7 @@ ggplot(compare_elasticity, aes(x = ctam_elasticity, y = zero_elasticity)) +
 
 ggsave(file.path(fig_dir, "impact_of_elasticity_preferred.png"), width = 6, height = 6)
 
-## add new figs for revision
+## assess impact of household characteristics on impacts ----
 impacts <- tar_read(impacts_baseline_dhxgboost_alpha)
 combined_data <- tar_read(scaled_consumption_baseline_dhxgboost_alpha) %>% 
   filter(product == "totexp") %>% 
@@ -567,10 +568,75 @@ data <- modelsummary::modelsummary(list(`No Fixed Effects` = overall_model,
                                    output = "latex") %>% 
   write_no_table_envir("tables/regression_output.tex")
 
+add_density <- impacts_with_chars %>% 
+  left_join(pop_density) %>% 
+  select(density_group, adults, children, spouse_present, 
+           income, age_cat, educ_cat, num_in_labor_force,
+           num_unemployed, food_stamp, num_vehicles, sf_detached,
+           homeowner, num_rooms, year_built, heating_fuel)
+
+continuous <- modelsummary::datasummary(income + adults + children + num_rooms +
+                            num_vehicles + spouse_present + num_in_labor_force + 
+                            num_unemployed + food_stamp + sf_detached +
+                            homeowner ~ density_group*mean,
+                          data = add_density,
+                          output = "data.frame")
+
+colnames(continuous)[1] <- "variable"
+
+continuous_full <- as_tibble(continuous) %>% 
+  mutate(cat = "",
+         variable = str_replace(variable, "income", "income (\\\\$1000)")) %>% 
+  dplyr::select(variable, cat, everything()) %>% 
+  unite(numbers, 
+        `Density quintile 1 (least dense)`:`Density quintile 5 (most dense)`, 
+        sep = "} & \\num{") %>% 
+  mutate(string = str_c("\\multicolumn{2}{l}{", 
+                        str_replace_all(variable, "_", "\\\\_"), 
+                        "} & \\num{", 
+                        numbers, "} \\\\"))
+
+factor <- modelsummary::datasummary(heating_fuel + year_built + age_cat + 
+                                      educ_cat ~ density_group*Percent("col"),
+                                    data = add_density,
+                                    output = "data.frame")
+colnames(factor)[1] <- "variable"
+colnames(factor)[2] <- "category"
+
+factor_string <- as_tibble(factor) %>% 
+  unite(numbers, 
+        `Density quintile 1 (least dense)`:`Density quintile 5 (most dense)`, 
+        sep = "} & \\num{") %>% 
+  mutate(string = str_c(str_replace_all(variable, "_", "\\\\_"),
+                        " & ",
+                        str_replace_all(category, "_", "\\\\_"),
+                        " & \\num{",
+                        numbers,
+                        "} \\\\"))
+
+table_lines <- c(
+  "\\begin{tabular}[t]{llrrrrr}",
+  "\\toprule",
+  "& & \\multicolumn{1}{c}{Density} & \\multicolumn{1}{c}{Density} & \\multicolumn{1}{c}{Density} & \\multicolumn{1}{c}{Density} & \\multicolumn{1}{c}{Density} \\\\",
+  "& & \\multicolumn{1}{c}{quintile 1} & \\multicolumn{1}{c}{quintile 2} & \\multicolumn{1}{c}{quintile 3} & \\multicolumn{1}{c}{quintile 4} & \\multicolumn{1}{c}{quintile 5} \\\\",
+  "\\midrule",
+  "\\multicolumn{7}{l}{Mean of continuous and dichotomous variables} \\\\",
+  "\\midrule",
+  continuous_full$string,
+  "\\midrule",
+  "\\multicolumn{7}{c}{Percent of density quintile households in each category} \\\\",
+  "\\midrule",
+  factor_string$string,
+  "\\bottomrule",
+  "\\end{tabular}"
+)
+
+write_lines(table_lines, "tables/chars_by_density.tex")
+
 ## construct electricity price graphs for appendix ----
 download_data = !dir.exists("data-raw/form861")
 ## download (if needed) and process electricity price data from EIA Form 861
-## The script is designed to batch process the downloads since we need one for each year. If this code fails due to changes in how EIA stores its data, users should be able to download the EIA Form 861 archrives for the years 1990 to 2021 manually and unzip them.
+## The script is designed to batch process the download,s since we need one for each year. If this code fails due to changes in how EIA stores its data, users should be able to download the EIA Form 861 archrives for the years 1990 to 2021 manually and unzip them.
 if (download_data){
   dir.create("data-raw/form861")
   for(year in 1990:2021){
