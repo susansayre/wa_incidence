@@ -41,6 +41,7 @@ case_id = "preferred"
 
 ## Construct graphs and maps of main case ----
 median_map <- map_median(case_name, case_id, fig_dir, tracts)
+median_map_bw <- map_median_bw(case_name, case_id, fig_dir, tracts)
 
 ## Box plots of impact by poverty level group
 impacts <- tar_read_raw(str_c("impacts_", case_name)) %>% 
@@ -135,6 +136,31 @@ ggplot(plot_data, aes(x, y)) +
   
 ggsave(str_c(fig_dir, "/density_deciles_", case_id, ".png"),
        width = 6, height = 3.5)
+ggplot(plot_data, aes(x, y)) + 
+  geom_ribbon(aes(ymin = 0, ymax = y, fill = decile, group = quant)) +
+  geom_line(data = median_plot_data, linewidth = .75) +
+  scale_fill_discrete(type = c("grey0", "grey20", "grey40", "grey60", "grey80"),
+                      name = "Decile of \nhousehold impacts") +
+  scale_y_continuous(labels = scales::label_percent()) +
+  theme_minimal() +
+  ylab("Kernel Density") +
+  xlab("Household Net Impact ($)") +
+  annotate("text", x = -400, y = .005, 
+           size = 3,
+           label = "census tract\nmedian distribution") +
+  annotate("segment", x = -400, xend = -50, y = .0045, yend = .0035, 
+           arrow = arrow(length = unit(0.02, "npc"))) +
+  annotate("text", x = 750, y = .002, 
+           size = 3, 
+           label = "household impact\ndistribution") +
+  annotate("segment", x = 750, xend = 500, y = .0015, yend = .0001, 
+           arrow = arrow(length = unit(0.02, "npc"))) +
+  theme(legend.position = c(.85,.7),
+        plot.background = element_rect(fill = "white",
+                                       linetype = "blank"))
+
+ggsave(str_c(fig_dir, "/density_deciles_", case_id, "_bw.png"),
+       width = 6, height = 3.5)
 
 ## tract level middle distribution ----
 deciles <- impacts %>% 
@@ -175,6 +201,27 @@ bar_size %>% filter(colorwgt <=.25) %>%
   coord_cartesian(expand = F)
 
 ggsave(file.path(fig_dir, str_c("middle_distribution_", case_id, ".png")),
+       width = 6,
+       height = 7)
+
+bar_size %>% filter(colorwgt <=.25) %>%
+  ggplot(aes(x = num, ymin = ymin, ymax = impact)) +
+  geom_linerange(aes(color = as.factor(colorwgt))) +
+  geom_line(data = filter(bar_size, percentile == .5),
+            aes(num, impact), color = "white") +
+  scale_color_manual(values = c("grey0", "grey20", "grey40", "grey60", "grey80"),
+                     breaks = c("0.4", "0.3","0.2","0.1","0"),
+                     labels = c("1st, 10th", "2nd,9th", "3rd, 8th", "4th, 7th", "5th, 6th"),
+                     name = "Decile",
+                     guide = guide_legend(override.aes = list(size = 5),
+                                          direction = "horizontal")) +
+  theme_bw() +
+  ylab("Household impact range") +
+  xlab("Median household impact rank of census tract") +
+  theme(legend.position = "bottom") +
+  coord_cartesian(expand = F)
+
+ggsave(file.path(fig_dir, str_c("middle_distribution_", case_id, "_bw.png")),
        width = 6,
        height = 7)
 
@@ -233,6 +280,22 @@ bar_size %>% filter(colorwgt <=.25) %>%
 ggsave(file.path(fig_dir, str_c("middle_distribution_by_PUMA_", case_id, ".png")),
        width = 6, height = 7)
 
+bar_size %>% filter(colorwgt <=.25) %>%
+  ggplot(aes(x = num, ymin = ymin, ymax = impact)) + 
+  geom_linerange(aes(color = as.factor(colorwgt))) + 
+  geom_line(data = filter(bar_size, percentile == .5), aes(num, impact), color = "white") + 
+  scale_color_manual(values = c("grey0", "grey20", "grey40", "grey60", "grey80"),
+                     breaks = c("0.4", "0.3","0.2","0.1","0"),
+                     labels = c("1st, 10th", "2nd,9th", "3rd, 8th", "4th, 7th", "5th, 6th"),
+                     name = "Decile") +
+  theme_bw() +
+  ylab("Household impact range") +
+  xlab("Median household impact rank of census tract") +
+  coord_cartesian(expand = F)
+
+ggsave(file.path(fig_dir, str_c("middle_distribution_by_PUMA_", case_id, "_bw.png")),
+       width = 6, height = 7)
+
 ## case comparison plots ----
 comparisons <- tribble(
   ~result_tag,        ~case_name,
@@ -267,6 +330,9 @@ plot_data <- comparison_data %>%
 compare_dist_pl(plot_data, c(1,4), fig_dir)
 compare_dist_pl(plot_data, c(1,2,3), fig_dir)
 
+compare_dist_pl_bw(plot_data, c(1,4), fig_dir)
+compare_dist_pl_bw(plot_data, c(1,2,3), fig_dir)
+
 plot_data %>% 
   mutate(density_label = str_replace(density_group, "Density quintile ", "")) %>% 
   ggplot(aes(x = fct_rev(density_label), y = netGain, fill = after_stat(LV))) + 
@@ -286,6 +352,24 @@ plot_data %>%
 ggsave(here::here(fig_dir, "lv_plots_density_by_policy.png"), width = 6, height = 6)
 
 plot_data %>% 
+  mutate(density_label = str_replace(density_group, "Density quintile ", "")) %>% 
+  ggplot(aes(x = fct_rev(density_label), y = netGain, fill = after_stat(LV))) + 
+  geom_hline(yintercept = 0) +
+  geom_lv(k = 4, width.method = "height", outlier.shape = NA, outlier.size = .5) + 
+  scale_fill_brewer(palette = "Greys", direction = -1,
+                    labels = c("Median", "IQR", "12.5-25%, 75-87.5%", 
+                               "6.25-12.5%, 87.5-93.75%"),
+                    name = "") + 
+  theme_bw() + 
+  xlab("Density quintile of census tract") + 
+  ylab("Net gain (loss) from policy ($/hh/yr)") +
+  theme(axis.text.x = element_text(size = 8)) +
+  coord_flip(ylim = c(-200,600), expand = F) +
+  facet_wrap("case_name", ncol = 1)
+
+ggsave(here::here(fig_dir, "lv_plots_density_by_policy_bw.png"), width = 6, height = 6)
+
+plot_data %>% 
   ggplot(aes(y = pctGain, x = fct_rev(pl_ratio_group), fill = after_stat(LV))) +
   geom_lv(k = 4, width.method = "height", 
           outlier.shape = NA, outlier.size = .5) + 
@@ -300,6 +384,22 @@ plot_data %>%
   facet_wrap("case_name", ncol = 1)
 
 ggsave(here::here(fig_dir, "lv_plots_pct_pl.png"), width = 6, height = 6)
+
+plot_data %>% 
+  ggplot(aes(y = pctGain, x = fct_rev(pl_ratio_group), fill = after_stat(LV))) +
+  geom_lv(k = 4, width.method = "height", 
+          outlier.shape = NA, outlier.size = .5) + 
+  scale_fill_brewer(palette = "Greys", direction = -1,
+                    labels = c("Median", "IQR", "12.5-25%, 75-87.5%", 
+                               "6.25-12.5%, 87.5-93.75%"),
+                    name = "") +
+  theme_bw() + 
+  xlab("Ratio of income to poverty level") +
+  ylab("Percent gain (loss) from policy") +
+  coord_flip(ylim = c(-.025,.025), expand = F) + 
+  facet_wrap("case_name", ncol = 1)
+
+ggsave(here::here(fig_dir, "lv_plots_pct_pl_bw.png"), width = 6, height = 6)
 
 plot_data %>% 
   filter(case_number == "1") %>% 
@@ -318,6 +418,24 @@ plot_data %>%
   coord_flip(ylim = c(0,0.02), expand = F)
 
 ggsave(here::here(fig_dir, "lv_plots_tax_pct_pl.png"), width = 6, height = 3.5)
+
+plot_data %>% 
+  filter(case_number == "1") %>% 
+  mutate(pct_tax = case_when(pl_ratio < 1 ~ tax_payment/poverty_level,
+                             TRUE ~ tax_payment/tot_income)) %>% 
+  ggplot(aes(y = pct_tax, x = fct_rev(pl_ratio_group), fill = after_stat(LV))) +
+  geom_lv(k = 4, width.method = "height", 
+          outlier.shape = NA, outlier.size = .5) + 
+  scale_fill_brewer(palette = "Greys", direction = -1,
+                    labels = c("Median", "IQR", "12.5-25%, 75-87.5%", 
+                               "6.25-12.5%, 87.5-93.75%"),
+                    name = "") +
+  theme_bw() + 
+  xlab("Ratio of income to poverty level") +
+  ylab("Tax payment as a percentage of income") +
+  coord_flip(ylim = c(0,0.02), expand = F)
+
+ggsave(here::here(fig_dir, "lv_plots_tax_pct_pl_bw.png"), width = 6, height = 3.5)
 
 ## construct lir eligibility table ----
 impacts_lir <- tar_read(impacts_baseline_dhxgboost_alpha_wa732lir)
@@ -367,6 +485,18 @@ ggplot(data = co2_data) +
 ggsave(file.path(fig_dir, "map_co2.png"),
        width = 6)
 
+ggplot(data = co2_data) +
+  geom_sf(aes(geometry = geometry, fill = carbon_content), color = NA) +
+  scale_fill_gradientn(colours = grey(seq(0,1,l=20)), trans = "sqrt", name = "Carbon content\n(kg/kWh)")
+  theme(axis.text.x = element_blank(),
+        axis.text.y = element_blank(),
+        axis.ticks = element_blank(),
+        panel.grid = element_blank(),
+        panel.background = element_rect(fill = "white"))
+
+ggsave(file.path(fig_dir, "map_co2_bw.png"),
+       width = 6)
+
 #compare electric cases ----
 hh_impacts_detailed <- tar_read(impacts_baseline_dhxgboost_alpha) %>% 
   select(GEOID, hhid, detailed_impact = netGain, final_weight)
@@ -397,6 +527,22 @@ error_map <- tracts %>%
 tmap_save(error_map, file.path(fig_dir, "electricity_error_preferred.png"),
           width = 6)
 
+error_map_bw <- tracts %>% 
+  left_join(hh_impact_by_tract) %>% 
+  tm_shape() +
+  tm_fill(col = "median_error",
+          palette = "Greys", 
+          colorNA = "white",
+          midpoint = 0,
+          title = "Difference in estimated gain ($)",
+          legend.hist = T) +
+  tm_layout(legend.outside = T,
+            frame = F) +
+  tm_shape(pumas) + tm_borders()
+
+tmap_save(error_map_bw, file.path(fig_dir, "electricity_error_preferred_bw.png"),
+          width = 6)
+
 ## AI to IOTA baseline ----
 plot_ai_vs_iota("baseline_dhxgboost_alpha", "preferred")
 
@@ -422,6 +568,18 @@ ggsave(file.path(fig_dir, "discrete_match_combined.png"),
        width = 6,
        height = 4)
 
+ggplot(combined_discrete_summaries, aes(y = name, x = share_matched, fill = rake_case)) +
+  geom_col(position = position_dodge2(reverse = T)) +
+  theme_bw() +
+  scale_fill_grey(start = 0.6, end = 0) +  
+  scale_x_continuous(expand = c(0,0), limits = c(0,1)) +
+  xlab("Share of tracts where medians match") +
+  ylab("")
+
+ggsave(file.path(fig_dir, "discrete_match_combined_bw.png"),
+       width = 6,
+       height = 4)
+
 ## continuous
 combined_continuous_summaries <- summarize_continuous_var_comparisons(compare_alpha) %>% 
   mutate(rake_case = "preferred SMS sample") %>%
@@ -442,7 +600,22 @@ ggplot(combined_continuous_summaries,
   
   ggsave(file.path(fig_dir, "continuous_char_match_combined.png"),
          width = 6, height = 4)
+
+  ggplot(combined_continuous_summaries,
+         aes(x = scaled_diff_sd,
+             y = name,
+             color = rake_case)) +
+    geom_boxplot(position = position_dodge2(reverse = T), alpha = .25) +
+    theme_bw() +
+    xlab("Standard deviations of ACS average") +
+    ylab("") +
+    scale_color_grey(start = 0.6, end = 0) +  
+    ggtitle("Difference in tract average") +
+    labs(subtitle = "Synthetic - ACS")
   
+  ggsave(file.path(fig_dir, "continuous_char_match_combined_bw.png"),
+         width = 6, height = 4)
+    
 ## replace1 comparisons ----
 combined_replace1_comparison <- construct_replace1_comparisons("baseline", 
                                                                "dhxgboost", 
@@ -466,9 +639,25 @@ combined_replace1_comparison %>%
 ggsave(file.path(fig_dir, "replace1_boxplot_combined.png"),
        width = 6, height = 4)
 
+combined_replace1_comparison %>%
+  ggplot(aes(x = delta,
+             y = swap_var,
+             color = rake_case)) +
+  geom_boxplot(size = .25,
+               position = position_dodge2(reverse = T),
+               alpha = .25) +
+  theme_bw() +
+  scale_color_grey(start = 0.6, end = 0) +
+  xlab("ACS impact - Replace one impact") +
+  ylab("Replaced variable")
+
+ggsave(file.path(fig_dir, "replace1_boxplot_combined_bw.png"),
+       width = 6, height = 4)
+
 ## compare to zero elasticity case ----
 
 median_map <- map_median("baseline_dhxgboost_alpha_ctam", "ctam_elasticity", fig_dir, tracts)
+median_map_bw <- map_median_bw("baseline_dhxgboost_alpha_ctam", "ctam_elasticity", fig_dir, tracts)
 
 compare_elasticity <- tar_read(median_impact_baseline_dhxgboost_alpha) %>% 
   select(GEOID, zero_elasticity = median_impact) %>% 

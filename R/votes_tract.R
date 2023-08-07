@@ -163,6 +163,22 @@ ggplot(tract_summaries, aes(median_pa_gain, perc_tract_yes)) +
 
 ggsave("figures/votes_v_impact.png", width = 6, height = 4)
 
+ggplot(tract_summaries, aes(median_pa_gain, perc_tract_yes)) + 
+  theme_bw() +
+  geom_point(aes(color = tract_type,
+                 fill = tract_type),
+             alpha = .5) + 
+  geom_smooth(method = "lm", 
+              aes(color = tract_type),
+              se = F) +
+  scale_color_manual(values = rev(c("grey0", "grey15", "grey30", "grey45", "grey60")),
+                     name = "Tract category") + 
+  ylab("Share voting yes on I-732") + 
+  xlab("Median adult incidence in tract ($/adult/yr)") +
+  guides(color = "legend", fill = "none")
+
+ggsave("figures/votes_v_impact_bw.png", width = 6, height = 4)
+
 coef_names <- c("(Intercept)" = "Intercept",
                "median_pa_gain" = "Median per adult gain",
                "p90_delta" = "90th - median",
