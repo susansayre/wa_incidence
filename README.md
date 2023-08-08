@@ -38,9 +38,9 @@ Download the following files from the PUMS and place them in data-raw/pums/2016-
 https://www2.census.gov/programs-surveys/acs/data/pums/2016/5-Year/csv_hwa.zip
 https://www2.census.gov/programs-surveys/acs/data/pums/2016/5-Year/csv_pwa.zip
 
-Download the following files from the Bonneville Power Administration and place them in the indicated subfolders
+Download the shapefiles from the Bonneville Power Administration at the following links and place them in the indicated subfolders
 data-raw/shapefiles/utilities_public 
-https://data-bpagis.hub.arcgis.com/maps/bpa-customerpublic
+https://data-bpagis.hub.arcgis.com/maps/bpa-customerpublics
 data-raw/shapefiles/utilities_tribal
 https://data-bpagis.hub.arcgis.com/maps/bpa-customertribal
 data-raw/shapefiles/utilities_investor
@@ -70,4 +70,4 @@ The `_targets/objects` folder contains a list of target names that were stored b
 - To refit the models, set `reuse = F` in the call to `fit_factory` near the beginning of the `_targets.R` file.
 - To reconstruct the synthetic datasets, set `use_existing = F` in the calls to `rake_factory()` in the `_targets.R` file.
 
-Calling `targets::tar_make()` after making either of these changes so will refit all of the machine learning models and/or re-construct the synthetic household sample. It will then reconstruct any targets that depend on the changed files. Manually re-run `source("R/figs_for_paper.R")` and `source("R/votes_tract.R")` to reconstruct the figures/tables with the new results.
+Calling `targets::tar_make()` after making any of these changes will refit all of the machine learning models and/or re-construct the synthetic household sample(s). It will then reconstruct any targets that depend on the changed files. Manually re-run `source("R/figs_for_paper.R")` and `source("R/votes_tract.R")` to reconstruct the figures/tables with the new results.
